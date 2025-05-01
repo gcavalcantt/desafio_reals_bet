@@ -1,0 +1,999 @@
+cod_cliente,nome_completo,email,tipo_cliente,data_inclusao,cpfcnpj,endereco,cep,uf,tempo_como_cliente,idade
+28,Sabrina Dias,moreiraemanuelly@example.org,Pessoa Física,2017-04-03 16:11:00,357.081.496-39,Praia de Duarte Vila Piratininga 81327-166 Fernandes das Pedras / SP,95140-704,São Paulo,98.33333333333333,18.0
+674,Luiz Felipe Dias,pedroferreira@example.org,Pessoa Física,2021-02-10 13:27:00,085.196.374-93,"Avenida da Rosa, 654 João Paulo Ii 20295449 Nunes / AP",76516-765,Amapá,51.36666666666667,29.0
+693,Renan Dias,ogomes@example.net,Pessoa Física,2020-01-21 13:12:00,783.416.059-10,Jardim de Rodrigues Ipiranga 14161-477 Duarte da Praia / RN,51779625,Rio Grande do Norte,64.23333333333333,
+743,Clara Dias,rafaelcorreia@example.org,Pessoa Física,2019-05-06 11:39:00,589.237.610-95,"Colônia Thomas Silva, 9 Tupi B 15771-946 Fernandes / SP",19615792,São Paulo,72.9,
+769,André Dias,danilo33@example.org,Pessoa Física,2017-01-07 14:53:00,459.608.721-02,"Rua Correia, 889 Diamante 59123250 Aragão / RS",1672838,Rio Grande do Sul,101.2,
+824,Heloísa Dias,alanadias@example.org,Pessoa Física,2016-01-07 12:26:00,536.981.240-33,"Favela de da Mata, 3 Conjunto Novo Dom Bosco 77145256 Vieira / MS",07814-131,Mato Grosso do Sul,113.4,57.0
+884,Maria Julia Dias,alvesmariana@example.net,Pessoa Física,2017-08-06 11:01:00,150.438.926-33,"Esplanada Maria Luiza Ribeiro, 4 Conjunto Califórnia Ii 13748392 Moraes / ES",90221-380,Espírito Santo,94.16666666666667,74.0
+899,Arthur Dias,castropedro-lucas@example.net,Pessoa Física,2021-10-17 13:00:00,509.481.762-02,"Ladeira Elisa da Rocha, 69 João Pinheiro 13964-513 Araújo da Prata / PB",44875-244,Paraíba,43.06666666666667,
+908,Vitor Gabriel Dias,acardoso@example.com,Pessoa Física,2021-04-02 10:22:00,158.406.379-39,"Passarela Lucca Castro, 73 Vila Paris 99268696 Farias / BA",42603-833,Bahia,49.666666666666664,
+945,Caio Dias,moraesmarina@example.org,Pessoa Física,2016-05-10 13:56:00,975.860.431-75,"Fazenda Emanuel Gomes, 6 Cruzeiro 29428-910 Novaes / SP",23176352,São Paulo,109.26666666666667,69.0
+5,Daniela Lima,yago42@example.net,Pessoa Física,2015-01-14 11:53:00,071.259.643-70,"Lago de Moraes, 592 Mirtes 10935-233 Nascimento de Peixoto / AL",96027-142,Alagoas,125.33333333333333,31.0
+262,João Lucas Lima,brunaduarte@example.org,Pessoa Física,2019-10-19 11:14:00,358.702.964-47,"Rua João Lucas Freitas, 46 Vila Nova Cachoeirinha 2Âª SeÃ§ão 97602-589 Castro de Goiás / AC",29942-354,Acre,67.36666666666666,
+281,Enrico Lima,fernandesbryan@example.net,Pessoa Física,2016-06-27 15:06:00,180.746.392-31,"Praia Isabelly Martins, 7 Morro Dos Macacos 27993489 da Mota do Amparo / MS",97628-818,Mato Grosso do Sul,107.66666666666667,
+352,Carolina Lima,maria-sophiacardoso@example.com,Pessoa Física,2022-06-05 14:12:00,658.079.314-75,"Trecho de Campos, 54 Cônego Pinheiro 1ª Seção 77765-955 Novaes / AP",57113-154,Amapá,35.36666666666667,
+387,Isaac Lima,nicolecardoso@example.com,Pessoa Física,2014-02-08 13:28:00,869.103.725-30,"Chácara Pietra Nascimento, 7 Apolonia 81600-416 Novaes das Pedras / AL",26119706,Alagoas,136.66666666666666,
+522,João Lucas Lima,barbosamariana@example.org,Pessoa Física,2016-11-05 13:26:00,740.963.251-80,"Avenida Mariana Rezende, 42 Fernão Dias 25175-265 Ramos / DF",80317732,Distrito Federal,103.3,35.0
+729,Benjamin Lima,kaiquepeixoto@example.net,Pessoa Física,2020-08-21 10:13:00,095.421.876-02,"Avenida Luna Correia, 67 Outro 07065604 Correia / SP",77226042,São Paulo,57.13333333333333,69.0
+887,Kevin Lima,kamilly26@example.net,Pessoa Física,2021-02-27 11:43:00,538.169.047-93,"Passarela Silva, 4 Vila Nova Cachoeirinha 2ª Seção 92334096 Alves do Oeste / ES",12716-003,Espírito Santo,50.8,74.0
+70,Enrico Melo,pedro-henriqueviana@example.org,Pessoa Física,2021-02-18 15:23:00,418.962.035-15,"Esplanada Rezende, 82 Vila Minaslandia 86011416 Fernandes / SC",37988-526,Santa Catarina,51.1,36.0
+226,Isabella Melo,vramos@example.com,Pessoa Física,2017-01-14 11:27:00,716.452.809-85,"Viela Theo Ramos, 14 Paquetá 59350-231 Pereira da Serra / SC",16954952,Santa Catarina,100.96666666666667,73.0
+239,Bernardo Melo,maria-alice61@example.net,Pessoa Física,2017-02-25 16:31:00,327.459.861-55,"Fazenda Gomes, 81 Cidade Jardim Taquaril 81318-214 da Rocha do Galho / PE",51092202,Pernambuco,99.56666666666666,
+265,Heitor Melo,vitor-gabrielmonteiro@example.com,Pessoa Física,2019-06-05 11:17:00,598.067.321-03,"Vila Gonçalves, 11 Pousada Santo Antonio 46466-651 Ferreira / GO",96975888,Goiás,71.9,
+366,Pedro Melo,arthurvieira@example.com,Pessoa Física,2014-06-06 15:19:00,809.461.527-30,"Lago de Barros, 8 Sport Club 21887406 Monteiro das Flores / GO",73739-486,Goiás,132.73333333333332,
+467,Gustavo Henrique Melo,da-cunhabrenda@example.com,Pessoa Física,2018-02-26 12:52:00,532.709.841-97,"Colônia de Ribeiro, 720 Ademar Maldonado 84104-262 Pereira / ES",50832-820,Espírito Santo,87.36666666666666,25.0
+602,Thomas Melo,mda-rocha@example.net,Pessoa Física,2018-10-24 13:07:00,549.671.082-02,"Vila de Pereira, 48 Mantiqueira 16617426 Cardoso / BA",77360-182,Bahia,79.36666666666666,
+691,Raquel Melo,thiago84@example.net,Pessoa Física,2020-07-15 16:46:00,874.351.602-53,Sítio Enzo Fernandes Madre Gertrudes 07858527 da Cruz Verde / AP,51214338,Amapá,58.36666666666667,
+783,Nicole Melo,ericknogueira@example.com,Pessoa Física,2015-09-21 11:35:00,602.143.987-22,"Sítio Teixeira, 99 Conjunto Jatoba 48852-845 Correia de Goiás / PI",49990438,Piauí,117.0,
+786,Luna Melo,oliveiradavi@example.net,Pessoa Física,2019-01-21 14:29:00,125.386.974-09,"Morro Kaique Fogaça, 5 Barão Homem De Melo 2ª Seção 99410668 Fernandes / RN",84504002,Rio Grande do Norte,76.4,
+792,Levi Melo,da-cunhajoao-guilherme@example.net,Pessoa Física,2018-12-08 12:54:00,061.947.285-58,"Vereda Vieira, 835 Baleia 98810617 Oliveira da Prata / BA",63158375,Bahia,77.86666666666666,47.0
+811,Yuri Melo,mouralivia@example.com,Pessoa Física,2018-08-06 11:04:00,943.162.708-69,"Estrada Nicole Moraes, 36 Vila Petropolis 83982453 Alves / TO",69025958,Tocantins,82.0,
+834,Luna Melo,caldeiranicolas@example.com,Pessoa Física,2015-03-25 14:02:00,416.287.395-09,"Vila Fernandes, 242 Vila Satélite 62724113 Fernandes da Mata / RJ",05254-597,Rio de Janeiro,123.0,
+911,Daniel Melo,nicole57@example.com,Pessoa Física,2011-09-22 12:17:00,576.184.902-01,"Vale Antônio Lima, 4 São João 47295-375 Nunes / PA",4065275,Pará,165.66666666666666,
+924,Melissa Melo,samuelmonteiro@example.com,Pessoa Física,2021-10-20 15:55:00,412.307.695-52,Trecho Daniel Freitas Vila Dos Anjos 03780697 Nascimento / PB,47546-871,Paraíba,42.96666666666667,36.0
+993,Beatriz Melo,brendacaldeira@example.org,Pessoa Física,2017-10-07 11:40:00,786.914.320-04,"Parque Rodrigues, 104 Nova America 72291173 Peixoto / TO",88422-547,Tocantins,92.1,
+56,Maria Luiza Alves,souzasophie@example.org,Pessoa Física,2022-09-21 14:40:00,428.691.053-98,"Loteamento Campos, 6 Dona Clara 75778-811 Pires das Flores / SP",87868-132,São Paulo,31.766666666666666,32.0
+71,Luiza Alves,sdias@example.com,Pessoa Física,2013-12-14 13:59:00,578.962.410-30,"Via Augusto Moura, 59 Vila Independencia 2ª Seção 01782369 Vieira Grande / AL",67750-393,Alagoas,138.53333333333333,
+92,Daniel Alves,carvalhofernando@example.com,Pessoa Física,2017-02-03 15:31:00,923.540.671-43,"Alameda Maria Clara Lopes, 48 Alto Barroca 93067-803 Ramos da Serra / RJ",30314554,Rio de Janeiro,100.3,
+116,Isaac Alves,fmoraes@example.com,Pessoa Física,2014-10-17 13:19:00,783.290.516-68,"Setor Silveira, 9 Esperança 54390-541 Cavalcanti / PB",75462082,Paraíba,128.3,72.0
+289,Maria Alice Alves,renanmoura@example.net,Pessoa Física,2022-12-11 14:34:00,826.703.591-59,Lago da Cunha São Francisco Das Chagas 39623597 da Cunha / MS,11965-789,Mato Grosso do Sul,29.066666666666666,
+364,Miguel Alves,bcarvalho@example.net,Pessoa Física,2013-09-07 14:06:00,806.751.439-93,"Favela Mendes, 15 Cônego Pinheiro 1ª Seção 48858415 Ramos / PI",14157-016,Piauí,141.8,
+381,Melissa Alves,oliveiracecilia@example.net,Pessoa Física,2016-10-21 15:50:00,753.481.029-97,"Parque Lucca Farias, 16 Vila Madre Gertrudes 3ª Seção 09192-662 da Rosa de da Cruz / RO",26941177,Rondônia,103.8,53.0
+421,Mirella Alves,luna28@example.com,Pessoa Física,2020-04-24 10:07:00,903.648.527-47,"Loteamento Rodrigues, 869 Palmares 97692-838 da Cunha / AM",88078064,Amazonas,61.1,54.0
+664,Clara Alves,oliviasantos@example.org,Pessoa Física,2017-11-12 15:21:00,421.603.795-06,"Distrito Ferreira, 19 São Luiz 77702611 Nascimento do Norte / RS",2434042,Rio Grande do Sul,90.9,49.0
+788,Lavínia Alves,diogoramos@example.org,Pessoa Física,2021-06-11 11:11:00,742.059.863-00,"Condomínio de Duarte, 4 Alta Tensão 2Âª SeÃ§ão 90644-133 Pereira / PA",25512578,Pará,47.333333333333336,71.0
+829,Sarah Alves,rauldas-neves@example.com,Pessoa Física,2020-04-16 10:33:00,274.803.516-07,"Distrito de da Mota, 41 Aeroporto 74948002 da Cunha / PI",98200059,Piauí,61.36666666666667,78.0
+847,Thiago Alves,bda-rocha@example.com,Pessoa Física,2017-10-23 12:25:00,539.186.704-57,"Viaduto Laura Pinto, 5 Vila Santa Monica 1ª Seção 93180-322 da Rosa / SP",31500163,São Paulo,91.56666666666666,
+852,Isabelly Alves,joao-lucas08@example.com,Pessoa Física,2015-07-01 16:05:00,416.739.085-00,"Trecho de Barbosa, 9 Lagoinha Leblon 56609-518 Ferreira / ES",18876-575,Espírito Santo,119.73333333333333,
+991,Luiz Miguel Alves,luana66@example.com,Pessoa Física,2019-02-14 13:36:00,587.609.124-30,"Chácara de Moreira, 60 Olaria 22714-326 Ribeiro da Mata / AM",86294-895,Amazonas,75.6,
+90,João Costa,nina62@example.com,Pessoa Física,2014-05-15 13:06:00,926.057.138-30,"Feira de Teixeira, 4 Laranjeiras 89122-999 Pires / SP",38071-009,São Paulo,133.46666666666667,
+233,Catarina Costa,joao-felipecorreia@example.org,Pessoa Física,2014-12-02 14:14:00,603.751.829-77,"Passarela de da Conceição, 2 Centro 93490-179 Moraes de Oliveira / AL",38180255,Alagoas,126.76666666666667,64.0
+356,Cecília Costa,emilly14@example.org,Pessoa Física,2014-01-13 11:30:00,092.813.567-59,Lago de Jesus Esperança 91251916 da Cruz / SP,89813224,São Paulo,137.53333333333333,
+493,Laís Costa,silveiralavinia@example.com,Pessoa Física,2017-12-19 16:53:00,867.402.159-01,Parque Moura Parque São José 91515-389 Nascimento / MG,98259-386,Minas Gerais,89.66666666666667,32.0
+676,Maria Vitória Costa,rochanina@example.org,Pessoa Física,2016-04-25 15:44:00,182.954.037-88,"Jardim da Rocha, 65 Minaslandia 48773387 Araújo / BA",67484257,Bahia,109.76666666666667,69.0
+890,Maysa Costa,ida-rosa@example.org,Pessoa Física,2013-12-11 14:23:00,286.903.175-03,"Colônia Ferreira, 1 Suzana 76789911 Gomes da Praia / MT",07873-123,Mato Grosso,138.63333333333333,
+957,Beatriz Costa,nascimentobruno@example.org,Pessoa Física,2020-08-10 15:07:00,627.983.405-00,"Travessa de Sales, 37 Jardim América 26138-341 da Luz / PA",56424-819,Pará,57.5,
+38,Augusto Cunha,cda-cunha@example.net,Pessoa Física,2021-08-23 12:15:00,619.284.305-89,"Residencial de Vieira, 57 Conjunto Serra Verde 85249271 Rocha / MG",81473-142,Minas Gerais,44.9,41.0
+55,Sophie Cunha,oliveiravitor@example.com,Pessoa Física,2016-11-10 14:25:00,521.934.708-04,Passarela de Costela Senhor Dos Passos 66807-828 da Rocha / RJ,19744436,Rio de Janeiro,103.13333333333334,
+150,Pedro Lucas Cunha,jesusjulia@example.com,Pessoa Física,2021-11-04 11:27:00,385.417.629-55,"Distrito de Cardoso, 66 Vila Inestan 46530-625 Costela / ES",74907782,Espírito Santo,42.46666666666667,
+211,João Miguel Cunha,davi-lucas04@example.net,Pessoa Física,2021-03-10 12:41:00,351.678.904-20,"PraÃ§a de Campos, 98 São Salvador 91131699 Nunes / MT",07845-704,Mato Grosso,50.43333333333333,
+331,Vitória Cunha,lopesemanuel@example.com,Pessoa Física,2012-09-22 16:29:00,187.024.695-02,Distrito de GonÃ§alves Inconfidéncia 55785823 da Mota de Moura / SP,11168371,São Paulo,153.46666666666667,
+452,Kevin Cunha,dmonteiro@example.com,Pessoa Física,2020-07-18 11:22:00,128.495.703-97,Travessa de Cardoso Nossa Senhora Da Conceição 41836-383 Dias Alegre / SC,43803139,Santa Catarina,58.266666666666666,
+587,Mariana Cunha,maria-eduarda57@example.org,Pessoa Física,2019-09-06 15:59:00,903.251.768-68,Campo Stella Ferreira Novo Ouro Preto 12789-557 Pires / PI,50946020,Piauí,68.8,
+649,Clarice Cunha,brenda34@example.net,Pessoa Física,2016-04-11 13:35:00,631.528.049-89,"Viela Thales Santos, 133 Vila Santa Monica 2ª Seção 08043-756 Almeida Paulista / MT",37183-556,Mato Grosso,110.23333333333333,67.0
+663,João Pedro Cunha,carlos-eduardoda-luz@example.org,Pessoa Física,2020-07-21 14:21:00,068.235.197-03,Via Ferreira Vila Dos Anjos 28261187 Castro / RN,3481410,Rio Grande do Norte,58.166666666666664,
+720,Lara Cunha,thomasbarbosa@example.com,Pessoa Física,2021-03-23 10:56:00,780.629.134-22,"Setor de Rodrigues, 46 Santa Margarida 46508-985 Campos de Goiás / ES",70396-535,Espírito Santo,50.0,
+741,Gustavo Cunha,correiaemanuelly@example.org,Pessoa Física,2012-03-03 14:17:00,237.604.598-38,Favela Luiz Otávio Santos Tupi B 43588859 Rezende da Mata / SC,77732-400,Santa Catarina,160.23333333333332,
+780,Thiago Cunha,carvalhonicolas@example.com,Pessoa Física,2018-02-05 11:35:00,352.748.691-73,"Avenida Gonçalves, 38 Ademar Maldonado 06852555 Ribeiro Alegre / PE",99956563,Pernambuco,88.06666666666666,43.0
+866,Brenda Cunha,qcaldeira@example.net,Pessoa Física,2019-06-22 13:36:00,936.475.821-82,"Esplanada Levi Barbosa, 216 Vila São João Batista 50276-230 Silva / GO",43609-121,Goiás,71.33333333333333,
+933,Leonardo Cunha,aragaolorena@example.net,Pessoa Física,2015-08-12 13:49:00,739.416.528-00,"Avenida Cunha, 13 Flavio Marques Lisboa 36827006 Caldeira de Martins / ES",25715953,Espírito Santo,118.33333333333333,
+941,Otávio Cunha,carvalhonicole@example.org,Pessoa Física,2022-05-22 12:02:00,310.842.695-89,"Viela Farias, 926 Heliopolis 61000-447 Barros Grande / SE",20775-963,Sergipe,35.833333333333336,61.0
+68,Lorena Gomes,nrezende@example.net,Pessoa Física,2019-08-11 11:02:00,832.607.514-08,"Rodovia Alexia Costela, 374 Vila Madre Gertrudes 4ª Seção 35410645 Melo / PA",13577256,Pará,69.66666666666667,69.0
+79,Milena Gomes,bsilva@example.com,Pessoa Física,2022-12-03 10:51:00,893.726.041-78,"Alameda Benício Sales, 68 São Sebastião 87879-290 da Rocha da Mata / PA",31297275,Pará,29.333333333333332,44.0
+157,Emanuella Gomes,antoniosilva@example.com,Pessoa Física,2017-08-20 12:13:00,659.284.301-24,Vale Santos Vila Mantiqueira 16535-555 Lopes / MT,45442696,Mato Grosso,93.7,
+195,Luiz Fernando Gomes,vcastro@example.net,Pessoa Física,2011-03-08 13:26:00,046.853.129-70,"Largo de Sales, 95 Lindéia 03767449 Aragão / GO",13895327,Goiás,172.26666666666668,
+369,João Lucas Gomes,lribeiro@example.net,Pessoa Física,2022-10-09 11:31:00,256.389.041-15,"Chácara Cunha, 551 Serra 26207-436 Silveira / CE",27315-383,Ceará,31.166666666666668,
+499,Helena Gomes,fda-mota@example.org,Pessoa Física,2022-11-07 11:37:00,503.742.189-60,"Loteamento de Vieira, 36 Vila Nossa Senhora Do Rosário 99556-419 da Conceição do Oeste / SP",58899466,São Paulo,30.2,
+567,Bryan Gomes,hrezende@example.com,Pessoa Física,2011-05-16 10:17:00,619.520.487-02,"Núcleo de Freitas, 378 Miramar 12606621 Correia / ES",34609558,Espírito Santo,169.96666666666667,27.0
+609,Larissa Gomes,ana-laura55@example.org,Pessoa Física,2017-05-14 15:03:00,459.208.671-67,"Lago de Gonçalves, 6 Piratininga 53005555 Moreira Grande / SP",92215-516,São Paulo,96.96666666666667,
+731,Felipe Gomes,gcostela@example.net,Pessoa Física,2017-07-21 11:57:00,971.548.302-04,"Esplanada Nascimento, 27 Beira Linha 18256-269 Souza do Oeste / MS",85811670,Mato Grosso do Sul,94.7,30.0
+964,Bianca Gomes,da-rosamariana@example.com,Pessoa Física,2021-06-24 14:15:00,465.891.370-48,"Núcleo Lima, 184 Garças 64685-353 Gonçalves das Pedras / SP",71253-234,São Paulo,46.9,54.0
+972,Daniel Gomes,joao-felipe48@example.net,Pessoa Física,2010-08-10 15:41:00,975.286.143-19,"Lago de Sales, 131 Itatiaia 06318-414 Silveira / AC",42328-349,Acre,179.26666666666668,
+73,Milena Jesus,xvieira@example.com,Pessoa Física,2012-06-21 14:25:00,925.037.416-06,"Parque Araújo, 352 Estoril 11290-320 Pinto da Serra / MA",74802-721,Maranhão,156.56666666666666,36.0
+114,Rodrigo Jesus,danielapinto@example.com,Pessoa Física,2022-11-11 11:04:00,658.910.274-02,"Esplanada de Lopes, 86 Santa Monica 48561977 da Cunha / RS",84406630,Rio Grande do Sul,30.066666666666666,
+298,Nicolas Jesus,ryansantos@example.org,Pessoa Física,2012-04-21 15:53:00,509.487.213-32,"Rodovia Ferreira, 21 Pindura Saia 42451-455 Barros da Serra / CE",04065-364,Ceará,158.6,
+327,Maria Alice Jesus,da-motaluiz-henrique@example.org,Pessoa Física,2021-10-08 11:35:00,543.680.712-71,Pátio Maria Clara Cavalcanti Beira Linha 75846700 Duarte / MS,32770-840,Mato Grosso do Sul,43.36666666666667,
+328,Benjamin Jesus,davi-luccapinto@example.net,Pessoa Física,2017-03-04 13:03:00,659.172.048-02,"Estação da Cunha, 64 Vila Santo Antônio Barroquinha 42157-327 Teixeira de Farias / RS",10559-302,Rio Grande do Sul,99.33333333333333,53.0
+523,Gabrielly Jesus,laurada-mata@example.net,Pessoa Física,2013-03-18 10:44:00,490.281.576-11,"Sítio de Moraes, 68 Nova Granada 53754-205 da Mata de Alves / RO",87182675,Rondônia,147.56666666666666,74.0
+675,Camila Jesus,barbosamaite@example.com,Pessoa Física,2019-04-24 13:55:00,625.481.709-85,"Esplanada Fernando da Costa, 7 Vila Santo Antônio 24496828 Freitas / PA",96168071,Pará,73.3,
+696,Luiza Jesus,costarenan@example.com,Pessoa Física,2021-12-24 13:02:00,471.685.903-75,"Favela Ribeiro, 78 Delta 25034-385 Oliveira / AP",23037-823,Amapá,40.8,
+822,Bárbara Jesus,milenada-rocha@example.com,Pessoa Física,2022-12-16 15:58:00,602.148.935-70,Recanto Enzo Gabriel da Luz Vila São Francisco 39509-701 Melo / AM,76706-799,Amazonas,28.9,
+982,Beatriz Jesus,fariasluiza@example.com,Pessoa Física,2019-11-25 11:04:00,350.467.981-66,"Vereda de Alves, 96 Palmeiras 95190-216 Freitas / PR",26839-985,Paraná,66.13333333333334,75.0
+62,Ana Vitória Lopes,pdias@example.net,Pessoa Física,2010-12-02 12:14:00,431.286.957-09,"Campo João Felipe Nascimento, 2 São Bernardo 72648321 Pires Alegre / MG",56682892,Minas Gerais,175.46666666666667,
+152,Davi Lopes,gcosta@example.com,Pessoa Física,2017-07-01 14:56:00,104.258.973-97,"Quadra Pereira, 23 Cardoso 27987-882 Castro / AC",23590-188,Acre,95.36666666666666,
+291,Carlos Eduardo Lopes,otavio24@example.org,Pessoa Física,2012-02-26 12:34:00,852.193.064-05,"Alameda Isabel Silva, 31 Vila Havaí 11364-247 Nunes / DF",68301-753,Distrito Federal,160.43333333333334,33.0
+350,Isis Lopes,diogoaraujo@example.com,Pessoa Física,2018-11-15 15:42:00,240.968.375-47,"Lagoa Benjamin Correia, 736 Suzana 65158388 da Costa das Flores / PR",7473442,Paraná,78.63333333333334,63.0
+427,Gabriel Lopes,pazevedo@example.com,Pessoa Física,2019-02-18 14:37:00,263.140.789-03,Lago Maria Julia Rodrigues Taquaril 53270892 Lopes Verde / CE,44978329,Ceará,75.46666666666667,69.0
+439,Isabella Lopes,igorcampos@example.org,Pessoa Física,2019-05-18 11:42:00,570.462.381-62,"Rodovia de Novaes, 89 Boa Esperança 76062-783 Costa / AM",30513678,Amazonas,72.5,
+450,Thales Lopes,uda-mata@example.com,Pessoa Física,2019-04-01 12:40:00,503.681.924-15,"Esplanada Sales, 2 Califórnia 01064869 Melo / SE",88390892,Sergipe,74.06666666666666,
+573,Cecília Lopes,joao19@example.com,Pessoa Física,2021-05-11 15:05:00,149.035.782-32,"Campo Lucas Costa, 309 Universitário 27503-697 Cardoso de da Rosa / AM",55776517,Amazonas,48.36666666666667,
+604,Gabriela Lopes,aliciasilva@example.com,Pessoa Física,2022-03-20 16:32:00,761.045.329-34,"Vereda Oliveira, 56 Santa Rita De Cássia 72625-217 Pinto / SC",44743727,Santa Catarina,37.93333333333333,39.0
+605,Sophia Lopes,gabrielcampos@example.net,Pessoa Física,2022-05-02 16:57:00,518.402.937-05,"Alameda Almeida, 8 Santa Isabel 62289-773 Freitas dos Dourados / RO",80918276,Rondônia,36.5,38.0
+670,Marina Lopes,goncalvesclara@example.com,Pessoa Física,2022-10-25 14:11:00,926.153.874-64,"Aeroporto Fogaça, 6 Outro 84244907 das Neves / PR",21092961,Paraná,30.633333333333333,
+825,Gustavo Henrique Lopes,beatriz24@example.net,Pessoa Física,2022-04-28 14:01:00,953.672.148-19,"Rua de Alves, 21 Gameleira 20078768 Viana Paulista / CE",84143888,Ceará,36.63333333333333,34.0
+864,Benício Lopes,leandrodias@example.org,Pessoa Física,2017-04-28 15:30:00,845.971.236-28,"Feira de Monteiro, 67 Vila Mangueiras 92992-146 Santos da Praia / SP",29563-668,São Paulo,97.5,27.0
+99,Heloísa Moura,manuela79@example.net,Pessoa Física,2017-10-14 12:58:00,032.516.987-02,"Vale de Pinto, 77 Alpes 83294-846 Ramos / RJ",64841594,Rio de Janeiro,91.86666666666666,
+388,Heloísa Moura,novaesluiz-fernando@example.org,Pessoa Física,2017-02-14 12:43:00,340.875.619-84,"Praça Yuri Martins, 52 Itapoa 48374113 Azevedo / AM",06447-430,Amazonas,99.93333333333334,
+431,João Moura,da-matabreno@example.org,Pessoa Física,2013-11-20 11:12:00,415.702.836-80,Viela Giovanna Cardoso Castanheira 31235258 Ferreira / TO,20931894,Tocantins,139.33333333333334,30.0
+501,Evelyn Moura,heitorgoncalves@example.org,Pessoa Física,2018-06-20 14:51:00,501.986.743-84,"Campo Maria Eduarda Peixoto, 536 Europa 43797481 da Mata do Galho / SP",29074-901,São Paulo,83.56666666666666,20.0
+556,Melissa Moura,da-luzlorena@example.org,Pessoa Física,2020-06-08 14:51:00,950.863.724-29,"Distrito Gabriel Cavalcanti, 48 Ouro Preto 68992416 Monteiro do Norte / BA",42839110,Bahia,59.6,
+575,Bruno Moura,theo66@example.com,Pessoa Física,2015-07-27 11:15:00,619.478.203-03,"Travessa Ferreira, 96 Jatobá 98474439 Ferreira / TO",39617502,Tocantins,118.86666666666666,
+653,Maria Clara Moura,ryan75@example.com,Pessoa Física,2016-06-16 14:20:00,792.361.480-69,Praia de Barbosa Bela Vitoria 48748186 Pereira do Oeste / SC,43287847,Santa Catarina,108.03333333333333,40.0
+706,Juan Moura,maria-fernanda15@example.org,Pessoa Física,2019-01-10 15:36:00,754.391.820-04,"Jardim Caroline Teixeira, 46 Goiania 56851205 da Mata / MA",91580-802,Maranhão,76.76666666666667,
+796,Benício Moura,emillyfogaca@example.org,Pessoa Física,2019-11-08 15:59:00,748.206.193-22,"Passarela Mendes, 34 Lajedo 43858130 Porto / RS",39582-953,Rio Grande do Sul,66.7,
+946,Brenda Moura,levi65@example.org,Pessoa Física,2016-03-05 10:07:00,284.179.053-32,"Feira de da Cruz, 282 Esplanada 65178537 Alves do Norte / TO",48090-423,Tocantins,111.46666666666667,
+990,Igor Moura,duartesabrina@example.net,Pessoa Física,2020-01-23 16:28:00,372.954.608-29,"Lago Novaes, 24 Boa União 1ª Seção 74015-731 Cardoso de Moura / MS",92666276,Mato Grosso do Sul,64.16666666666667,
+57,Luna Nunes,gustavo12@example.org,Pessoa Física,2017-05-04 16:51:00,618.429.573-09,"Vale de Rezende, 953 Ápia 55803-917 Moura / PA",80881095,Pará,97.3,56.0
+254,Ana Carolina Nunes,mcostela@example.net,Pessoa Física,2012-10-24 13:48:00,612.835.409-24,"Recanto de da Luz, 9 Santa Sofia 78694-248 Nogueira do Sul / MA",98430781,Maranhão,152.4,
+303,Emilly Nunes,antoniocavalcanti@example.org,Pessoa Física,2017-04-11 13:13:00,310.924.875-14,"Trevo Gabriela Porto, 67 Colégio Batista 35807-329 Castro da Prata / AL",14585816,Alagoas,98.06666666666666,43.0
+457,Camila Nunes,pietra44@example.com,Pessoa Física,2017-04-14 11:13:00,391.540.862-05,"Estação Azevedo, 75 Vila Da Luz 40014970 Cardoso / CE",47534-613,Ceará,97.96666666666667,
+515,Ana Laura Nunes,martinsdiego@example.com,Pessoa Física,2014-04-17 15:32:00,457.206.891-76,"Residencial Kamilly Lima, 49 São José 32763-452 Costela / AL",81853963,Alagoas,134.4,24.0
+616,Lucca Nunes,fernandateixeira@example.org,Pessoa Física,2017-08-04 10:47:00,218.695.730-21,"Lagoa de Pereira, 76 Xangri-Lá 73656217 Martins dos Dourados / AP",06759-880,Amapá,94.23333333333333,
+638,Ana Carolina Nunes,maria-sophia30@example.org,Pessoa Física,2018-07-05 11:41:00,372.598.104-32,"Via Santos, 76 Mantiqueira 45911-781 Campos do Galho / RS",93769-315,Rio Grande do Sul,83.06666666666666,
+717,Renan Nunes,gpeixoto@example.net,Pessoa Física,2015-02-21 12:48:00,349.281.567-73,Jardim de da Rocha Conjunto Capitão Eduardo 14991503 Castro / RR,06635-669,Roraima,124.06666666666666,
+836,Emanuelly Nunes,vitor-gabriel68@example.com,Pessoa Física,2022-08-23 11:20:00,752.986.041-02,"Trecho de Barros, 13 Frei Leopoldo 70568448 da Costa / TO",30163-306,Tocantins,32.733333333333334,76.0
+871,Lucca Nunes,alice24@example.org,Pessoa Física,2022-08-22 14:00:00,159.034.268-24,"Núcleo Guilherme Porto, 2 Varzea Da Palma 25918-822 Rodrigues / AP",05487-000,Amapá,32.766666666666666,
+879,Anthony Nunes,barbarajesus@example.org,Pessoa Física,2013-07-12 10:44:00,291.463.850-70,Praça de Alves Santo André 10331-058 Costa / DF,15103-868,Distrito Federal,143.7,63.0
+917,Theo Nunes,diogofernandes@example.net,Pessoa Física,2016-05-18 11:07:00,702.418.965-76,"Distrito de da Luz, 88 Cabana Do Pai Tomás 27391181 da Rosa / MS",15799-330,Mato Grosso do Sul,109.0,
+42,Alexandre Pinto,vitor-hugobarbosa@example.net,Pessoa Física,2013-04-12 12:10:00,058.623.179-02,"Ladeira Araújo, 39 Minaslandia 95368818 Ribeiro / AM",72785-264,Amazonas,146.73333333333332,65.0
+117,Igor Pinto,noahteixeira@example.net,Pessoa Física,2022-06-22 10:15:00,039.452.618-05,"Campo Pires, 311 Conjunto Jatoba 63845-548 Silveira / SE",61967117,Sergipe,34.8,
+261,Maria Luiza Pinto,maria-luiza75@example.net,Pessoa Física,2015-09-20 12:35:00,580.469.173-20,"Avenida Nunes, 47 Vila Ipiranga 66706366 Rodrigues / ES",11151018,Espírito Santo,117.03333333333333,
+266,Nicolas Pinto,danielribeiro@example.net,Pessoa Física,2016-09-15 11:01:00,472.185.936-82,"Passarela de da Costa, 11 Betânia 12740926 Cardoso / TO",49973-191,Tocantins,105.0,30.0
+292,Agatha Pinto,carvalhovinicius@example.net,Pessoa Física,2015-10-10 12:03:00,835.916.047-39,"Feira Elisa da Costa, 716  Jonas Veiga 78834-553 Moraes / RN",14310685,Rio Grande do Norte,116.36666666666666,
+383,Calebe Pinto,danielada-paz@example.org,Pessoa Física,2017-01-24 13:00:00,930.854.627-83,"Condomínio de Moura, 56 São Gonçalo 00106888 Gonçalves / RS",93285-302,Rio Grande do Sul,100.63333333333334,68.0
+396,Maria Pinto,luiz-felipeduarte@example.com,Pessoa Física,2021-09-24 11:11:00,172.863.049-50,"Rodovia Sales, 1 Solimoes 57858-848 Lopes / PI",39842-347,Piauí,43.833333333333336,53.0
+580,Cecília Pinto,rafaelnunes@example.net,Pessoa Física,2014-05-04 13:13:00,502.837.146-62,Travessa de Dias Guarani 97610874 Rocha / ES,35366-296,Espírito Santo,133.83333333333334,78.0
+719,Daniel Pinto,gabrielcunha@example.com,Pessoa Física,2016-08-16 13:16:00,837.162.059-40,"Chácara de Ribeiro, 38 Funcionários 23426864 da Cruz de Melo / RJ",65540-758,Rio de Janeiro,106.0,
+805,Lara Pinto,brunanunes@example.net,Pessoa Física,2011-05-08 14:35:00,231.608.745-08,Loteamento Augusto Cardoso Bom Jesus 80633-996 Rezende do Campo / SE,37512880,Sergipe,170.23333333333332,
+966,Carlos Eduardo Pinto,baraujo@example.net,Pessoa Física,2013-11-05 15:33:00,813.064.752-44,"Quadra Gabrielly Moreira, 2 Vila Maria 33753217 Gomes de Minas / SE",78125-333,Sergipe,139.83333333333334,
+52,Otávio Pires,brunagoncalves@example.net,Pessoa Física,2022-08-14 15:20:00,568.437.290-29,"Rodovia Isaac Silva, 99 Vila Santa Monica 1Âª SeÃ§ão 54647-803 Ramos de Minas / AC",91403292,Acre,33.03333333333333,
+82,Kamilly Pires,joao-felipe15@example.org,Pessoa Física,2019-07-03 13:17:00,518.329.470-41,"Esplanada da Cruz, 23 Vila Nova Cachoeirinha 3ª Seção 10616-772 Caldeira / AM",16914199,Amazonas,70.96666666666667,69.0
+201,Olivia Pires,samuelcardoso@example.org,Pessoa Física,2021-11-12 16:43:00,530.247.619-34,"Ladeira Nicolas Cardoso, 319 Túnel De Ibirité 18390285 Cardoso / SE",92524874,Sergipe,42.2,
+250,Sophia Pires,araujopietra@example.com,Pessoa Física,2018-12-08 13:43:00,318.462.075-17,"Loteamento Bernardo Pinto, 7 Vila Pilar 00343041 Pereira / RN",48576950,Rio Grande do Norte,77.86666666666666,61.0
+269,Pedro Miguel Pires,vitoria03@example.net,Pessoa Física,2013-01-05 13:51:00,548.673.192-28,"Parque de Melo, 41 Piratininga 03368361 Peixoto / MG",29962-922,Minas Gerais,149.96666666666667,
+334,Marina Pires,marina08@example.com,Pessoa Física,2016-10-08 11:12:00,708.269.541-11,"Largo Yasmin Nascimento, 62 Fazendinha 98403464 Melo / ES",17185-932,Espírito Santo,104.23333333333333,
+433,Cecília Pires,enzo-gabrielsouza@example.org,Pessoa Física,2021-12-16 11:19:00,389.561.740-75,"Alameda Barros, 6 Vila Paquetá 49935-894 da Paz da Mata / AC",22473392,Acre,41.06666666666667,44.0
+504,Isabelly Pires,andre77@example.org,Pessoa Física,2015-04-22 14:18:00,972.348.605-92,"Chácara de Caldeira, 6 Lajedo 03973-995 Pires Verde / MG",75910470,Minas Gerais,122.06666666666666,
+614,André Pires,sophiaduarte@example.net,Pessoa Física,2014-04-16 13:23:00,413.296.058-70,"EstaÃ§ão Pietra Costa, 19 São João 69750-619 Gomes / MG",94642477,Minas Gerais,134.43333333333334,36.0
+645,Clara Pires,estherdias@example.org,Pessoa Física,2022-05-24 13:33:00,436.072.519-16,"Avenida Luiz Miguel Barros, 372 Miramar 49934530 Souza / RO",55592-946,Rondônia,35.766666666666666,61.0
+672,Luiz Fernando Pires,pedro-miguel33@example.org,Pessoa Física,2019-07-14 12:16:00,679.408.123-78,"Estrada Gabrielly Ribeiro, 5 Alto Dos Pinheiros 82111-121 Cavalcanti das Pedras / MG",72526-425,Minas Gerais,70.6,
+973,Carlos Eduardo Pires,emanuella37@example.net,Pessoa Física,2020-12-25 15:51:00,745.983.062-38,"Praia Emilly Fernandes, 1 Vila Nova Gameleira 3ª Seção 43249646 Pinto dos Dourados / CE",99049657,Ceará,52.93333333333333,
+67,Gustavo Henrique Porto,monteiroraul@example.com,Pessoa Física,2018-05-14 13:27:00,690.251.478-01,"Aeroporto Sarah Fernandes, 99 São Salvador 59863417 Duarte Paulista / SP",15270-670,São Paulo,84.8,66.0
+422,Nina Porto,eloahjesus@example.com,Pessoa Física,2022-11-27 13:46:00,265.904.387-65,"Praça Gonçalves, 53 São Gabriel 77010127 Alves Verde / DF",10730-212,Distrito Federal,29.533333333333335,
+426,Ana Lívia Porto,da-costaluiz-henrique@example.net,Pessoa Física,2022-06-27 11:26:00,392.480.761-22,Lagoa Calebe Fogaça Taquaril 68451073 Pires da Prata / MS,76188259,Mato Grosso do Sul,34.63333333333333,
+510,Bruno Porto,calebe47@example.com,Pessoa Física,2012-03-16 13:03:00,801.324.576-44,"Vereda Kamilly Duarte, 27 Flavio Marques Lisboa 06545-234 da Cruz do Sul / GO",68650457,Goiás,159.8,
+627,Yasmin Porto,theocavalcanti@example.com,Pessoa Física,2020-12-14 13:51:00,423.867.950-47,"Esplanada de Lima, 77 Conjunto Califórnia Ii 30064-357 da Costa dos Dourados / PI",97109620,Piauí,53.3,
+771,Ana Vitória Porto,evelynmoura@example.org,Pessoa Física,2020-01-16 12:55:00,206.841.539-98,"Trevo Correia, 78 Vila Santa Rosa 07185785 Carvalho de Rocha / GO",15071262,Goiás,64.4,
+987,Clara Porto,moraesryan@example.org,Pessoa Física,2014-08-02 14:57:00,140.389.652-60,"Viaduto Duarte, 76 Manacas 99172-961 Gomes da Serra / MA",23460-398,Maranhão,130.83333333333334,
+32,Heloísa Ramos,bda-mata@example.com,Pessoa Física,2017-12-14 14:59:00,361.205.479-16,"Via de Alves, 97 Vila Piratininga Venda Nova 71086-408 Cardoso / MT",17028-400,Mato Grosso,89.83333333333333,70.0
+191,Nicole Ramos,csantos@example.org,Pessoa Física,2013-03-23 14:14:00,371.605.498-48,"Favela Ribeiro, 419 Vila Suzana Segunda Seção 40372-350 Porto / MT",00802-813,Mato Grosso,147.4,
+232,Lorena Ramos,livia43@example.net,Pessoa Física,2013-11-27 16:57:00,851.673.209-68,"Recanto da Conceição, 7 Itatiaia 08586-084 Alves Verde / BA",24779-740,Bahia,139.1,51.0
+379,Enrico Ramos,nda-rocha@example.com,Pessoa Física,2021-02-21 13:18:00,502.678.493-38,"Lago de Barros, 894 Marieta 1ª Seção 77018201 Santos / DF",50913156,Distrito Federal,51.0,50.0
+418,Stephany Ramos,felipegomes@example.org,Pessoa Física,2016-05-12 12:48:00,671.043.589-00,"Viela Nogueira, 14 Caetano Furquim 18440-482 Mendes da Serra / AC",25306594,Acre,109.2,44.0
+446,João Gabriel Ramos,leandro65@example.com,Pessoa Física,2015-10-08 13:35:00,438.527.906-38,"Núcleo Davi Lucca Fernandes, 142 Vila São Gabriel 85521997 Rezende / SP",69463-503,São Paulo,116.43333333333334,27.0
+484,Lorena Ramos,ana-sophiaaraujo@example.com,Pessoa Física,2021-07-01 12:51:00,291.547.063-43,"Setor de Correia, 76 Novo Glória 35723978 Pinto / PI",35663647,Piauí,46.666666666666664,
+490,Agatha Ramos,sarahgoncalves@example.org,Pessoa Física,2021-06-07 10:30:00,582.437.190-32,"Esplanada Valentina Costela, 6 Antonio Ribeiro De Abreu 1ª Seção 06588-008 Caldeira do Sul / GO",18237366,Goiás,47.46666666666667,
+496,Ian Ramos,benicio20@example.com,Pessoa Física,2020-02-27 12:50:00,074.953.128-23,"Recanto de Cavalcanti, 9 Nossa Senhora Da Conceição 28708-559 da Mata / AC",5583827,Acre,63.0,36.0
+507,Carlos Eduardo Ramos,yago88@example.org,Pessoa Física,2015-04-20 11:35:00,953.280.641-51,"Passarela Alana Nogueira, 631 Monte São José 81353488 Cavalcanti dos Dourados / MA",50196064,Maranhão,122.13333333333334,
+521,Bernardo Ramos,joao-miguel16@example.net,Pessoa Física,2022-09-13 13:05:00,872.360.951-68,"Via Mariane Nogueira, 33 Vila Ecológica 71729-790 Silveira do Norte / MS",29201854,Mato Grosso do Sul,32.03333333333333,
+611,Ana Julia Ramos,pedro-miguelmartins@example.net,Pessoa Física,2019-08-06 14:42:00,164.598.302-15,"Área de Pereira, 4 Caiçaras 68043-152 Barbosa da Mata / SP",62394839,São Paulo,69.83333333333333,58.0
+623,Nina Ramos,luiz-fernando54@example.net,Pessoa Física,2018-06-12 11:47:00,126.435.980-24,"Alameda João Vitor Gomes, 93 São Benedito 55600759 Peixoto / MG",97022-268,Minas Gerais,83.83333333333333,
+705,Marcos Vinicius Ramos,isabel99@example.org,Pessoa Física,2015-07-24 13:19:00,245.963.078-65,"Estação Olivia Moreira, 2 Vila Real 1ª Seção 59820159 Sales Grande / MA",44030-253,Maranhão,118.96666666666667,
+804,Bruno Ramos,natalia23@example.org,Pessoa Física,2011-12-06 13:00:00,739.285.406-29,Passarela da Rocha Cruzeiro 90361423 Barros / MS,23047749,Mato Grosso do Sul,163.16666666666666,49.0
+815,Marcos Vinicius Ramos,samuel86@example.com,Pessoa Física,2021-06-21 14:04:00,985.320.614-51,"Trecho de Dias, 6 Marçola 40811068 Caldeira / RJ",59134843,Rio de Janeiro,47.0,
+859,Sophie Ramos,dda-cruz@example.org,Pessoa Física,2020-11-03 11:41:00,629.438.570-92,"Campo Mendes, 3 Juliana 18036-669 Dias dos Dourados / MS",3168134,Mato Grosso do Sul,54.666666666666664,24.0
+989,Carlos Eduardo Ramos,thiago39@example.net,Pessoa Física,2021-11-25 14:47:00,365.197.480-48,"Colônia Cardoso, 4 Ribeiro De Abreu 03645860 da Cunha da Praia / MA",59192733,Maranhão,41.766666666666666,77.0
+8,Enzo Rocha,caiolima@example.org,Pessoa Física,2021-08-13 11:07:00,146.725.308-17,"Loteamento Felipe Rocha, 8 Novo Glória 45229611 da Paz / SC",6016884,Santa Catarina,45.233333333333334,
+27,Anthony Rocha,rafaela93@example.org,Pessoa Física,2022-05-10 12:29:00,642.810.579-94,"Ladeira Pedro Henrique Gomes, 7 Vila São Paulo 48885-536 Almeida / SP",96570869,São Paulo,36.233333333333334,
+30,Gabriel Rocha,silveirabryan@example.net,Pessoa Física,2018-01-26 14:53:00,625.940.783-10,"Largo Mariana Fernandes, 88 Castelo 78209280 Cardoso do Oeste / RS",93782-527,Rio Grande do Sul,88.4,
+113,Lucas Gabriel Rocha,alana30@example.net,Pessoa Física,2020-01-07 14:29:00,713.895.042-04,"Viela Caroline Peixoto, 49 São Sebastião 86279204 Rocha dos Dourados / RN",58314-883,Rio Grande do Norte,64.7,23.0
+316,Carolina Rocha,eloah92@example.net,Pessoa Física,2018-01-23 15:29:00,370.564.298-74,"Alameda Olivia Sales, 986 São Bernardo 01819-608 Araújo do Sul / ES",50479649,Espírito Santo,88.5,
+377,Clara Rocha,moraesrebeca@example.com,Pessoa Física,2016-12-15 15:58:00,209.576.183-95,Travessa João Felipe Mendes Paulo Vi 56830645 Correia de Souza / MA,78584-453,Maranhão,101.96666666666667,
+397,Bárbara Rocha,martinsfernanda@example.org,Pessoa Física,2018-10-13 10:51:00,031.694.287-13,"Vale da Costa, 39 Vista Alegre 59154-504 Nunes de Fernandes / PA",49504138,Pará,79.73333333333333,
+441,Bryan Rocha,salesluiz-felipe@example.net,Pessoa Física,2019-06-05 16:33:00,945.826.703-00,"Sítio Mariane da Mota, 85 Gutierrez 24729-115 Freitas de Aragão / MT",36846-137,Mato Grosso,71.9,55.0
+480,Gustavo Henrique Rocha,liviabarbosa@example.com,Pessoa Física,2012-12-09 11:58:00,085.971.624-49,"Alameda Oliveira, 42 Horto 57639-337 da Rosa / AM",51705023,Amazonas,150.86666666666667,56.0
+483,Luiz Otávio Rocha,caldeiramaria-fernanda@example.net,Pessoa Física,2022-10-23 11:12:00,619.428.705-58,"Feira Monteiro, 47 Vila Nova 65931475 Castro / MA",29387-861,Maranhão,30.7,78.0
+505,Vitor Gabriel Rocha,brunodas-neves@example.com,Pessoa Física,2013-07-27 13:47:00,439.862.105-98,"Condomínio de Ferreira, 4 Ermelinda 72207453 da Paz do Oeste / RO",15590730,Rondônia,143.2,
+802,Esther Rocha,steixeira@example.org,Pessoa Física,2015-11-05 11:08:00,670.251.398-40,"Jardim de Pinto, 52 Bonsucesso 60509-385 da Luz de Correia / BA",64912-312,Bahia,115.5,
+818,Yago Rocha,bruna38@example.com,Pessoa Física,2021-05-08 12:31:00,654.789.301-48,"Praça de Castro, 10 Gameleira 57583291 Martins / CE",22445-315,Ceará,48.46666666666667,32.0
+66,Eduardo Sales,eloahbarbosa@example.org,Pessoa Física,2021-05-19 13:18:00,917.624.538-19,"Viela Silveira, 47 Alípio De Melo 29229921 Freitas / AM",97949-601,Amazonas,48.1,
+140,Cecília Sales,moreiraana-carolina@example.net,Pessoa Física,2015-02-10 13:47:00,062.451.389-06,"Vale Sales, 7 Varzea Da Palma 08535-205 Cardoso de Nunes / TO",98230-713,Tocantins,124.43333333333334,
+190,Juliana Sales,jmoreira@example.org,Pessoa Física,2014-10-17 14:48:00,063.891.472-87,"Avenida Elisa da Conceição, 69 Horto 93717-436 Barbosa das Pedras / AL",17350-278,Alagoas,128.3,
+193,Ana Sophia Sales,freitasheloisa@example.net,Pessoa Física,2014-06-24 14:39:00,324.870.516-71,"Via Lavínia Ferreira, 86 Parque São Pedro 66412-888 Aragão Alegre / CE",84050-003,Ceará,132.13333333333333,46.0
+345,Renan Sales,joao-miguel93@example.net,Pessoa Física,2017-12-08 13:24:00,684.097.531-20,Estação Isis Costela Jardim América 48676310 Martins do Sul / TO,69493-799,Tocantins,90.03333333333333,54.0
+544,Raquel Sales,lorenzoazevedo@example.org,Pessoa Física,2018-09-08 12:35:00,962.518.730-86,Largo Yuri Melo Nova Cintra 53237-146 Araújo / MT,95017-932,Mato Grosso,80.9,
+593,Maria Eduarda Sales,paulomoraes@example.org,Pessoa Física,2019-01-12 10:56:00,430.278.965-47,"Morro Rezende, 72 Conjunto Capitão Eduardo 10739-282 das Neves / MT",26064-419,Mato Grosso,76.7,82.0
+615,Vitória Sales,dda-costa@example.com,Pessoa Física,2021-06-11 16:02:00,567.094.218-30,"Distrito Davi Lucca Novaes, 72 Horto Florestal 73320-109 Alves de Sales / AM",13709-647,Amazonas,47.333333333333336,
+680,Enzo Sales,nathanrezende@example.org,Pessoa Física,2016-08-07 12:18:00,935.627.401-07,"Lagoa de Silveira, 52 Conjunto Jardim Filadélfia 51841-485 da Costa / GO",52737-030,Goiás,106.3,71.0
+758,João Miguel Sales,brenda09@example.org,Pessoa Física,2014-12-25 13:17:00,609.483.271-03,"Viaduto Castro, 25 Grota 32361186 Almeida / ES",68408-718,Espírito Santo,126.0,
+830,Paulo Sales,emanuella07@example.net,Pessoa Física,2018-01-11 14:07:00,472.935.086-38,Alameda Stella Dias Pongelupe 02733-045 Cunha Alegre / MG,21494-484,Minas Gerais,88.9,
+843,Maria Fernanda Sales,piresdaniela@example.net,Pessoa Física,2019-08-09 10:35:00,930.648.725-83,Chácara Azevedo Vila Satélite 19973200 Costela de Pires / RJ,3740382,Rio de Janeiro,69.73333333333333,
+873,Isabelly Sales,duartelais@example.org,Pessoa Física,2021-05-25 15:15:00,105.892.673-02,"Rua Kevin Santos, 39 Custodinha 73653949 Cavalcanti / BA",19148089,Bahia,47.9,
+931,Stephany Sales,xmelo@example.org,Pessoa Física,2020-09-14 14:09:00,659.037.814-20,Lagoa Cavalcanti Ouro Preto 47590033 Pinto / MG,62871467,Minas Gerais,56.333333333333336,25.0
+952,Stephany Sales,renan82@example.com,Pessoa Física,2019-12-04 12:14:00,926.134.570-07,"Avenida Ferreira, 83 Braúnas 60747604 Rocha / MA",50636-754,Maranhão,65.83333333333333,74.0
+89,Ana Beatriz Silva,pteixeira@example.org,Pessoa Física,2021-08-26 13:23:00,529.410.638-89,"Estrada de Araújo, 55 Maria Helena 78047-637 Silveira / TO",53954-224,Tocantins,44.8,
+97,Emanuel Silva,lara31@example.net,Pessoa Física,2021-09-28 14:36:00,817.463.290-50,"Jardim Eduarda Mendes, 69 Guaratã 72017454 Aragão de Mendes / SC",35556-306,Santa Catarina,43.7,68.0
+100,Maria Silva,ana-sophia71@example.net,Pessoa Física,2017-03-10 15:18:00,516.720.498-49,"Travessa Almeida, 1 João Paulo Ii 18073-484 da Paz das Flores / RN",74509-994,Rio Grande do Norte,99.13333333333334,
+171,Arthur Silva,pedro-lucassilveira@example.net,Pessoa Física,2022-03-04 16:24:00,945.132.768-19,"Fazenda Lívia Teixeira, 5 Bandeirantes 57287814 da Cruz / AM",58058-025,Amazonas,38.46666666666667,38.0
+224,Daniel Silva,nmoura@example.org,Pessoa Física,2019-09-20 12:30:00,243.781.560-08,"Praça Luiz Fernando Viana, 834 Vila Bandeirantes 73051762 Azevedo de Azevedo / PB",39836037,Paraíba,68.33333333333333,
+225,Leandro Silva,hmoraes@example.com,Pessoa Física,2020-08-18 14:58:00,073.691.854-00,"Viaduto de Viana, 105 Jaqueline 91856879 Cardoso do Campo / PR",30186-893,Paraná,57.233333333333334,37.0
+258,Kamilly Silva,nunesana-clara@example.org,Pessoa Física,2011-08-21 14:49:00,251.763.948-55,"Alameda Antônio Carvalho, 54 Olaria 53364659 Caldeira dos Dourados / PB",53456544,Paraíba,166.73333333333332,63.0
+279,Heloísa Silva,nuneslarissa@example.com,Pessoa Física,2018-04-09 11:15:00,409.567.832-10,"Estrada Vinicius Rezende, 35 Santa Branca 42094682 Silveira / MG",80355-665,Minas Gerais,85.96666666666667,
+330,Ana Clara Silva,da-luzalice@example.com,Pessoa Física,2022-06-11 15:44:00,950.681.274-85,"Rodovia Benjamin Araújo, 16 Vila Bandeirantes 53588419 da Conceição / MT",59204955,Mato Grosso,35.166666666666664,
+358,Natália Silva,lavinianascimento@example.com,Pessoa Física,2019-03-15 15:56:00,419.283.657-28,"PraÃ§a GonÃ§alves, 8 Lindéia 81429425 Porto / PB",14500-907,Paraíba,74.63333333333334,
+382,Luiza Silva,araujomariane@example.com,Pessoa Física,2010-02-02 14:28:00,236.854.107-17,"Quadra Duarte, 428 Bela Vitoria 06743246 Ferreira / MG",11019-585,Minas Gerais,185.56666666666666,
+456,Gustavo Henrique Silva,isaacpeixoto@example.com,Pessoa Física,2014-02-12 15:54:00,148.236.095-06,"Alameda Farias, 16 Novo Glória 82970783 Rocha do Campo / RN",73671994,Rio Grande do Norte,136.53333333333333,31.0
+465,Caué Silva,caldeirabernardo@example.net,Pessoa Física,2017-10-07 14:54:00,325.816.074-08,"Pátio de Peixoto, 26 Santa Rita 29374-160 Santos / SC",77592-484,Santa Catarina,92.1,
+606,Catarina Silva,monteiropedro@example.com,Pessoa Física,2021-06-18 14:14:00,625.098.741-01,"Travessa Juan Cavalcanti, 35 São João 04630205 Nascimento / PB",68273-210,Paraíba,47.1,
+610,Raquel Silva,ana-lauralima@example.net,Pessoa Física,2020-11-01 14:28:00,258.639.704-56,"Conjunto Ana Laura Farias, 7 Jaqueline 05466-526 Aragão de da Mata / MG",78697337,Minas Gerais,54.733333333333334,
+756,Letícia Silva,alanasales@example.com,Pessoa Física,2021-01-16 12:06:00,185.430.697-93,"Trecho Moreira, 617 Ribeiro De Abreu 80132149 Sales / MS",97477173,Mato Grosso do Sul,52.2,35.0
+849,Pietra Silva,da-motaisabelly@example.com,Pessoa Física,2021-06-05 11:43:00,276.319.548-28,"Campo de Barbosa, 50 Ernesto Nascimento 85362-692 Silveira / AM",20568868,Amazonas,47.53333333333333,
+882,Isadora Silva,stephanylopes@example.org,Pessoa Física,2020-09-20 12:10:00,108.639.542-51,"Largo Ramos, 414 Vila Cemig 42969-918 Farias / MT",14677-152,Mato Grosso,56.13333333333333,26.0
+886,Lucca Silva,barbaradias@example.org,Pessoa Física,2014-04-26 15:43:00,249.703.615-25,"Viaduto Maria Vitória Gonçalves, 4 Urca 49189394 da Mata Paulista / MS",25788873,Mato Grosso do Sul,134.1,73.0
+901,Bruno Silva,acarvalho@example.org,Pessoa Física,2020-01-18 13:48:00,027.815.934-60,"Ladeira Fogaça, 63 Minas Brasil 63151181 Teixeira / BA",96961992,Bahia,64.33333333333333,
+940,Mariana Silva,marina51@example.org,Pessoa Física,2016-10-25 11:53:00,187.394.560-48,"Vila Gomes, 2 Dom Joaquim 23336341 Alves de Goiás / PB",4974394,Paraíba,103.66666666666667,
+985,Giovanna Silva,nogueiragabriel@example.com,Pessoa Física,2018-01-18 15:15:00,398.674.215-82,"Setor Diego Sales, 54 João Alfredo 66264185 Duarte / PI",94645786,Piauí,88.66666666666667,83.0
+6,Ana Lívia Souza,calmeida@example.com,Pessoa Física,2010-03-09 12:09:00,470.631.825-44,"Largo Alexandre da Rosa, 1 Novo Ouro Preto 31934421 Novaes de Cardoso / AC",71428-512,Acre,184.4,
+17,Erick Souza,sarahda-cruz@example.org,Pessoa Física,2020-03-12 12:51:00,492.861.057-11,"Núcleo Isabel Cunha, 21 Mineirão 97284-576 Rocha / PR",70742-709,Paraná,62.53333333333333,32.0
+259,Brenda Souza,amendes@example.org,Pessoa Física,2019-10-12 12:17:00,094.615.782-02,"Núcleo de Moraes, 87 Jardinópolis 06008-538 Oliveira / MG",64223293,Minas Gerais,67.6,
+354,Isadora Souza,caldeiraemanuelly@example.net,Pessoa Física,2020-02-24 15:41:00,715.834.290-50,"Vale Leandro Pires, 69 Jardim Do Vale 00139-816 Melo / AM",45708-495,Amazonas,63.1,
+374,Lorenzo Souza,qsilveira@example.net,Pessoa Física,2013-07-28 11:52:00,951.873.026-12,"Travessa Caldeira, 6 Boa União 1ª Seção 15639600 Monteiro / AC",80623-031,Acre,143.16666666666666,68.0
+380,Francisco Souza,ana-julia74@example.com,Pessoa Física,2015-10-25 15:27:00,098.754.162-58,"Setor Ribeiro, 36 Dom Silverio 11812-186 Monteiro do Norte / PE",38887-523,Pernambuco,115.86666666666666,
+429,Evelyn Souza,da-cunhathiago@example.net,Pessoa Física,2015-05-28 15:38:00,732.059.648-29,"Praça de Ferreira, 33 Padre Eustáquio 47737-733 Gomes de Goiás / MA",14782-172,Maranhão,120.86666666666666,
+497,Ana Lívia Souza,larissa08@example.com,Pessoa Física,2021-10-25 16:18:00,467.038.529-10,"Campo Melissa da Costa, 49 Outro 82415-948 Santos da Mata / RR",98411-088,Roraima,42.8,
+571,Emilly Souza,da-conceicaogiovanna@example.com,Pessoa Física,2018-01-18 14:36:00,932.806.154-70,"Morro Ana Julia Lopes, 79 Conjunto Jatoba 81875740 Farias / CE",66019018,Ceará,88.66666666666667,
+601,Laís Souza,ana-julia25@example.com,Pessoa Física,2019-06-24 10:12:00,592.804.617-02,"Vereda de Ferreira, 17 Diamante 90493973 Cavalcanti Paulista / MG",26538-781,Minas Gerais,71.26666666666667,26.0
+692,Maria Vitória Souza,xazevedo@example.com,Pessoa Física,2014-07-11 12:48:00,897.216.530-12,"Morro de Alves, 55 Sport Club 69961-611 Nogueira / TO",74975416,Tocantins,131.56666666666666,
+767,Yuri Souza,nicole73@example.com,Pessoa Física,2019-12-06 15:52:00,653.217.804-71,"Loteamento Moraes, 74 Vila São Geraldo 98347-948 Castro do Campo / AC",46688811,Acre,65.76666666666667,
+868,Davi Lucas Souza,limabarbara@example.net,Pessoa Física,2022-12-02 13:06:00,473.862.059-29,"Travessa de Pinto, 90 Estrela Do Oriente 16648-767 Rodrigues / PR",21603-931,Paraná,29.366666666666667,
+898,Enzo Gabriel Souza,heloisa15@example.net,Pessoa Física,2013-02-25 15:54:00,325.168.074-90,"Aeroporto Rocha, 61 Vila Cloris 99323678 Moraes Alegre / PR",00147-561,Paraná,148.26666666666668,
+965,Lorena Souza,francisco43@example.net,Pessoa Física,2016-08-28 14:28:00,210.574.386-26,"Pátio Ana Luiza Moraes, 39 Confisco 00785025 Teixeira / BA",49204-295,Bahia,105.6,
+142,Luiz Otávio Viana,noahda-costa@example.net,Pessoa Física,2021-10-04 15:56:00,643.098.127-40,"Vale Melo, 96 Vila Maloca 87344059 Fernandes de Goiás / RR",58446-711,Roraima,43.5,
+371,Júlia Viana,maria-alice34@example.org,Pessoa Física,2012-12-04 12:48:00,203.167.548-62,"Trecho de Barbosa, 78 Jardim Leblon 96711910 Porto / ES",73121-676,Espírito Santo,151.03333333333333,75.0
+425,Valentina Viana,vitornovaes@example.com,Pessoa Física,2021-01-22 13:13:00,015.926.347-61,"Parque Gomes, 546 Nova Cachoeirinha 28585-458 Moraes de Goiás / SP",1609847,São Paulo,52.0,
+445,Mariane Viana,vinicius22@example.net,Pessoa Física,2019-10-18 14:44:00,576.218.940-67,"Distrito de Correia, 56 Mantiqueira 10907-694 Fogaça / MS",73044-289,Mato Grosso do Sul,67.4,
+530,Lorena Viana,catarina63@example.net,Pessoa Física,2018-02-14 12:30:00,163.208.794-40,"Rua Raul Rezende, 47 Conjunto Taquaril 87644113 Ferreira da Praia / PI",40085637,Piauí,87.76666666666667,
+612,Clarice Viana,bcorreia@example.net,Pessoa Física,2017-02-05 12:35:00,812.340.597-97,"Avenida de Gomes, 5 Coração De Jesus 66123471 da Conceição / PR",79919593,Paraná,100.23333333333333,61.0
+654,Elisa Viana,gramos@example.org,Pessoa Física,2019-05-24 12:34:00,864.952.713-28,"Lago Daniel Azevedo, 400 Vila Independencia 3ª Seção 79178213 da Mota / BA",80530791,Bahia,72.3,
+698,Heitor Viana,lpires@example.com,Pessoa Física,2018-08-14 15:16:00,768.245.390-74,"Viaduto Jesus, 80 Itaipu 72138-616 da Conceição das Flores / MS",86122-560,Mato Grosso do Sul,81.73333333333333,81.0
+733,Gabrielly Viana,da-motaeloah@example.com,Pessoa Física,2020-09-26 10:37:00,540.163.289-42,Avenida Júlia Martins Beira Linha 70330239 Jesus do Galho / ES,97449-955,Espírito Santo,55.93333333333333,
+833,Rebeca Viana,piresmarcela@example.com,Pessoa Física,2014-07-17 12:29:00,832.054.796-29,"Chácara de Caldeira, 93 Vila Jardim Alvorada 53433330 Moura / AL",81548-188,Alagoas,131.36666666666667,
+857,João Gabriel Viana,rezendemaria-cecilia@example.org,Pessoa Física,2017-05-14 14:29:00,925.036.817-86,"Largo Gustavo Campos, 54 Novo São Lucas 89590255 Barros de Vieira / RJ",93994345,Rio de Janeiro,96.96666666666667,
+896,Marina Viana,aragaoagatha@example.org,Pessoa Física,2018-06-19 14:13:00,246.385.901-60,Chácara Cunha Madre Gertrudes 93492613 Porto / CE,31235095,Ceará,83.6,25.0
+906,Emanuella Viana,alicialopes@example.net,Pessoa Física,2012-11-25 14:07:00,430.851.762-17,"Conjunto de Moura, 608 Vila Antena 19804554 Azevedo / RR",48641-854,Roraima,151.33333333333334,35.0
+922,Anthony Viana,maria-ceciliacorreia@example.com,Pessoa Física,2022-08-17 11:05:00,576.049.832-00,"Núcleo Evelyn Porto, 68 Minas Brasil 40353-580 Santos Alegre / RR",22237-337,Roraima,32.93333333333333,
+928,Ana Lívia Viana,vitor58@example.com,Pessoa Física,2022-12-16 10:46:00,785.431.629-55,"Chácara de Sales, 6 Novo Tupi 64262-820 Lopes de Costa / GO",42445519,Goiás,28.9,49.0
+936,Luiz Fernando Viana,onovaes@example.net,Pessoa Física,2017-03-27 16:43:00,310.657.829-77,"Rua Nascimento, 454 Barro Preto 07006068 Pereira do Sul / AP",63790069,Amapá,98.56666666666666,70.0
+19,Juan Barros,oazevedo@example.net,Pessoa Física,2019-10-05 13:24:00,250.861.493-98,"Lago de Moraes, 17 Vila Calafate 97747-354 Barbosa / AL",50402163,Alagoas,67.83333333333333,
+286,Arthur Barros,aragaodiogo@example.org,Pessoa Física,2021-07-12 12:27:00,042.981.536-06,"Quadra Luiz Felipe Silva, 66 Providencia 39170341 Monteiro do Galho / MG",95198-890,Minas Gerais,46.3,
+359,Renan Barros,calves@example.org,Pessoa Física,2019-01-15 11:27:00,145.028.679-85,"Rua Gabrielly Teixeira, 5 Vila Mantiqueira 57819735 Peixoto / SC",41597-578,Santa Catarina,76.6,66.0
+363,Maria Luiza Barros,mariana09@example.com,Pessoa Física,2022-05-03 11:19:00,973.526.840-00,Loteamento da Rocha Barão Homem De Melo 1ª Seção 67010422 Cardoso do Campo / MT,11833-620,Mato Grosso,36.46666666666667,33.0
+410,Mirella Barros,andre65@example.net,Pessoa Física,2019-04-22 13:24:00,312.054.796-43,"Chácara Sales, 37 Olaria 01703-287 Duarte de Nunes / SE",86348520,Sergipe,73.36666666666666,45.0
+576,Arthur Barros,ana-carolina66@example.net,Pessoa Física,2015-12-26 13:07:00,371.604.985-93,Núcleo de Gonçalves Vila Suzana Segunda Seção 99295-632 Correia Paulista / MS,53833679,Mato Grosso do Sul,113.8,
+584,Nina Barros,ana-julia39@example.net,Pessoa Física,2014-11-07 11:59:00,928.647.153-09,"Passarela Nina Nunes, 578 Jardim Atlântico 09085-697 Costa / GO",53337997,Goiás,127.6,79.0
+595,Ana Sophia Barros,da-matamarcela@example.com,Pessoa Física,2016-10-11 15:15:00,796.521.408-30,"Vale Barbosa, 4 Madre Gertrudes 10531-758 Cunha / RR",72402214,Roraima,104.13333333333334,76.0
+624,Maria Vitória Barros,pedro41@example.org,Pessoa Física,2015-08-03 16:55:00,140.863.572-08,"Núcleo Pires, 93 Nossa Senhora Do Rosário 62644406 Caldeira / MG",66313047,Minas Gerais,118.63333333333334,62.0
+657,Guilherme Barros,costelacaua@example.org,Pessoa Física,2020-03-06 13:40:00,340.178.269-03,"Quadra da Paz, 49 Novo Das Industrias 20437973 Almeida / SP",54404420,São Paulo,62.733333333333334,
+678,Caio Barros,caua25@example.net,Pessoa Física,2016-06-06 12:17:00,589.167.243-09,"Área de da Rosa, 7 Floramar 45453-267 Moreira / AP",46910487,Amapá,108.36666666666666,
+704,Davi Barros,maria-juliacarvalho@example.com,Pessoa Física,2021-10-11 14:10:00,924.068.531-60,"Loteamento da Costa, 10 Jonas Veiga 66521-003 Ribeiro de Ramos / CE",01888-571,Ceará,43.266666666666666,
+779,Ana Clara Barros,ssilva@example.org,Pessoa Física,2014-04-15 11:46:00,591.846.203-15,"Trecho de Pereira, 3 Novo Tupi 95361484 Melo Grande / AP",95294945,Amapá,134.46666666666667,
+794,Isis Barros,brunonunes@example.com,Pessoa Física,2019-11-14 11:15:00,517.689.342-82,"Viela da Luz, 664 Vila São Rafael 24907824 Nogueira / PE",26042844,Pernambuco,66.5,62.0
+45,Bianca Campos,leonardocorreia@example.org,Pessoa Física,2015-10-19 14:51:00,783.250.419-60,"Pátio de Viana, 30 São Gonçalo 46881-197 da Rocha / PA",41039-098,Pará,116.06666666666666,76.0
+75,Davi Lucas Campos,da-pazeduardo@example.com,Pessoa Física,2011-06-12 13:50:00,197.534.820-60,"Rodovia Francisco Cardoso, 408 Cabana Do Pai Tomás 58589-864 Carvalho / BA",54585-000,Bahia,169.06666666666666,
+135,Calebe Campos,yda-mata@example.com,Pessoa Física,2016-07-03 12:30:00,482.190.675-94,Morro de Melo Novo Glória 31679-981 Jesus de Araújo / MT,18419-509,Mato Grosso,107.46666666666667,
+230,Kamilly Campos,renanferreira@example.org,Pessoa Física,2020-12-22 16:37:00,768.241.309-31,"Morro Martins, 71 Renascença 86342232 Dias / MA",08164-995,Maranhão,53.03333333333333,
+274,Júlia Campos,sophia62@example.org,Pessoa Física,2018-08-16 12:55:00,563.072.984-56,"Alameda Moraes, 49 Leticia 42294034 Gomes / TO",19166-875,Tocantins,81.66666666666667,19.0
+524,Pietra Campos,camposmelissa@example.net,Pessoa Física,2019-11-02 11:32:00,847.102.593-05,Condomínio Rafael Carvalho Vila Independencia 2ª Seção 59366911 Caldeira / CE,64726243,Ceará,66.9,41.0
+588,Maria Vitória Campos,alicevieira@example.com,Pessoa Física,2019-09-07 15:19:00,103.894.675-10,"Núcleo de Campos, 46 Vila São Dimas 87547446 da Mota do Amparo / AP",77606835,Amapá,68.76666666666667,
+635,Vitor Campos,ccostela@example.net,Pessoa Física,2022-09-12 15:38:00,293.106.475-07,Jardim Marcela Costa Silveira 07501623 Rocha de Lopes / PA,66905558,Pará,32.06666666666667,
+641,Thiago Campos,calebegoncalves@example.org,Pessoa Física,2019-12-07 13:32:00,128.506.739-86,Favela Lorenzo Rodrigues Bom Jesus 99335361 da Costa de Jesus / TO,51064-127,Tocantins,65.73333333333333,
+880,Benjamin Campos,kbarbosa@example.net,Pessoa Física,2017-06-06 14:49:00,568.249.701-58,"Avenida Carolina Costa, 740 Vila Puc 00510-876 Rezende dos Dourados / MG",6819237,Minas Gerais,96.2,
+902,João Miguel Campos,luna56@example.com,Pessoa Física,2018-03-17 15:41:00,534.018.962-70,"Largo de Silva, 1 Vila Da Amizade 11206-205 Pires / AM",64098823,Amazonas,86.73333333333333,
+37,Alice Castro,gustavoalmeida@example.net,Pessoa Física,2022-07-03 16:07:00,813.456.097-01,"Aeroporto Correia, 67 Campo Alegre 59473-288 Silva / CE",28693764,Ceará,34.43333333333333,
+39,Thiago Castro,marcelacaldeira@example.net,Pessoa Física,2022-04-25 15:35:00,983.067.425-83,"Loteamento Diogo Almeida, 83 Aparecida 43075-851 Lima / RJ",35623-437,Rio de Janeiro,36.733333333333334,19.0
+105,Letícia Castro,theofernandes@example.com,Pessoa Física,2018-11-27 15:02:00,726.380.541-35,"Chácara Vinicius Moura, 35 Nova Cintra 32979693 Moreira / BA",76910649,Bahia,78.23333333333333,
+185,João Guilherme Castro,theosilveira@example.org,Pessoa Física,2011-03-23 14:06:00,583.412.067-90,"Parque Letícia Nunes, 65 Vila Calafate 27185265 Pires / PA",57735990,Pará,171.76666666666668,78.0
+219,Anthony Castro,natalia39@example.net,Pessoa Física,2022-02-17 10:52:00,369.570.184-66,"Travessa Ramos, 76 Funcionários 81165476 Monteiro das Flores / PR",30145-805,Paraná,38.96666666666667,
+290,Pietro Castro,luna07@example.com,Pessoa Física,2016-02-19 12:30:00,824.503.697-83,Vila de da Paz Conjunto Serra Verde 96440703 Rezende de Araújo / AP,85964298,Amapá,111.96666666666667,43.0
+621,Júlia Castro,gomeslucas@example.com,Pessoa Física,2015-03-11 11:29:00,785.269.430-65,"Aeroporto Gabriela Araújo, 521 Horto Florestal 94393029 Peixoto / AM",75465498,Amazonas,123.46666666666667,54.0
+763,Luiz Henrique Castro,dlopes@example.com,Pessoa Física,2016-10-19 14:58:00,094.816.725-49,"Lagoa de Gonçalves, 4 Bairro Das Indústrias Ii 48251962 Duarte / PA",55834-279,Pará,103.86666666666666,78.0
+148,Fernando Duarte,samuelmendes@example.net,Pessoa Física,2016-02-22 11:31:00,390.641.857-00,"Praia Viana, 44 Capitão Eduardo 69451-123 Teixeira de da Mata / AL",28720-323,Alagoas,111.86666666666666,56.0
+205,Ana Carolina Duarte,dteixeira@example.net,Pessoa Física,2016-01-15 11:42:00,164.780.395-01,Praça Costa Manacas 12548-182 Oliveira da Serra / RR,5433470,Roraima,113.13333333333334,
+288,Emanuel Duarte,lorena85@example.com,Pessoa Física,2018-10-08 10:40:00,965.748.021-30,"Residencial Cunha, 31 Ipiranga 14800-710 Viana do Norte / SE",88407-318,Sergipe,79.9,
+294,Lorenzo Duarte,mariada-mota@example.net,Pessoa Física,2021-05-13 11:44:00,806.954.321-33,"Morro de Lopes, 49 São Sebastião 11028-858 Pinto de Rezende / RR",14947282,Roraima,48.3,67.0
+360,Juliana Duarte,pintoluiz-miguel@example.com,Pessoa Física,2021-08-15 11:39:00,643.702.859-92,"Pátio de Lopes, 81 Santa Isabel 70488-300 da Cruz da Mata / SC",82878539,Santa Catarina,45.166666666666664,38.0
+395,Marcela Duarte,eda-conceicao@example.com,Pessoa Física,2022-12-01 15:27:00,912.308.647-50,"Campo Monteiro, 57 Floresta 48388-235 da Rosa / TO",18074779,Tocantins,29.4,
+475,Mariana Duarte,fogacaleandro@example.org,Pessoa Física,2020-05-04 13:45:00,723.549.860-92,"Quadra Ana Carolina da Cunha, 95 Santana Do Cafezal 19991-246 Ferreira / PB",51519-852,Paraíba,60.766666666666666,68.0
+487,Catarina Duarte,xcastro@example.com,Pessoa Física,2019-07-08 15:16:00,160.372.854-62,"Estrada de Azevedo, 127 Pedreira Padro Lopes 71412295 Silveira de Ribeiro / RN",77823-250,Rio Grande do Norte,70.8,
+495,Emanuelly Duarte,fbarbosa@example.org,Pessoa Física,2015-07-02 11:07:00,036.928.541-70,"Jardim de Alves, 64 Parque São José 56848686 Fernandes da Mata / BA",5554873,Bahia,119.7,63.0
+537,Valentina Duarte,laurada-rosa@example.net,Pessoa Física,2020-02-02 16:09:00,495.786.031-93,"Aeroporto de das Neves, 29 Piraja 37700621 Castro de Cunha / BA",97397-921,Bahia,63.833333333333336,
+548,Lavínia Duarte,pcastro@example.net,Pessoa Física,2021-05-24 12:19:00,713.602.495-16,Parque de Jesus São Luiz 10227-287 Freitas das Flores / ES,37638910,Espírito Santo,47.93333333333333,
+564,Miguel Duarte,ifreitas@example.com,Pessoa Física,2015-05-20 11:34:00,947.613.058-00,"Esplanada de da Paz, 6 Monte São José 27113-651 Freitas / RS",36964637,Rio Grande do Sul,121.13333333333334,
+586,Vinicius Duarte,kamilly03@example.org,Pessoa Física,2021-04-18 11:35:00,539.820.641-98,"Vereda Maria Vitória Cardoso, 68 São João 17109354 Almeida / PB",98536400,Paraíba,49.13333333333333,
+619,Julia Duarte,vitor19@example.org,Pessoa Física,2020-04-02 14:43:00,962.378.405-83,"Chácara Brenda Caldeira, 98 Tirol 94227264 Novaes / AM",47471-169,Amazonas,61.833333333333336,60.0
+732,Melissa Duarte,davi77@example.net,Pessoa Física,2018-07-26 14:07:00,860.519.243-70,"Favela de da Paz, 52 Vila Aeroporto Jaraguá 40100034 Vieira / MA",38555902,Maranhão,82.36666666666666,
+842,Maria Julia Duarte,marianenascimento@example.com,Pessoa Física,2020-10-02 10:21:00,670.125.834-44,"Rua Bianca da Conceição, 59 Conjunto Paulo Vi 14021619 Silveira do Galho / PE",13536663,Pernambuco,55.733333333333334,
+893,Lucca Duarte,nicolelopes@example.net,Pessoa Física,2022-07-19 13:30:00,176.043.259-80,"Lagoa Beatriz Correia, 93 Madre Gertrudes 06474810 Costa / ES",4783273,Espírito Santo,33.9,
+916,Lívia Duarte,psilveira@example.org,Pessoa Física,2020-01-17 11:30:00,039.285.671-95,"Distrito Nicole Alves, 28 Satelite 94123-751 da Mota / CE",46057-007,Ceará,64.36666666666666,37.0
+935,Ana Sophia Duarte,rodrigonunes@example.net,Pessoa Física,2018-03-22 15:23:00,459.360.281-51,"Loteamento de Silva, 66 Marmiteiros 19982817 Freitas / PE",25315-391,Pernambuco,86.56666666666666,
+974,Maria Julia Duarte,vianamarina@example.org,Pessoa Física,2014-07-18 15:15:00,908.352.461-24,"Parque Gomes, 90 Mirtes 13551-776 da Rocha / RJ",23947-364,Rio de Janeiro,131.33333333333334,26.0
+992,Larissa Duarte,pietroda-rocha@example.com,Pessoa Física,2020-02-13 12:01:00,453.702.916-16,Estação Monteiro Nossa Senhora Da Aparecida 84445381 da Paz do Sul / MG,53041258,Minas Gerais,63.46666666666667,43.0
+550,Ana Clara Farias,isilva@example.com,Pessoa Física,2017-06-25 15:12:00,159.704.632-99,"Travessa de Moreira, 579 Monte Azul 04729432 da Luz da Serra / AM",35253-970,Amazonas,95.56666666666666,43.0
+553,Lavínia Farias,marcos-vinicius92@example.org,Pessoa Física,2017-10-25 12:12:00,019.538.276-59,"Jardim Melo, 90 Conjunto Taquaril 87215453 Alves de Porto / AM",73186-842,Amazonas,91.5,
+640,Davi Lucas Farias,tmendes@example.org,Pessoa Física,2020-06-11 14:58:00,973.184.620-40,"Lagoa Duarte, 3 Granja De Freitas 99584-579 Lopes das Pedras / AM",54416006,Amazonas,59.5,
+819,Valentina Farias,samuel91@example.com,Pessoa Física,2022-08-02 11:24:00,263.810.974-69,"Jardim Kevin Nogueira, 529 Capitão Eduardo 02187736 da Luz / RS",36872-995,Rio Grande do Sul,33.43333333333333,
+870,Arthur Farias,dteixeira@example.net,Pessoa Física,2017-12-20 11:12:00,671.590.238-03,"Praia de Pires, 90 Vale Do Jatoba 32283688 Azevedo / GO",43431-930,Goiás,89.63333333333334,27.0
+978,Breno Farias,lopesvitor-hugo@example.com,Pessoa Física,2022-03-07 14:38:00,269.357.041-70,"Setor Gustavo Henrique Dias, 89 Jardim Montanhês 59366-662 Aragão / SP",72750-274,São Paulo,38.36666666666667,76.0
+33,Vitor Gabriel Mendes,gabrielada-conceicao@example.org,Pessoa Física,2016-11-10 13:52:00,235.087.649-74,"Feira Moraes, 72 Piraja 92690-290 da Luz Grande / AC",58000199,Acre,103.13333333333334,
+101,Enrico Mendes,da-costavitor@example.com,Pessoa Física,2018-11-05 14:17:00,543.918.762-64,Estação de Vieira Barão Homem De Melo 1ª Seção 55506-524 Barbosa de Viana / PE,54951-507,Pernambuco,78.96666666666667,50.0
+103,Isis Mendes,raul30@example.net,Pessoa Física,2018-05-25 13:51:00,370.592.846-56,"Alameda Teixeira, 42 Sport Club 87627-420 Gonçalves Alegre / RS",36001-295,Rio Grande do Sul,84.43333333333334,
+213,Gabriela Mendes,vcardoso@example.net,Pessoa Física,2019-08-18 11:33:00,712.960.358-59,"Rodovia Otávio Caldeira, 348 Primeiro De Maio 60349419 da Cruz de Freitas / AP",02265-501,Amapá,69.43333333333334,34.0
+295,Kamilly Mendes,gabrielly68@example.com,Pessoa Física,2017-07-13 13:27:00,789.613.420-96,"Vereda de Aragão, 33 Goiania 85239-665 Silva / PA",35498603,Pará,94.96666666666667,54.0
+323,Rafael Mendes,marcos-viniciusmonteiro@example.org,Pessoa Física,2015-06-14 16:51:00,687.341.059-48,"Feira de Pereira, 956 Itapoa 15282013 Viana / RR",78151-537,Roraima,120.3,
+335,Daniel Mendes,freitasjoana@example.org,Pessoa Física,2022-01-02 11:09:00,103.986.527-59,Colônia de Peixoto Carlos Prates 71637-087 Jesus dos Dourados / PE,95977393,Pernambuco,40.5,
+476,Thiago Mendes,enogueira@example.org,Pessoa Física,2018-05-26 15:11:00,387.045.196-39,Fazenda Yuri Ramos Nova Suíça 18318-047 Almeida da Mata / MA,43688-770,Maranhão,84.4,
+633,Caio Mendes,diegocavalcanti@example.net,Pessoa Física,2011-05-08 13:51:00,032.479.165-80,"Passarela Benício da Rocha, 7 Santa Inês 34620470 da Mata dos Dourados / PA",8093154,Pará,170.23333333333332,
+650,Brenda Mendes,bmonteiro@example.org,Pessoa Física,2022-07-12 13:16:00,964.357.208-00,"Feira Carvalho, 9 Sport Club 55050-039 Araújo Verde / MA",81446657,Maranhão,34.13333333333333,
+36,Enzo Gabriel Moraes,beniciopinto@example.net,Pessoa Física,2012-02-17 15:58:00,718.634.902-13,"Rua Cunha, 55 Vila Nova Dos Milionarios 16425-858 Nascimento / SC",36567-846,Santa Catarina,160.73333333333332,69.0
+40,Marcela Moraes,vitor92@example.org,Pessoa Física,2015-04-14 14:50:00,587.192.463-82,"Lago de Cavalcanti, 24 Parque São José 53257316 Rezende do Galho / PB",68473580,Paraíba,122.33333333333333,59.0
+228,Juan Moraes,tcostela@example.net,Pessoa Física,2022-03-04 13:41:00,456.932.780-00,"Quadra de Peixoto, 22 Vila Puc 62498734 da Rocha de Goiás / PE",30944-978,Pernambuco,38.46666666666667,55.0
+322,Enrico Moraes,esthercaldeira@example.com,Pessoa Física,2014-06-27 15:40:00,523.904.786-38,"Travessa de Fogaça, 90 Pousada Santo Antonio 09628-610 Cardoso / RO",29854724,Rondônia,132.03333333333333,
+412,Enzo Moraes,marcelasales@example.net,Pessoa Física,2020-12-01 14:13:00,193.520.874-88,Área de da Rosa Santa Cruz 83177213 Gonçalves de Mendes / RR,19613-119,Roraima,53.733333333333334,51.0
+414,Sarah Moraes,bianca37@example.org,Pessoa Física,2017-04-10 14:29:00,854.176.290-49,"Campo Alícia Moura, 41 Barão Homem De Melo 3ª Seção 90575391 Pereira do Sul / PB",79765622,Paraíba,98.1,17.0
+554,Emanuel Moraes,santosenzo-gabriel@example.org,Pessoa Física,2022-06-02 15:03:00,578.613.240-44,"Via da Paz, 9 Vila Da Ária 01280-233 Moura Alegre / AL",59958-346,Alagoas,35.46666666666667,82.0
+683,Luiz Otávio Moraes,araujoana@example.com,Pessoa Física,2022-03-06 13:25:00,497.250.316-52,Alameda de Pinto Paraíso 02797266 Sales Grande / AP,24508-434,Amapá,38.4,62.0
+708,Eduardo Moraes,haraujo@example.net,Pessoa Física,2020-07-19 11:21:00,653.879.041-01,"Favela Daniela Pereira, 320 Providencia 84467054 Sales do Norte / AM",16577479,Amazonas,58.233333333333334,34.0
+738,João Vitor Moraes,laisdas-neves@example.net,Pessoa Física,2018-12-19 16:10:00,810.927.654-76,Jardim Pietro GonÃ§alves Vila Real 1Âª SeÃ§ão 87016-537 Cunha de Rocha / PB,10322-871,Paraíba,77.5,
+778,Igor Moraes,pietrosouza@example.net,Pessoa Física,2018-12-21 14:46:00,471.206.598-20,"Vereda Vieira, 72 Carmo 07354490 Nascimento Paulista / RR",86050-358,Roraima,77.43333333333334,42.0
+800,Fernanda Moraes,pietro80@example.com,Pessoa Física,2015-02-25 15:05:00,730.695.284-65,"Conjunto Maria Sophia Porto, 92 Conjunto Santa Maria 76612-828 Ribeiro / RO",79107382,Rondônia,123.93333333333334,32.0
+846,Júlia Moraes,correiabryan@example.net,Pessoa Física,2013-10-12 10:33:00,583.964.721-73,"Esplanada de Araújo, 89 Beira Linha 68431861 Campos / AL",8907828,Alagoas,140.63333333333333,
+877,Emanuella Moraes,laura76@example.org,Pessoa Física,2013-02-11 11:31:00,149.572.036-52,"Distrito Duarte, 27 Vila Betânia 12196-782 Barbosa de Nunes / AM",48120724,Amazonas,148.73333333333332,
+912,Bruna Moraes,carolinepeixoto@example.net,Pessoa Física,2020-07-16 12:22:00,043.586.179-48,"Praia Heitor Martins, 550 Vila Atila De Paiva 54339-769 da Mata / PA",02217-338,Pará,58.333333333333336,
+918,Julia Moraes,laisnogueira@example.com,Pessoa Física,2020-05-16 11:58:00,518.302.649-15,Setor Fogaça Mirante 97926-776 da Paz do Galho / MS,27479-650,Mato Grosso do Sul,60.36666666666667,
+938,Isabel Moraes,ana-luizacampos@example.com,Pessoa Física,2016-12-12 12:27:00,542.783.619-55,Fazenda João Lucas Lima Nossa Senhora Aparecida 67019105 das Neves do Oeste / SC,26391863,Santa Catarina,102.06666666666666,27.0
+983,Manuela Moraes,ogomes@example.net,Pessoa Física,2019-04-15 12:52:00,415.369.827-09,"Estrada Emanuella Rodrigues, 71 Vila Antena Montanhês 80401-864 Duarte / PR",18035963,Paraná,73.6,
+20,Lara Novaes,ana-vitoriada-mota@example.com,Pessoa Física,2021-05-20 15:06:00,195.243.680-05,"Chácara Kaique Souza, 43 Granja De Freitas 48647-530 Vieira de Minas / AC",77067-771,Acre,48.06666666666667,
+29,João Novaes,xpinto@example.net,Pessoa Física,2015-07-27 11:08:00,607.241.958-58,"Ãrea Cardoso, 155 Beténia 18705056 Freitas / PA",92648022,Pará,118.86666666666666,
+51,Pietra Novaes,afreitas@example.com,Pessoa Física,2022-01-18 14:52:00,641.978.520-02,"Rodovia Campos, 83 Vila Nova Cachoeirinha 1ª Seção 98409255 Jesus do Galho / RS",20739-657,Rio Grande do Sul,39.96666666666667,24.0
+120,Lucas Gabriel Novaes,opereira@example.org,Pessoa Física,2021-11-18 10:05:00,948.507.132-97,"Vila de Monteiro, 8 Marieta 2ª Seção 99015734 Castro do Sul / AP",37378-687,Amapá,42.0,
+168,Bárbara Novaes,lucas-gabrielnovaes@example.org,Pessoa Física,2012-12-20 16:11:00,709.186.435-20,"Passarela de Novaes, 10 Boa União 2Âª SeÃ§ão 79113654 Santos / RJ",88515-404,Rio de Janeiro,150.5,
+520,André Novaes,da-motahenrique@example.net,Pessoa Física,2019-11-03 16:26:00,954.261.073-43,"Colônia de Dias, 249 Coqueiros 75446-716 da Luz de Correia / RJ",04127-343,Rio de Janeiro,66.86666666666666,25.0
+543,Ana Júlia Novaes,antonio35@example.net,Pessoa Física,2017-07-05 15:58:00,024.719.658-49,"Viaduto Barbosa, 58 Etelvina Carneiro 15413-609 Fernandes / TO",95011-680,Tocantins,95.23333333333333,21.0
+598,Davi Luiz Novaes,andregomes@example.com,Pessoa Física,2015-02-09 13:15:00,012.473.695-52,"Colônia Ana Novaes, 97 Prado 92364159 Lima / MS",84829001,Mato Grosso do Sul,124.46666666666667,26.0
+648,Renan Novaes,fariasjuan@example.org,Pessoa Física,2021-07-28 15:32:00,048.261.935-05,"Loteamento Cunha, 14 Serrano 79284-464 Teixeira da Prata / MA",81822-316,Maranhão,45.766666666666666,36.0
+744,Clarice Novaes,gustavo55@example.org,Pessoa Física,2012-03-21 11:46:00,327.805.914-04,"Pátio de da Costa, 78 Túnel De Ibirité 91951-698 Barbosa / PE",65986-747,Pernambuco,159.63333333333333,
+762,Sabrina Novaes,ferreirarenan@example.org,Pessoa Física,2022-09-15 14:36:00,862.174.053-26,"Parque Pires, 66 Solar Do Barreiro 16251606 Martins da Mata / DF",73222953,Distrito Federal,31.966666666666665,57.0
+844,Ana Laura Novaes,maite19@example.org,Pessoa Física,2022-09-19 12:48:00,932.516.784-00,"Setor de Costa, 810 Colégio Batista 39328445 Oliveira de Minas / ES",44399366,Espírito Santo,31.833333333333332,
+981,Kamilly Novaes,elisa65@example.net,Pessoa Física,2021-09-13 14:38:00,784.526.130-08,"Travessa Porto, 1 Ouro Preto 93007811 Viana do Campo / RO",02101-190,Rondônia,44.2,
+13,Sophie Santos,tsantos@example.org,Pessoa Física,2022-12-16 11:20:00,691.038.475-00,"Praça Maria Luiza Peixoto, 8 Sion 41511-505 da Luz do Sul / TO",51923031,Tocantins,28.9,32.0
+60,Luiz Fernando Santos,maria-sophia76@example.com,Pessoa Física,2017-11-28 14:52:00,601.827.534-17,"Núcleo Leonardo Carvalho, 2 Santa Sofia 98591930 Castro / TO",19629-983,Tocantins,90.36666666666666,
+151,Maité Santos,mcardoso@example.net,Pessoa Física,2018-03-09 15:53:00,765.410.892-30,"Via Peixoto, 382 Vila Formosa 31903911 da Mota / ES",35686159,Espírito Santo,87.0,
+188,Bárbara Santos,benjaminmoreira@example.org,Pessoa Física,2022-11-12 14:02:00,496.325.108-60,"Sítio de Sales, 90 Pongelupe 09139183 Pereira / RJ",23499-744,Rio de Janeiro,30.033333333333335,73.0
+204,Murilo Santos,augustopeixoto@example.org,Pessoa Física,2021-02-23 16:46:00,831.250.967-40,"Aeroporto Fogaça, 85 Flavio Marques Lisboa 45322737 da Costa / MT",02417-883,Mato Grosso,50.93333333333333,22.0
+237,Diogo Santos,cecilia66@example.com,Pessoa Física,2021-07-28 11:45:00,630.819.245-70,"Vale de Cunha, 28 Coração Eucarístico 57431782 da Cruz / SE",50773-129,Sergipe,45.766666666666666,
+276,Ryan Santos,julianafarias@example.com,Pessoa Física,2021-02-03 11:25:00,861.397.542-91,Estação de Oliveira Gutierrez 96932657 da Cunha / PR,15309-406,Paraná,51.6,
+341,Maria Vitória Santos,rezendejoao-gabriel@example.com,Pessoa Física,2016-04-12 12:25:00,382.709.456-92,"Esplanada da Cunha, 93 Vila Atila De Paiva 68152259 Peixoto da Praia / AC",73042220,Acre,110.2,
+406,Emanuella Santos,felipe23@example.com,Pessoa Física,2017-08-25 13:16:00,961.807.423-40,"Sítio de Rezende, 8 Anchieta 43074-122 Cardoso / PR",44099-630,Paraná,93.53333333333333,
+436,Amanda Santos,ana-juliamendes@example.com,Pessoa Física,2019-12-10 12:32:00,071.684.293-96,"Conjunto Pedro Miguel das Neves, 44 Boa Esperança 05815884 Pereira / RJ",17775-526,Rio de Janeiro,65.63333333333334,53.0
+462,Paulo Santos,emanuellaalves@example.com,Pessoa Física,2016-11-19 13:53:00,452.986.130-98,"Colônia Vitória Jesus, 77 Castelo 11731280 Cardoso Verde / AM",72543224,Amazonas,102.83333333333333,
+502,Bruna Santos,oalves@example.org,Pessoa Física,2021-12-19 15:05:00,506.798.431-75,"Trecho Pereira, 2 São Cristóvão 02107640 Barros / SP",81864640,São Paulo,40.96666666666667,
+651,Maria Santos,fernandesclarice@example.org,Pessoa Física,2016-07-14 12:22:00,781.952.634-37,"Condomínio Maria Julia Santos, 808 Jardinópolis 75099253 Peixoto de Minas / CE",55688182,Ceará,107.1,34.0
+750,Vitória Santos,pintojoao@example.net,Pessoa Física,2012-05-05 11:32:00,865.014.973-10,"Vila de da Cunha, 34 Anchieta 28167329 Silva da Praia / PA",37929375,Pará,158.13333333333333,66.0
+754,João Vitor Santos,calebecampos@example.net,Pessoa Física,2022-12-15 14:27:00,458.716.320-17,"Loteamento Nunes, 1 Madre Gertrudes 69306319 Aragão Alegre / GO",33631-389,Goiás,28.933333333333334,56.0
+810,Erick Santos,costelajoao-guilherme@example.org,Pessoa Física,2017-07-07 15:17:00,620.154.938-24,Residencial Barros Pousada Santo Antonio 00818-311 Mendes de Barros / RO,55910-812,Rondônia,95.16666666666667,35.0
+920,Clara Santos,ian88@example.net,Pessoa Física,2021-01-22 13:48:00,608.943.715-84,"Sítio Ana Júlia Novaes, 7 Jardim São José 85362-106 Moreira Paulista / SC",76057165,Santa Catarina,52.0,
+943,Lucas Gabriel Santos,ana-clara77@example.org,Pessoa Física,2017-09-07 15:09:00,375.698.102-95,"Rodovia de Cavalcanti, 2 Santa Maria 85253-940 da Mota / ES",37436528,Espírito Santo,93.1,82.0
+970,Davi Luiz Santos,pedro-miguel99@example.org,Pessoa Física,2021-01-07 15:42:00,129.680.347-31,"Quadra de Barbosa, 38 Castanheira 15014-395 Fernandes das Flores / AL",02065-237,Alagoas,52.5,60.0
+84,Lucas Vieira,maria-alice75@example.net,Pessoa Física,2021-05-18 13:34:00,784.620.139-50,"Estação Enzo Gabriel Barros, 98 Serra Do Curral 65953-572 Rocha / SE",1802105,Sergipe,48.13333333333333,
+192,Carolina Vieira,cauadas-neves@example.com,Pessoa Física,2015-09-27 11:21:00,209.316.875-86,"Praia de Duarte, 51 Vila Paquetá 76244-940 das Neves / ES",01651-705,Espírito Santo,116.8,
+229,Nicolas Vieira,wpeixoto@example.org,Pessoa Física,2013-01-20 11:26:00,251.807.934-32,Pátio de Alves Vila Ouro Minas 17435-767 Fernandes / MS,75949393,Mato Grosso do Sul,149.46666666666667,
+236,Vitória Vieira,ucavalcanti@example.com,Pessoa Física,2020-02-25 11:42:00,438.610.279-50,Lagoa Novaes Vila Nova Cachoeirinha 3Âª SeÃ§ão 63702849 Fernandes / ES,85701095,Espírito Santo,63.06666666666667,
+343,Luiz Gustavo Vieira,danielada-cruz@example.org,Pessoa Física,2021-09-20 12:12:00,398.712.650-77,"Campo de Silva, 14 Confisco 47012-193 Azevedo / AL",3071741,Alagoas,43.96666666666667,
+407,Eduardo Vieira,vitor-gabrielduarte@example.org,Pessoa Física,2019-05-18 13:18:00,198.203.467-03,"Passarela Marcelo Silva, 1 Esperança 85057312 Ribeiro / DF",11102-836,Distrito Federal,72.5,
+461,Luiz Felipe Vieira,evelyn92@example.com,Pessoa Física,2021-03-12 15:04:00,415.639.078-01,"Passarela de Barbosa, 552 Novo Santa Cecilia 24845-782 Fernandes do Campo / DF",26853-378,Distrito Federal,50.36666666666667,
+516,Maria Alice Vieira,qoliveira@example.org,Pessoa Física,2019-09-19 15:25:00,534.716.029-25,"Estrada Silveira, 31 Conjunto Santa Maria 19867-202 Pereira / ES",14501-313,Espírito Santo,68.36666666666666,
+545,Pedro Henrique Vieira,nascimentothales@example.com,Pessoa Física,2019-12-16 10:22:00,347.016.892-03,"Travessa de Martins, 768 Vila Aeroporto Jaraguá 29315-900 Sales do Campo / PB",68469-740,Paraíba,65.43333333333334,
+600,Luigi Vieira,henrique46@example.com,Pessoa Física,2021-01-10 15:35:00,421.893.657-91,"Área Duarte, 64 Jardim Felicidade 36546-645 Pires da Mata / MA",47917222,Maranhão,52.4,67.0
+639,João Lucas Vieira,barbosamariana@example.net,Pessoa Física,2020-04-16 13:45:00,915.028.643-98,"Pátio Barbosa, 69 Alto CaiÃ§aras 70280755 Almeida Alegre / PB",52803-114,Paraíba,61.36666666666667,
+712,Thomas Vieira,leticiada-rocha@example.org,Pessoa Física,2019-06-16 12:47:00,890.562.173-21,"Conjunto de Silveira, 71 Santa Branca 12944-489 da Mata de Pereira / TO",15984-247,Tocantins,71.53333333333333,
+773,Vitor Hugo Vieira,dbarros@example.net,Pessoa Física,2018-02-27 16:20:00,136.784.520-35,"Ladeira Sales, 37 Sagrada Família 39491-441 Castro das Flores / RN",14038881,Rio Grande do Norte,87.33333333333333,
+814,Diogo Vieira,xribeiro@example.com,Pessoa Física,2014-09-09 14:55:00,805.469.132-70,"Núcleo Lopes, 101 Vila São Gabriel Jacui 50247-386 da Paz Alegre / CE",20079-824,Ceará,129.56666666666666,
+875,Juan Vieira,helenada-cunha@example.org,Pessoa Física,2015-01-18 15:07:00,529.784.631-55,"Jardim de da Mata, 814 Jatobá 47807379 Sales da Praia / BA",50034-079,Bahia,125.2,44.0
+948,Maria Vitória Vieira,portoana-carolina@example.com,Pessoa Física,2016-09-25 15:39:00,473.860.912-22,Feira Lima Tiradentes 92887274 Azevedo das Flores / PR,03625-157,Paraná,104.66666666666667,
+953,Miguel Vieira,lucas-gabriel49@example.com,Pessoa Física,2015-06-11 15:05:00,049.571.362-70,"Sítio Emanuella Araújo, 14 Vila Jardim Alvorada 97368-532 Farias / TO",8810805,Tocantins,120.4,
+971,Lucas Vieira,cfogaca@example.org,Pessoa Física,2021-02-12 12:24:00,203.459.768-00,"Rodovia da Paz, 427 Canadá 00574-813 Cardoso / PE",1900664,Pernambuco,51.3,57.0
+994,Davi Vieira,ana-sophia40@example.net,Pessoa Física,2015-12-02 12:23:00,205.714.936-61,"Colônia João Guilherme Nascimento, 57 Vila Copacabana 91067-853 Mendes / RJ",10730371,Rio de Janeiro,114.6,
+102,Laís da Luz,laura44@example.com,Pessoa Física,2015-02-28 16:28:00,723.810.456-35,"Área de Martins, 1 Pindorama 32716-804 Cunha / AL",46894157,Alagoas,123.83333333333333,
+244,Agatha da Luz,souzalucas-gabriel@example.net,Pessoa Física,2012-04-20 13:36:00,162.975.480-30,"Travessa de Pereira, 4 Conjunto Santa Maria 85409634 Ribeiro da Serra / RN",80189860,Rio Grande do Norte,158.63333333333333,64.0
+417,Cauã da Luz,da-luzvicente@example.com,Pessoa Física,2022-10-17 13:56:00,170.945.368-01,"Pátio Theo Nunes, 92 Bandeirantes 45313130 Viana / GO",17116-057,Goiás,30.9,25.0
+473,Maria Sophia da Luz,isabellarodrigues@example.org,Pessoa Física,2016-01-02 10:15:00,674.890.153-75,"Quadra Sales, 6 João Pinheiro 06829-829 Farias / PA",94233-086,Pará,113.56666666666666,18.0
+498,Noah da Luz,emilly25@example.com,Pessoa Física,2015-08-25 14:46:00,271.846.503-44,"Viela Guilherme Peixoto, 460 Vila Atila De Paiva 54579081 Oliveira / PE",56495606,Pernambuco,117.9,
+534,Ana Luiza da Luz,joao-gabrielrocha@example.net,Pessoa Física,2015-01-25 16:56:00,743.205.896-29,"Vale Alves, 14 Jardim Atlântico 62872934 da Cruz do Norte / BA",68532-892,Bahia,124.96666666666667,31.0
+592,Evelyn da Luz,cgomes@example.com,Pessoa Física,2014-10-28 14:46:00,065.329.748-38,Conjunto Erick da Cunha Xangri-Lá 91522-348 Costa / AP,76243-469,Amapá,127.93333333333334,
+636,Alícia da Luz,otavio09@example.com,Pessoa Física,2016-12-26 15:16:00,452.701.836-17,Alameda Ana Vitória Barros Chácara Leonina 32866-577 FogaÃ§a / AL,36233255,Alagoas,101.6,
+655,Vitória da Luz,ferreiraluiz-gustavo@example.com,Pessoa Física,2016-02-11 14:22:00,534.291.076-52,"Residencial de Barbosa, 33 Carlos Prates 54142-616 Lima do Oeste / AP",01682-762,Amapá,112.23333333333333,32.0
+714,Calebe da Luz,cardosoyuri@example.com,Pessoa Física,2015-06-18 11:20:00,416.298.370-40,"Campo Moreira, 3 Miramar 27396-756 Correia / BA",25099-614,Bahia,120.16666666666667,70.0
+716,Emanuel da Luz,antonioferreira@example.net,Pessoa Física,2019-05-02 16:21:00,214.907.658-67,Viela Maria Eduarda da Rocha Marilandia 84196-935 Jesus das Pedras / MA,67467-482,Maranhão,73.03333333333333,64.0
+722,Mariane da Luz,emanuelsales@example.net,Pessoa Física,2018-05-16 13:22:00,134.706.295-52,"Distrito Cunha, 99 Belmonte 71696-472 Novaes / RN",28587-599,Rio Grande do Norte,84.73333333333333,
+749,Maria Eduarda da Luz,costelalavinia@example.net,Pessoa Física,2018-08-23 12:31:00,843.720.915-32,"Residencial Sarah Cardoso, 48 Vila Piratininga 72216-079 Rezende de Costa / MA",64341769,Maranhão,81.43333333333334,
+753,Maria Luiza da Luz,gabrielly88@example.net,Pessoa Física,2017-07-04 15:05:00,123.598.074-04,"Sítio da Rocha, 782 Anchieta 78582065 Carvalho de Silveira / PR",50261-096,Paraná,95.26666666666667,
+785,Daniela da Luz,sarahda-conceicao@example.net,Pessoa Física,2021-03-15 15:01:00,256.918.430-60,"Trevo Ryan das Neves, 83 Jaraguá 30994887 Cavalcanti Verde / RN",73982-067,Rio Grande do Norte,50.266666666666666,
+821,Clara da Luz,marianaduarte@example.com,Pessoa Física,2012-03-12 12:31:00,846.231.075-07,"Setor Mirella Carvalho, 660 Atila De Paiva 25278-215 Carvalho da Mata / GO",98938-535,Goiás,159.93333333333334,20.0
+838,Luiz Miguel da Luz,alicia60@example.com,Pessoa Física,2013-11-15 16:17:00,869.204.573-00,"Chácara Cunha, 98 Conjunto Floramar 62501204 Nascimento do Amparo / PA",94247-539,Pará,139.5,33.0
+10,Cecília da Paz,anthonymendes@example.net,Pessoa Física,2020-11-03 14:04:00,590.412.836-33,Rua Barbosa Belmonte 20407522 Moura de Santos / MG,91891634,Minas Gerais,54.666666666666664,33.0
+50,Theo da Paz,heitordas-neves@example.com,Pessoa Física,2021-11-17 16:16:00,284.701.693-78,"Conjunto de da Cunha, 58 Vila Vista Alegre 73062686 Nogueira / PI",12180-103,Piauí,42.03333333333333,19.0
+95,Luiz Gustavo da Paz,nina11@example.net,Pessoa Física,2021-09-22 15:00:00,852.107.496-49,"Trecho de Duarte, 8 Virgínia 56451275 Campos / SP",67594-724,São Paulo,43.9,21.0
+106,Maria Sophia da Paz,talmeida@example.net,Pessoa Física,2010-08-14 15:55:00,678.435.901-10,"Condomínio Clarice Porto, 79 Eymard 40757583 Araújo do Amparo / RR",43504963,Roraima,179.13333333333333,
+110,Ana Júlia da Paz,anthonysilveira@example.com,Pessoa Física,2020-06-19 16:06:00,381.642.570-44,"Travessa Cavalcanti, 26 Vila Satélite 15519413 Campos do Campo / MG",25323-209,Minas Gerais,59.233333333333334,49.0
+143,Amanda da Paz,maria-luizada-rocha@example.com,Pessoa Física,2020-04-19 13:29:00,879.543.126-82,Favela de Rocha João Paulo Ii 00138658 Carvalho / PR,77048-875,Paraná,61.266666666666666,24.0
+194,Thomas da Paz,da-rochabruno@example.org,Pessoa Física,2016-12-18 14:20:00,925.468.301-98,"Aeroporto de Moraes, 89 Lorena 04389826 Rodrigues de da Paz / ES",79586-846,Espírito Santo,101.86666666666666,
+253,Alexia da Paz,da-motapedro-miguel@example.org,Pessoa Física,2022-05-27 11:17:00,698.435.172-37,"Sítio de Dias, 71 Conjunto Serra Verde 23462-202 Correia / AP",57281-793,Amapá,35.666666666666664,
+347,Diego da Paz,beatrizdias@example.org,Pessoa Física,2011-02-03 16:40:00,861.793.045-48,"Alameda de Cunha, 3 Boa Esperança 35767424 Pires de Sales / RN",48898293,Rio Grande do Norte,173.36666666666667,
+353,Joaquim da Paz,pcardoso@example.net,Pessoa Física,2021-10-19 12:13:00,803.219.465-70,"Trecho da Cruz, 5 Ventosa 08912-034 Martins / CE",30966-116,Ceará,43.0,
+403,Ana Luiza da Paz,thomasbarbosa@example.com,Pessoa Física,2020-03-17 13:11:00,842.317.906-04,"Loteamento de Almeida, 8 Barão Homem De Melo 1ª Seção 04842-530 Peixoto de Minas / DF",84319-828,Distrito Federal,62.36666666666667,
+500,Caroline da Paz,correiadaniela@example.net,Pessoa Física,2016-11-20 13:28:00,567.348.209-47,"Distrito Azevedo, 89 Vila Aeroporto 30548410 Barros da Prata / ES",84381061,Espírito Santo,102.8,
+506,Eloah da Paz,vitor-hugoda-cruz@example.org,Pessoa Física,2017-11-25 16:17:00,834.570.296-10,"Favela de Santos, 53 Pindura Saia 49020-791 Nogueira da Serra / ES",61725909,Espírito Santo,90.46666666666667,31.0
+776,Manuela da Paz,kamilly98@example.org,Pessoa Física,2021-03-14 15:58:00,748.530.296-56,"Vereda de Aragão, 69 Vila Santa Rosa 91326-243 Jesus / AL",94563-369,Alagoas,50.3,70.0
+867,Anthony da Paz,nathanribeiro@example.com,Pessoa Física,2016-10-14 12:02:00,726.903.451-61,"Fazenda de Dias, 20 Nova Cintra 22533-166 Lopes Paulista / RO",40562934,Rondônia,104.03333333333333,
+888,Fernanda da Paz,agatha02@example.org,Pessoa Física,2016-04-13 11:01:00,493.527.810-23,"Núcleo Pietro da Paz, 4 Luxemburgo 49823490 Carvalho / MS",81164-915,Mato Grosso do Sul,110.16666666666667,23.0
+894,Miguel da Paz,luna20@example.org,Pessoa Física,2019-06-04 12:01:00,531.697.248-19,"Avenida Novaes, 29 Baleia 65172-294 Cardoso / AC",20478-520,Acre,71.93333333333334,71.0
+14,Rafaela Almeida,vicente09@example.org,Pessoa Física,2014-08-26 14:14:00,271.395.804-05,"Lago Gabrielly Martins, 29 Calafate 26223-583 da Mata / MA",60290-611,Maranhão,130.03333333333333,
+16,Nicolas Almeida,arezende@example.org,Pessoa Física,2018-04-20 12:01:00,142.356.079-52,"Ladeira Lorena Aragão, 5 São Bento 04689671 Moraes da Mata / SP",91014485,São Paulo,85.6,30.0
+48,Marcos Vinicius Almeida,martinspaulo@example.net,Pessoa Física,2019-03-09 16:19:00,501.482.937-60,"Chácara Amanda Santos, 261 União 52436-400 Fogaça / AP",58403-824,Amapá,74.83333333333333,68.0
+119,Nicolas Almeida,pereiraana-julia@example.net,Pessoa Física,2020-01-14 10:20:00,021.837.645-62,"Largo da Rosa, 7 Buritis 45383-999 Rodrigues / SE",34227301,Sergipe,64.46666666666667,
+128,Carolina Almeida,emanuellacaldeira@example.net,Pessoa Física,2018-05-22 12:30:00,619.834.257-37,"Esplanada da Luz, 82 Custodinha 80877647 Viana do Campo / SP",90777463,São Paulo,84.53333333333333,82.0
+212,Vitória Almeida,miguel32@example.net,Pessoa Física,2021-04-09 15:40:00,381.576.940-00,"Esplanada Castro, 96 Padre Eustáquio 77331429 Pereira / GO",88489-764,Goiás,49.43333333333333,22.0
+227,Vitor Almeida,valentinacastro@example.org,Pessoa Física,2022-12-27 13:30:00,038.572.416-08,Lagoa Rebeca Costela Acaba Mundo 54722189 da Costa / MG,60794-612,Minas Gerais,28.533333333333335,60.0
+297,Valentina Almeida,gomesraul@example.com,Pessoa Física,2018-08-11 13:45:00,513.269.804-24,"Residencial de Oliveira, 12 Vila Nossa Senhora Do Rosário 05139-024 Farias / PE",10207922,Pernambuco,81.83333333333333,73.0
+312,Ana Laura Almeida,fernandesana-livia@example.com,Pessoa Física,2022-07-12 16:34:00,654.098.213-51,Conjunto Fernandes Novo Glória 18748994 Costa / RO,29021919,Rondônia,34.13333333333333,
+391,Anthony Almeida,fda-conceicao@example.org,Pessoa Física,2020-06-21 11:39:00,083.415.276-26,"Loteamento Marcelo Melo, 4 Brasil Industrial 66720124 Araújo Grande / DF",04554-217,Distrito Federal,59.166666666666664,26.0
+532,Heloísa Almeida,lorena15@example.net,Pessoa Física,2021-07-13 14:56:00,054.897.126-94,"Lago Cardoso, 25 Venda Nova 91678327 Gonçalves / SC",67892719,Santa Catarina,46.266666666666666,20.0
+647,Augusto Almeida,henriqueda-rocha@example.com,Pessoa Física,2018-12-19 13:08:00,592.631.874-28,"Recanto de da Conceição, 7 Senhor Dos Passos 18905997 da Costa de Nogueira / PB",01814-432,Paraíba,77.5,60.0
+832,Luigi Almeida,bryanviana@example.com,Pessoa Física,2012-12-25 15:27:00,257.369.184-55,"Colônia Ribeiro, 85 Santo André 30119-374 da Paz Verde / PA",93983938,Pará,150.33333333333334,41.0
+856,Nicole Almeida,guilhermesales@example.com,Pessoa Física,2015-06-24 15:02:00,259.406.318-51,"Setor Ana Laura Moura, 65 Mangabeiras 00902-688 Aragão Alegre / PR",39587-897,Paraná,119.96666666666667,
+883,Sabrina Almeida,maria-cecilia82@example.org,Pessoa Física,2015-09-05 16:18:00,389.047.162-50,Conjunto Aragão Serrano 88509069 Gomes / PB,26119727,Paraíba,117.53333333333333,26.0
+915,Yago Almeida,ana-sophia34@example.org,Pessoa Física,2018-12-25 12:03:00,452.018.697-85,"Pátio Ana Julia Martins, 57 Comiteco 50652-848 da Cruz do Norte / MA",3756332,Maranhão,77.3,
+4,Lara Aragão,joao-lucascosta@example.com,Pessoa Física,2017-04-06 12:28:00,096.482.537-65,"Estação Cauã Santos, 20 Vila Mantiqueira 34579-230 da Cruz / MT",19720-769,Mato Grosso,98.23333333333333,39.0
+7,Matheus Aragão,barbosajuan@example.net,Pessoa Física,2018-09-12 13:08:00,859.406.321-06,"Estação de da Rocha, 59 Aeroporto 24555159 Barbosa / GO",29456824,Goiás,80.76666666666667,
+177,Diogo Aragão,bfreitas@example.org,Pessoa Física,2022-10-15 16:31:00,470.693.521-07,"Ladeira de Azevedo, 2 Eymard 34582863 Silva / AP",50246702,Amapá,30.966666666666665,
+208,João Gabriel Aragão,cunhamarcos-vinicius@example.com,Pessoa Física,2013-05-12 13:48:00,963.085.247-00,"Campo de Teixeira, 93 Biquinhas 77899-799 Duarte de Cavalcanti / PI",90069673,Piauí,145.73333333333332,38.0
+264,Gustavo Henrique Aragão,joao-vitorfernandes@example.net,Pessoa Física,2020-03-19 14:13:00,375.210.948-32,Passarela de Carvalho Teixeira Dias 85975-530 da Rocha / MT,38755-229,Mato Grosso,62.3,67.0
+320,Erick Aragão,da-costaemanuel@example.net,Pessoa Física,2017-08-26 13:14:00,318.076.529-12,"Vale Fogaça, 13 Vila Mantiqueira 93751-775 Souza / DF",37217800,Distrito Federal,93.5,
+413,Emanuelly Aragão,ana-beatriz92@example.org,Pessoa Física,2014-05-20 11:41:00,075.329.618-77,"Residencial de Silva, 73 Santa Lúcia 41532-788 Fogaça / DF",50743388,Distrito Federal,133.3,
+591,Luiz Gustavo Aragão,costaemanuella@example.org,Pessoa Física,2022-05-19 11:46:00,724.856.910-02,"Travessa da Cunha, 63 Engenho Nogueira 20452244 Gonçalves / AC",23882-749,Acre,35.93333333333333,
+709,Isabelly Aragão,xpereira@example.net,Pessoa Física,2018-09-07 11:13:00,670.439.581-48,"Esplanada Renan Araújo, 17 Vila Tirol 83507-776 Vieira / DF",37884316,Distrito Federal,80.93333333333334,
+710,Laís Aragão,das-nevesluiza@example.com,Pessoa Física,2019-06-26 12:44:00,854.396.107-66,Jardim Valentina Gomes João Paulo Ii 90979-552 Campos de Melo / MS,03166-379,Mato Grosso do Sul,71.2,52.0
+765,Beatriz Aragão,valentinacunha@example.com,Pessoa Física,2019-05-27 12:48:00,307.659.184-39,"Residencial Ian Almeida, 975 Jardim América 75948-364 Moura / GO",59717-836,Goiás,72.2,
+787,Rafael Aragão,hpinto@example.net,Pessoa Física,2017-10-10 12:04:00,824.563.719-09,"Esplanada Araújo, 37 Vila Califórnia 85418025 da Costa de Fogaça / SP",22250134,São Paulo,92.0,
+855,Letícia Aragão,da-rochalivia@example.org,Pessoa Física,2017-02-25 13:28:00,467.310.895-75,"Rua de Silveira, 314 Vera Cruz 23815755 Gonçalves Alegre / AL",54516237,Alagoas,99.56666666666666,33.0
+932,João Aragão,carvalhojoao-lucas@example.net,Pessoa Física,2015-06-21 12:06:00,809.674.153-57,"Rua Nicolas Peixoto, 73 Ernesto Nascimento 17498446 Nogueira / MA",26474200,Maranhão,120.06666666666666,
+986,Emanuelly Aragão,lpinto@example.com,Pessoa Física,2016-01-23 12:45:00,931.462.507-99,"Pátio Pedro Henrique Rodrigues, 9 Vila Fumec 49827910 Gomes / AM",36694-446,Amazonas,112.86666666666666,18.0
+18,Leandro Araújo,brenda60@example.net,Pessoa Física,2021-07-18 15:07:00,160.275.498-58,"Lago de da Mota, 7 Pindorama 62566-272 Costela do Oeste / CE",56676-337,Ceará,46.1,
+112,Pedro Lucas Araújo,bernardo60@example.net,Pessoa Física,2021-07-11 12:15:00,809.734.215-41,"Colônia Ana Beatriz Freitas, 6 Atila De Paiva 51908198 da Rosa / RJ",41121-283,Rio de Janeiro,46.333333333333336,38.0
+234,João Pedro Araújo,marceloda-conceicao@example.org,Pessoa Física,2021-03-08 13:43:00,510.674.982-49,"Núcleo Cavalcanti, 483 São Vicente 29422490 da Rosa / RR",64483022,Roraima,50.5,
+246,Lorena Araújo,ribeironatalia@example.org,Pessoa Física,2019-05-23 15:55:00,970.123.548-79,"Chácara Silveira, 7 Vila Cloris 88301-767 Jesus da Serra / SP",2240596,São Paulo,72.33333333333333,58.0
+251,Pietra Araújo,fogacaisadora@example.com,Pessoa Física,2013-07-11 14:28:00,827.369.401-13,"Loteamento Melo, 85 São Sebastião 27542-399 da Luz de Peixoto / AC",72383779,Acre,143.73333333333332,
+361,Clarice Araújo,barbaraalmeida@example.net,Pessoa Física,2018-01-08 14:30:00,306.548.291-60,"Via Azevedo, 79 Santo Agostinho 02873409 Moraes da Mata / PE",57218048,Pernambuco,89.0,
+378,Pedro Lucas Araújo,srezende@example.com,Pessoa Física,2018-03-18 12:36:00,325.496.710-07,"Parque Luna Nunes, 2 Novo Ouro Preto 54121906 Vieira do Oeste / AM",58010319,Amazonas,86.7,
+489,Marcela Araújo,bernardocampos@example.org,Pessoa Física,2019-08-04 13:50:00,529.308.476-38,"Rua de da Rosa, 8 Mantiqueira 45168-327 Cardoso / PR",46872-672,Paraná,69.9,
+491,Mariana Araújo,nsantos@example.org,Pessoa Física,2020-09-03 14:33:00,645.189.273-46,"Núcleo de Jesus, 28 Serrano 65469765 Moreira / PR",59657-825,Paraná,56.7,
+658,Nicolas Araújo,marcela88@example.com,Pessoa Física,2017-02-07 12:10:00,163.298.047-96,"Setor Lima, 93 Vila Nova Gameleira 2ª Seção 30697086 Moura / RN",32199475,Rio Grande do Norte,100.16666666666667,
+737,Pedro Miguel Araújo,melissagomes@example.org,Pessoa Física,2021-01-28 14:26:00,874.261.395-73,"Condomínio Bruna da Mota, 628 Das Industrias I 27208-640 Nascimento Alegre / TO",95890981,Tocantins,51.8,45.0
+809,Ana Carolina Araújo,pauloaraujo@example.org,Pessoa Física,2021-05-18 16:15:00,847.659.210-85,"Praça de Moura, 3 Monte São José 73520387 Rezende do Amparo / MG",80456-424,Minas Gerais,48.13333333333333,
+860,Igor Araújo,wgomes@example.net,Pessoa Física,2021-04-15 14:16:00,647.258.031-62,"Estação de da Rocha, 65 Distrito Industrial Do Jatoba 05154-328 Novaes do Amparo / MA",58065269,Maranhão,49.233333333333334,36.0
+921,Anthony Araújo,martinsian@example.net,Pessoa Física,2021-09-03 15:52:00,824.319.657-91,"Rua João Felipe da Mata, 7 Piratininga 85495859 Moreira de Rodrigues / AC",12376047,Acre,44.53333333333333,76.0
+63,Manuela Azevedo,laura78@example.net,Pessoa Física,2019-04-10 12:23:00,379.805.641-20,Fazenda Duarte Cabana Do Pai Tomás 61838-337 da Mota / AM,93898969,Amazonas,73.76666666666667,
+149,Júlia Azevedo,samuel74@example.com,Pessoa Física,2020-06-25 12:32:00,591.283.067-59,"PraÃ§a Diogo Costa, 3 São João 30181-466 Martins do Amparo / AL",45650110,Alagoas,59.03333333333333,
+155,Anthony Azevedo,leandro14@example.com,Pessoa Física,2013-08-22 13:27:00,734.596.812-09,"Pátio de Cavalcanti, 46 Cardoso 93081-065 da Rocha / MT",10764-469,Mato Grosso,142.33333333333334,
+169,Cauã Azevedo,amonteiro@example.com,Pessoa Física,2015-07-01 13:19:00,523.691.478-73,"Ladeira da Mata, 4 Colégio Batista 47750235 Barbosa / AC",29074-591,Acre,119.73333333333333,
+174,Manuela Azevedo,helena76@example.net,Pessoa Física,2017-04-21 15:02:00,713.650.289-68,"Loteamento da Costa, 6 Braúnas 56159-268 Fernandes da Praia / CE",13715347,Ceará,97.73333333333333,
+442,Alice Azevedo,nicolefreitas@example.net,Pessoa Física,2022-12-17 13:24:00,942.076.813-96,"Rua de da Conceição, 96 Juliana 48437-460 Ramos da Mata / PR",41703129,Paraná,28.866666666666667,
+626,Luiz Fernando Azevedo,ecavalcanti@example.com,Pessoa Física,2022-07-25 10:12:00,481.932.570-14,Alameda Ryan Jesus Vila Santa Rosa 97040-741 da Rocha / RS,66800-272,Rio Grande do Sul,33.7,
+661,Otávio Azevedo,marcos-vinicius93@example.com,Pessoa Física,2013-09-11 13:40:00,512.784.390-05,"Rodovia Emanuella Souza, 4 Saudade 31563951 Silva / BA",26189090,Bahia,141.66666666666666,
+930,Ana Azevedo,mouravicente@example.org,Pessoa Física,2018-04-03 11:06:00,370.259.614-34,"Favela de Fogaça, 9 Trevo 80538819 Pinto / SC",79261182,Santa Catarina,86.16666666666667,
+129,Sarah Barbosa,martinsvitor-hugo@example.com,Pessoa Física,2013-01-08 15:31:00,903.421.678-04,"Parque Leandro Campos, 356 Vila São Gabriel Jacui 87146-556 Oliveira Paulista / AC",75315066,Acre,149.86666666666667,
+184,Lavínia Barbosa,laraalmeida@example.org,Pessoa Física,2018-11-12 13:09:00,386.952.074-47,"EstaÃ§ão Teixeira, 97 Vera Cruz 69838548 Pires do Campo / RJ",61548005,Rio de Janeiro,78.73333333333333,
+300,Ana Vitória Barbosa,liviateixeira@example.org,Pessoa Física,2021-06-24 15:39:00,275.089.136-12,"Setor de Viana, 972 Padre Eustáquio 88598-612 Ribeiro de Goiás / PA",80902-628,Pará,46.9,
+375,Erick Barbosa,rodrigo94@example.org,Pessoa Física,2019-06-22 15:56:00,203.795.486-74,"Vale de Vieira, 27 Ribeiro De Abreu 39530-310 Martins / RN",82725835,Rio Grande do Norte,71.33333333333333,
+443,João Lucas Barbosa,isabella02@example.net,Pessoa Física,2022-01-03 11:42:00,735.489.160-66,"Fazenda Vicente Gonçalves, 46 Nossa Senhora Da Aparecida 46869-970 Farias / PE",52387994,Pernambuco,40.46666666666667,76.0
+590,Daniel Barbosa,barbosaalexia@example.org,Pessoa Física,2018-10-09 11:33:00,870.514.932-05,Favela Luiz Felipe Novaes Mala E Cuia 51525-067 Barbosa de Gonçalves / RN,03233-139,Rio Grande do Norte,79.86666666666666,66.0
+686,Thiago Barbosa,maria81@example.org,Pessoa Física,2021-05-26 10:49:00,264.395.871-37,Alameda Lima Vila Minaslandia 47044993 Ferreira / BA,26574-404,Bahia,47.86666666666667,80.0
+726,André Barbosa,zcaldeira@example.org,Pessoa Física,2019-11-06 15:14:00,951.234.870-50,"Estrada Maria Vitória Vieira, 16 Universo 77552-552 Souza do Sul / DF",98191742,Distrito Federal,66.76666666666667,28.0
+851,Leandro Barbosa,raquel68@example.org,Pessoa Física,2022-05-02 10:45:00,153.807.926-77,"Distrito Sabrina Araújo, 33 Pindura Saia 95049-744 Moraes de Minas / MG",11027-566,Minas Gerais,36.5,
+874,Murilo Barbosa,jcaldeira@example.com,Pessoa Física,2021-11-20 10:46:00,749.128.506-67,"Largo Cardoso, 4 Novo Santa Cecilia 21109235 Cardoso / RO",60767-792,Rondônia,41.93333333333333,
+919,Raul Barbosa,csouza@example.com,Pessoa Física,2014-10-18 12:17:00,716.940.325-07,"Viaduto Olivia Barbosa, 10 Vila Boa Vista 09314-990 Fernandes da Mata / PE",10493-845,Pernambuco,128.26666666666668,
+988,Clara Barbosa,alexiada-rosa@example.net,Pessoa Física,2021-02-22 14:02:00,821.375.604-53,Passarela Luiz Otávio Nascimento Conjunto Jardim Filadélfia 42086678 Santos / MA,83565-860,Maranhão,50.96666666666667,
+3,Breno Cardoso,rsouza@example.net,Pessoa Física,2013-01-05 13:13:00,364.982.015-33,"Feira Aragão, 41 Marmiteiros 56012309 Araújo / AM",99161510,Amazonas,149.96666666666667,
+21,Davi Luiz Cardoso,eduardoda-costa@example.com,Pessoa Física,2016-07-10 12:29:00,716.430.895-01,"Morro Pedro Miguel Pinto, 9 São Luiz 98347-897 Fogaça de Goiás / AC",91263340,Acre,107.23333333333333,
+43,Vitor Gabriel Cardoso,lucas-gabriel73@example.com,Pessoa Física,2016-09-03 15:08:00,607.584.319-10,"Recanto Gustavo Henrique Dias, 64 Vila Da Paz 92813-481 da Costa / MT",59276367,Mato Grosso,105.4,
+77,Mirella Cardoso,maite60@example.net,Pessoa Física,2019-02-01 13:17:00,324.870.195-14,"Vila Maria Fernanda Barbosa, 10 Virgínia 52639830 Ramos / PI",99555-106,Piauí,76.03333333333333,
+109,Maria Cecília Cardoso,sofia85@example.net,Pessoa Física,2022-03-16 13:53:00,092.378.516-77,Sítio de da Mota Engenho Nogueira 86201-053 Correia das Pedras / DF,11243-236,Distrito Federal,38.06666666666667,
+210,Lucas Cardoso,maria-alice27@example.net,Pessoa Física,2018-11-15 14:36:00,189.342.650-51,"Vila Sales, 56 São Lucas 72371269 das Neves / PA",44811-766,Pará,78.63333333333334,
+217,Vitor Cardoso,rezendeisis@example.org,Pessoa Física,2018-09-05 14:44:00,927.154.038-79,"Núcleo Peixoto, 29 Beija Flor 12707682 Cunha / RR",11883-390,Roraima,81.0,
+218,Enzo Cardoso,martinsjoao-miguel@example.com,Pessoa Física,2019-10-01 16:05:00,529.140.378-05,"Distrito Clarice da Luz, 35 Lourdes 24553496 Lopes do Sul / SC",42430-747,Santa Catarina,67.96666666666667,19.0
+241,Joaquim Cardoso,cardosomaysa@example.net,Pessoa Física,2021-02-26 12:19:00,136.942.087-04,"Trecho Yago Dias, 20 Jardim América 07951411 da Mota / ES",71337392,Espírito Santo,50.833333333333336,45.0
+263,Breno Cardoso,vsantos@example.org,Pessoa Física,2017-12-27 13:22:00,180.964.753-39,"Condomínio Gabrielly Costela, 485 São Bento 04770068 Oliveira da Serra / AP",83728117,Amapá,89.4,83.0
+270,Natália Cardoso,barrosclarice@example.com,Pessoa Física,2019-09-05 16:38:00,304.872.619-50,"Praça de Ferreira, 5 Flamengo 27068-714 Azevedo do Amparo / MA",21373248,Maranhão,68.83333333333333,31.0
+307,Augusto Cardoso,fernanda99@example.org,Pessoa Física,2017-02-10 16:42:00,792.651.043-25,"Distrito Erick Cavalcanti, 36 Mangabeiras 66325210 da Conceição / RN",38243-006,Rio Grande do Norte,100.06666666666666,
+336,Mirella Cardoso,marcelo05@example.org,Pessoa Física,2020-10-18 13:03:00,782.156.043-07,"Fazenda Souza, 413 Padre Eustáquio 22283686 Farias do Norte / PR",51618919,Paraná,55.2,
+468,Kevin Cardoso,vitor29@example.com,Pessoa Física,2021-08-27 13:19:00,045.718.296-20,"Parque Costa, 322 Santa Sofia 25665-372 Alves / CE",82355-894,Ceará,44.766666666666666,31.0
+481,Yago Cardoso,vitorfogaca@example.net,Pessoa Física,2020-04-14 16:19:00,364.872.105-44,"Estação Correia, 1 Santa Maria 51863961 Nascimento / PR",41812110,Paraná,61.43333333333333,60.0
+552,Júlia Cardoso,ssilva@example.net,Pessoa Física,2018-06-17 14:15:00,257.601.483-62,"Ãrea João Felipe Ferreira, 824 Dom Cabral 21297581 Fernandes / TO",08094-852,Tocantins,83.66666666666667,
+568,Maria Fernanda Cardoso,yago53@example.org,Pessoa Física,2020-08-22 15:21:00,869.215.347-82,"Vale Silveira, 3 Nova America 17600-099 da Conceição da Praia / PB",99471851,Paraíba,57.1,
+597,Lucas Cardoso,julia00@example.net,Pessoa Física,2019-06-19 12:21:00,973.281.605-86,"Campo Otávio Gomes, 11 Barão Homem De Melo 3ª Seção 48152-500 das Neves do Campo / MS",52389135,Mato Grosso do Sul,71.43333333333334,
+667,Ana Cardoso,maria-juliasouza@example.com,Pessoa Física,2022-03-06 15:06:00,312.047.986-13,"Trecho Luigi Cavalcanti, 59 Vila Pilar 16218326 Pinto / PR",90177-078,Paraná,38.4,
+669,Cauã Cardoso,rebecada-rosa@example.net,Pessoa Física,2016-04-15 14:26:00,376.248.510-08,"Setor Olivia Monteiro, 217 Santa Isabel 10045-601 Jesus / MS",99364-926,Mato Grosso do Sul,110.1,
+685,Enzo Cardoso,mirella43@example.com,Pessoa Física,2021-02-27 15:29:00,856.970.321-02,"Passarela de Azevedo, 1 Santa Monica 92384-193 Caldeira Verde / MG",54474894,Minas Gerais,50.8,
+707,Caio Cardoso,maria-julia07@example.com,Pessoa Física,2016-10-22 14:14:00,832.146.759-82,Travessa de Costela Santa Lúcia 58697-782 Cavalcanti Alegre / PR,71436-266,Paraná,103.76666666666667,
+735,Rafael Cardoso,idas-neves@example.org,Pessoa Física,2012-12-03 13:05:00,183.729.546-82,"Esplanada Nunes, 46 Etelvina Carneiro 03683-959 Pires / BA",35352-960,Bahia,151.06666666666666,26.0
+790,Clarice Cardoso,emanuella58@example.net,Pessoa Física,2014-07-03 16:49:00,351.874.609-00,"Rua de Moraes, 8 Vila Batik 22249-412 Cunha Paulista / PE",00506-259,Pernambuco,131.83333333333334,27.0
+798,Calebe Cardoso,juanmelo@example.org,Pessoa Física,2015-11-21 10:49:00,063.872.549-65,"Praia de da Rosa, 89 Vila Santa Monica 1ª Seção 87063490 Gonçalves / MS",67600436,Mato Grosso do Sul,114.96666666666667,
+968,Fernando Cardoso,isabella58@example.org,Pessoa Física,2018-02-01 16:14:00,523.890.467-38,Morro Lopes Copacabana 32525-631 da Cruz dos Dourados / SP,86938-977,São Paulo,88.2,25.0
+74,Maria Alice Correia,ugomes@example.com,Pessoa Física,2016-07-26 10:37:00,604.238.791-03,"Sítio Juan Nascimento, 7 Apolonia 15044000 da Costa / RN",71920821,Rio Grande do Norte,106.7,67.0
+81,Laís Correia,marcela49@example.com,Pessoa Física,2021-04-03 13:18:00,076.351.942-16,"Residencial de Nascimento, 46 Vila Santo Antônio 34127-554 Mendes de Farias / CE",25372-189,Ceará,49.63333333333333,18.0
+137,Cauã Correia,da-pazemanuella@example.org,Pessoa Física,2017-01-06 14:34:00,819.072.346-40,"Travessa de das Neves, 34 Nova Granada 25332-967 Caldeira Verde / CE",41060234,Ceará,101.23333333333333,61.0
+372,Brenda Correia,qgoncalves@example.org,Pessoa Física,2013-11-27 13:03:00,345.926.017-34,Feira de Moura Vila Antena 67354401 Caldeira do Amparo / MG,11580065,Minas Gerais,139.1,
+392,Isabella Correia,joao-lucasfreitas@example.org,Pessoa Física,2015-12-26 15:09:00,560.217.498-20,"Jardim Yago das Neves, 49 Vila São Rafael 31159338 Mendes / BA",18306-600,Bahia,113.8,25.0
+408,João Correia,carvalhoemilly@example.com,Pessoa Física,2021-10-15 10:47:00,213.659.487-73,"Parque Barros, 87 Caetano Furquim 21534-413 Jesus / RN",75390263,Rio Grande do Norte,43.13333333333333,
+428,Pedro Henrique Correia,jlopes@example.net,Pessoa Física,2019-11-27 14:29:00,160.872.359-30,"Núcleo Pinto, 562 Cidade Nova 40869328 Lopes do Sul / AC",69003-972,Acre,66.06666666666666,59.0
+536,Maysa Correia,eduardo67@example.net,Pessoa Física,2020-12-09 14:29:00,358.049.716-20,"Morro Sofia da Mata, 36 Casa Branca 86256077 Mendes / RJ",2785728,Rio de Janeiro,53.46666666666667,
+574,Vitória Correia,jduarte@example.org,Pessoa Física,2014-03-05 16:10:00,951.247.836-64,"Lago de da Mata, 489 São Vicente 89030914 Costa / RR",13347642,Roraima,135.83333333333334,
+625,João Correia,claralopes@example.org,Pessoa Física,2021-01-09 11:36:00,401.287.935-97,"Fazenda Almeida, 32 Vila Batik 19866-033 Teixeira / MS",61410-865,Mato Grosso do Sul,52.43333333333333,37.0
+900,Levi Correia,cfarias@example.org,Pessoa Física,2021-08-06 12:29:00,809.537.462-83,"Jardim Rocha, 72 Novo Glória 79010-844 Novaes / RR",92278668,Roraima,45.46666666666667,64.0
+153,Luiz Gustavo Costela,rafael61@example.net,Pessoa Física,2014-09-12 16:45:00,048.372.651-62,"Conjunto de Costa, 4 Granja De Freitas 18338464 Rocha de Peixoto / DF",3524308,Distrito Federal,129.46666666666667,
+165,Ana Carolina Costela,davi-lucas33@example.com,Pessoa Física,2020-01-23 12:15:00,913.647.852-00,Residencial Clarice Caldeira São Luiz 36792-608 Santos / ES,02181-326,Espírito Santo,64.16666666666667,
+252,Agatha Costela,hcampos@example.org,Pessoa Física,2019-07-18 12:56:00,549.132.680-15,"Vereda Moura, 6 Nossa Senhora Da Conceição 92168616 da Mata das Flores / AP",59625-368,Amapá,70.46666666666667,52.0
+319,Cecília Costela,nicolasjesus@example.com,Pessoa Física,2021-08-18 15:41:00,396.721.085-59,"PraÃ§a de Duarte, 28 Vila São Rafael 62758847 Pereira do Sul / SC",57267113,Santa Catarina,45.06666666666667,35.0
+486,Davi Lucca Costela,araujogustavo-henrique@example.org,Pessoa Física,2015-04-23 13:18:00,869.345.027-10,"Parque Gomes, 732 Nossa Senhora De Fátima 25354-774 da Mota do Amparo / SP",93250-071,São Paulo,122.03333333333333,22.0
+538,Sophie Costela,nicolas99@example.com,Pessoa Física,2022-11-25 11:24:00,812.964.530-06,"Chácara Ramos, 91 Vila Jardim Leblon 67405-337 Gomes do Sul / MA",72101-372,Maranhão,29.6,55.0
+642,Enzo Gabriel Costela,da-cruzbryan@example.org,Pessoa Física,2019-06-26 12:58:00,493.825.617-73,"Campo Sales, 66 Santa Tereza 16101-633 Sales / TO",17468-663,Tocantins,71.2,
+728,Gabrielly Costela,maite10@example.org,Pessoa Física,2020-11-23 12:34:00,874.509.261-30,"Conjunto de Martins, 96 Vila Paquetá 28412794 Ribeiro / RS",47587350,Rio Grande do Sul,54.0,
+745,Marcela Costela,klima@example.org,Pessoa Física,2017-04-23 15:36:00,204.953.816-24,"Viaduto Arthur Nascimento, 45 João Alfredo 55135-284 Araújo da Praia / PB",44587-274,Paraíba,97.66666666666667,
+795,Bernardo Costela,correiamaria-julia@example.net,Pessoa Física,2022-02-25 15:08:00,841.052.739-14,"Rodovia de Barros, 48 Esplanada 39552867 da Cunha Verde / RS",86841-476,Rio Grande do Sul,38.7,47.0
+958,Daniel Costela,mdias@example.org,Pessoa Física,2018-10-09 15:05:00,218.569.047-76,"Parque da Mota, 27 Beija Flor 84721055 Ramos da Serra / MS",57105-880,Mato Grosso do Sul,79.86666666666666,
+26,Augusto Fogaça,fernandesmaria-julia@example.net,Pessoa Física,2012-08-12 16:34:00,435.821.079-14,"Setor de Moraes, 62 Gutierrez 90925544 Sales das Flores / RN",20290-725,Rio Grande do Norte,154.83333333333334,
+455,Luna Fogaça,maria-julia65@example.org,Pessoa Física,2017-08-24 10:26:00,396.150.427-06,"Aeroporto Luiz Miguel Nascimento, 936 Bom Jesus 73993124 Correia / MA",69265010,Maranhão,93.56666666666666,
+512,Vitória Fogaça,teixeiraluiz-gustavo@example.net,Pessoa Física,2020-05-12 12:40:00,260.145.378-80,"Via Noah Fernandes, 78 Tres Marias 69283-118 Mendes das Flores / RR",86720-928,Roraima,60.5,20.0
+689,Gabriel Fogaça,marinasilva@example.org,Pessoa Física,2014-04-15 11:08:00,580.342.167-71,Largo Alves Solimoes 35556-607 Vieira de Moraes / PE,20921-329,Pernambuco,134.46666666666667,
+718,Stella Fogaça,carvalhocamila@example.net,Pessoa Física,2018-03-09 14:52:00,241.905.873-97,"Rua de da Conceição, 43 Marieta 1ª Seção 91451-022 Ribeiro da Prata / AP",91322358,Amapá,87.0,
+766,Ana Vitória Fogaça,salesisabella@example.com,Pessoa Física,2014-09-07 13:15:00,943.170.528-14,"Área de da Rosa, 58 Estrela Do Oriente 08916-900 Fernandes do Campo / AM",66310967,Amazonas,129.63333333333333,51.0
+775,Kevin Fogaça,mmelo@example.com,Pessoa Física,2011-03-19 14:55:00,921.738.064-40,"Conjunto da Cruz, 17 Gameleira 27867-967 Costa / MG",15510174,Minas Gerais,171.9,31.0
+86,Rebeca Freitas,da-rosamaysa@example.com,Pessoa Física,2016-03-05 13:55:00,468.571.930-10,"Campo Fogaça, 382 Vila Ecológica 17362-108 Carvalho / SE",92293551,Sergipe,111.46666666666667,17.0
+173,Marcela Freitas,clarada-mota@example.com,Pessoa Física,2021-05-12 14:45:00,379.042.651-25,"Setor Rezende, 485 Nossa Senhora Da Aparecida 95882713 Moreira de Ribeiro / SC",42074-019,Santa Catarina,48.333333333333336,
+215,Lívia Freitas,ydias@example.org,Pessoa Física,2020-04-10 14:14:00,194.703.268-22,"Trevo Isis Costa, 565 Madre Gertrudes 92733172 da Mata / MS",43218579,Mato Grosso do Sul,61.56666666666667,
+275,Julia Freitas,da-cruzisabella@example.com,Pessoa Física,2020-05-02 12:18:00,026.754.139-25,"Condomínio de Pires, 98 Suzana 20099-665 Pires da Praia / RJ",56335095,Rio de Janeiro,60.833333333333336,55.0
+348,João Gabriel Freitas,pintothales@example.net,Pessoa Física,2018-03-03 11:58:00,681.324.790-50,"Loteamento de da Luz, 89 Caiçaras 58869-612 Farias / AM",31770-420,Amazonas,87.2,
+385,João Felipe Freitas,pedro-lucassouza@example.com,Pessoa Física,2018-08-06 12:05:00,134.729.850-97,"Passarela Nicole da Mota, 1 Vila Pinho 18178711 Costela da Mata / PI",4123732,Piauí,82.0,81.0
+435,Davi Freitas,juliacastro@example.org,Pessoa Física,2011-02-02 11:14:00,649.270.381-22,"Passarela de Almeida, 88 Conjunto Celso Machado 52242-507 Nascimento / RR",17882-080,Roraima,173.4,55.0
+474,Otávio Freitas,joao-pedro86@example.net,Pessoa Física,2020-01-12 10:03:00,164.903.785-66,"Quadra Araújo, 301 Buraco Quente 28418-860 Lopes / RJ",62436-426,Rio de Janeiro,64.53333333333333,
+477,Otávio Freitas,xmoura@example.net,Pessoa Física,2022-08-20 14:19:00,978.205.314-79,"Vereda Marcelo Souza, 1 Alto Das Antenas 12225-558 Melo Verde / ES",19130-426,Espírito Santo,32.833333333333336,
+607,Heloísa Freitas,cramos@example.net,Pessoa Física,2015-12-04 11:48:00,026.348.951-51,Condomínio Sophia da Mata Antonio Ribeiro De Abreu 1Âª SeÃ§ão 29820-081 da Mota / PA,76013101,Pará,114.53333333333333,
+687,Gustavo Henrique Freitas,santospietra@example.net,Pessoa Física,2021-12-14 10:04:00,304.921.786-31,"Colônia de Pires, 733 Alto Caiçaras 31721120 Pereira de Farias / RN",88959-636,Rio Grande do Norte,41.13333333333333,73.0
+807,Lorena Freitas,da-costagabriela@example.com,Pessoa Física,2022-07-28 16:18:00,372.841.605-35,"Rodovia Monteiro, 80 Vila Piratininga 08695890 Nunes / RR",60173281,Roraima,33.6,
+869,Eduarda Freitas,gcardoso@example.org,Pessoa Física,2021-04-09 13:01:00,712.643.508-80,"Morro Novaes, 7 Estrela 33844133 Azevedo / MG",68219-707,Minas Gerais,49.43333333333333,46.0
+878,Guilherme Freitas,murilomoreira@example.com,Pessoa Física,2012-05-16 14:13:00,561.034.879-00,Lagoa Moreira Bandeirantes 52917-532 Dias do Oeste / AP,10183184,Amapá,157.76666666666668,23.0
+891,Gustavo Henrique Freitas,oliveirahenrique@example.net,Pessoa Física,2012-02-20 13:42:00,126.094.378-03,"Parque de da Paz, 8 Vila Dos Anjos 71773-667 das Neves do Galho / DF",45295-653,Distrito Federal,160.63333333333333,43.0
+923,Lucas Freitas,isaac81@example.com,Pessoa Física,2021-05-05 13:11:00,294.613.508-05,"Jardim de Ramos, 220 Alto Barroca 55584857 Barbosa / TO",62512714,Tocantins,48.56666666666667,
+997,Raquel Freitas,yfreitas@example.com,Pessoa Física,2020-11-20 13:29:00,485.091.726-76,"Trecho de Araújo, 816 Cruzeiro 74452-919 Silva da Praia / AP",427644,Amapá,54.1,45.0
+2,Luigi Martins,da-motaisabel@example.org,Pessoa Física,2020-03-27 13:05:00,287.069.351-68,"Sítio Melo, 939 Túnel De Ibirité 71965-934 da Mota / TO",9471122,Tocantins,62.03333333333333,
+65,Daniela Martins,maria-julia15@example.org,Pessoa Física,2018-08-26 12:33:00,486.573.902-56,"Viaduto de da Costa, 839 Marçola 92964312 Pires / PI",20479-151,Piauí,81.33333333333333,
+145,Carolina Martins,paulosantos@example.org,Pessoa Física,2011-03-03 13:41:00,395.412.607-99,"Jardim Nathan Nogueira, 11 Aarão Reis 38082994 da Cruz / RJ",07948-351,Rio de Janeiro,172.43333333333334,70.0
+176,Alexia Martins,isadorasilveira@example.net,Pessoa Física,2019-04-20 14:06:00,816.732.495-82,Residencial Rocha Paquetá 32152982 das Neves de das Neves / PI,72098-448,Piauí,73.43333333333334,
+200,Amanda Martins,andreda-rosa@example.org,Pessoa Física,2015-05-17 10:24:00,627.984.015-85,"Estação Enzo Duarte, 66 Lagoinha 39361698 Jesus / AC",94558596,Acre,121.23333333333333,
+209,Benjamin Martins,pintomaria-julia@example.net,Pessoa Física,2021-02-07 12:38:00,718.243.965-46,"Estação de Pinto, 135 Vila Fumec 67616404 da Conceição / MG",53805660,Minas Gerais,51.46666666666667,
+216,Davi Lucca Martins,barbosapedro@example.org,Pessoa Física,2019-12-06 11:03:00,679.425.031-43,"Rua de Sales, 9 Álvaro Camargos 12577816 Vieira / SE",25721-707,Sergipe,65.76666666666667,69.0
+220,Otávio Martins,ncardoso@example.net,Pessoa Física,2017-08-17 11:51:00,016.892.735-77,"Campo Stella Alves, 94 Alto Das Antenas 89423334 Cardoso / ES",10725-665,Espírito Santo,93.8,
+245,Marcos Vinicius Martins,aragaoyasmin@example.com,Pessoa Física,2018-06-15 11:38:00,693.754.201-16,"Campo Vinicius da Cruz, 6 Varzea Da Palma 60132623 Rodrigues / RR",36206809,Roraima,83.73333333333333,
+272,Isadora Martins,karagao@example.com,Pessoa Física,2021-08-25 10:48:00,107.643.259-06,Rua de Novaes Maria Tereza 97518804 Rodrigues / AC,35780004,Acre,44.833333333333336,81.0
+337,Lorena Martins,elisadias@example.net,Pessoa Física,2017-08-03 14:16:00,094.328.765-00,"Rua Kamilly Moura, 21 Vista Alegre 44980682 Lima / RR",13920715,Roraima,94.26666666666667,
+355,Clara Martins,davi92@example.org,Pessoa Física,2022-10-22 14:50:00,452.370.619-07,"Residencial Novaes, 62 Vila União 94123-530 Silveira / AM",5790922,Amazonas,30.733333333333334,32.0
+579,Catarina Martins,pintobeatriz@example.net,Pessoa Física,2018-10-03 16:00:00,319.462.508-05,"Conjunto de Rodrigues, 1 Vila Independencia 1ª Seção 37495-506 Ferreira de Minas / AM",8026207,Amazonas,80.06666666666666,44.0
+711,Ian Martins,pintostephany@example.com,Pessoa Física,2022-12-08 14:47:00,274.086.351-90,"Pátio Luiz Henrique Lopes, 97 Marmiteiros 88332668 Silva da Prata / GO",1697859,Goiás,29.166666666666668,
+723,Diego Martins,mirellabarros@example.com,Pessoa Física,2013-12-02 14:38:00,859.234.760-29,"Sítio de da Luz, 12 Casa Branca 78998124 Pereira / DF",93720793,Distrito Federal,138.93333333333334,43.0
+858,Enzo Gabriel Martins,rafaela90@example.net,Pessoa Física,2018-11-28 11:24:00,314.627.580-53,"Viela Nunes, 38 Pousada Santo Antonio 79028676 Jesus de Rodrigues / AL",63811868,Alagoas,78.2,
+892,Daniela Martins,gustavo-henrique28@example.org,Pessoa Física,2015-08-05 12:19:00,182.973.605-12,"Travessa Lima, 30 Novo São Lucas 61722185 Ferreira / DF",3412726,Distrito Federal,118.56666666666666,
+910,Renan Martins,vgoncalves@example.org,Pessoa Física,2011-11-03 16:42:00,628.749.350-00,"Viela Rezende, 72 Acaba Mundo 81250-567 Cardoso da Praia / MS",28143660,Mato Grosso do Sul,164.26666666666668,39.0
+950,Rafaela Martins,ocosta@example.com,Pessoa Física,2020-10-23 14:33:00,301.859.672-21,"Esplanada de Lima, 792 Universitário 17334-458 Fernandes Paulista / PB",00167-046,Paraíba,55.03333333333333,
+961,Yago Martins,ferreiradavi@example.com,Pessoa Física,2020-05-13 11:41:00,061.472.839-87,"Estrada Rezende, 10 Parque São Pedro 88844755 Pereira Verde / GO",07616-295,Goiás,60.46666666666667,31.0
+53,Maria Alice Moreira,anthony00@example.net,Pessoa Física,2011-05-24 15:30:00,436.782.901-40,"Estação Alves, 684 Vila Pilar 63522729 Dias do Sul / AL",90281-645,Alagoas,169.7,29.0
+58,Bruno Moreira,rodrigofogaca@example.com,Pessoa Física,2017-11-02 12:54:00,603.597.248-92,"Recanto de Souza, 56 Vila Jardim Leblon 30799-297 Martins das Pedras / RJ",86635643,Rio de Janeiro,91.23333333333333,
+94,Sarah Moreira,bryansilva@example.org,Pessoa Física,2011-09-09 15:00:00,746.901.258-30,"Residencial Vinicius Gonçalves, 5 Vila Maloca 54353333 Costa da Prata / GO",56080861,Goiás,166.1,
+178,Maria Clara Moreira,limagustavo@example.com,Pessoa Física,2020-07-17 16:24:00,678.254.103-35,"Travessa Oliveira, 65 Bandeirantes 27146-308 das Neves de Lima / AC",49009385,Acre,58.3,
+214,Gustavo Moreira,ana-clara05@example.net,Pessoa Física,2017-04-04 14:29:00,958.130.746-00,"Viela Manuela Rodrigues, 66 Alto Dos Pinheiros 62945-313 Oliveira / AL",54571-005,Alagoas,98.3,
+255,Julia Moreira,silveiramelissa@example.net,Pessoa Física,2022-10-10 10:25:00,396.270.158-30,"Estação Alexia Lopes, 5 Vila Da Amizade 51850-984 Rezende de Castro / PB",00262-103,Paraíba,31.133333333333333,78.0
+277,Luiz Miguel Moreira,martinsdiego@example.net,Pessoa Física,2013-06-09 12:38:00,086.935.124-98,"Passarela de Santos, 98 Vila Barragem Santa Lúcia 30304-486 Melo de Oliveira / MG",67473094,Minas Gerais,144.8,37.0
+438,Yasmin Moreira,davi67@example.net,Pessoa Física,2017-06-10 14:28:00,064.785.293-47,"Condomínio Correia, 742 São Salvador 32786903 Souza / SC",8955021,Santa Catarina,96.06666666666666,
+492,Davi Luiz Moreira,oliviamelo@example.net,Pessoa Física,2016-06-17 11:48:00,743.208.516-17,"Trecho Maysa Sales, 50 Vila Sesc 37960-340 Rezende / AL",87354941,Alagoas,108.0,
+513,Rafaela Moreira,ada-paz@example.com,Pessoa Física,2021-07-01 11:43:00,592.036.841-15,"Ladeira Pietra Carvalho, 8 Ouro Minas 44226-183 Araújo / PI",75408722,Piauí,46.666666666666664,
+566,Cauã Moreira,ana-clara57@example.org,Pessoa Física,2013-11-11 12:53:00,025.138.946-42,Viela Ana Cardoso Dona Clara 02078921 Vieira / AC,41520-936,Acre,139.63333333333333,
+583,Esther Moreira,ibarbosa@example.net,Pessoa Física,2020-06-25 14:02:00,793.401.682-40,"Trecho Kamilly Vieira, 25 Conjunto Floramar 63627215 Aragão / RO",99572275,Rondônia,59.03333333333333,68.0
+677,Julia Moreira,rezendethomas@example.net,Pessoa Física,2018-01-15 11:14:00,825.316.940-05,"Pátio de Sales, 12 Juliana 79832367 Azevedo / RS",46015684,Rio Grande do Sul,88.76666666666667,
+813,Ana Moreira,tlima@example.org,Pessoa Física,2020-08-28 11:27:00,952.306.178-02,"Via Miguel Pereira, 56 Boa Vista 90441-069 Alves do Norte / RS",16347-789,Rio Grande do Sul,56.9,71.0
+903,João Guilherme Moreira,ypeixoto@example.com,Pessoa Física,2020-08-16 11:05:00,721.086.459-85,"Trevo Novaes, 83 Vila Independencia 3Âª SeÃ§ão 63084022 da ConceiÃ§ão / PA",80883467,Pará,57.3,
+927,Catarina Moreira,usales@example.com,Pessoa Física,2011-08-15 14:48:00,356.841.972-64,"Vereda Nogueira, 258 Alta Tensão 1ª Seção 70468-406 Moura do Norte / AM",29576719,Amazonas,166.93333333333334,
+1,Vitor Peixoto,ferreiradaniela@example.com,Pessoa Física,2014-07-08 16:25:00,475.916.830-39,"Setor Mariane da Conceição, 21 São Luiz 78156-593 Pires de Silveira / GO",80160975,Goiás,131.66666666666666,
+11,Esther Peixoto,mnogueira@example.net,Pessoa Física,2010-11-12 16:37:00,092.745.618-49,"Pátio Vitor Nogueira, 3 Vila Copacabana 34500762 Cardoso de da Costa / SE",60976-701,Sergipe,176.13333333333333,
+15,Francisco Peixoto,gabriela62@example.net,Pessoa Física,2022-09-11 15:51:00,451.732.069-34,"Praia Juan Moura, 27 Copacabana 41892762 Pinto da Serra / ES",58257-173,Espírito Santo,32.1,
+238,Leonardo Peixoto,catarinaaraujo@example.net,Pessoa Física,2019-03-08 16:08:00,231.680.457-80,"Recanto de Costa, 400 Ventosa 02897-918 Lopes do Galho / RR",54957-836,Roraima,74.86666666666666,
+293,Milena Peixoto,elisada-cunha@example.com,Pessoa Física,2018-10-14 12:48:00,037.986.145-39,"Morro da Costa, 35 Miramar 55627-627 da Mata do Norte / SP",74310977,São Paulo,79.7,17.0
+309,Pedro Lucas Peixoto,pnascimento@example.org,Pessoa Física,2015-07-15 11:21:00,281.049.673-04,"Avenida da Rocha, 3 Betânia 96725-893 Pires / PB",803602,Paraíba,119.26666666666667,
+314,Luana Peixoto,luiz-miguel20@example.com,Pessoa Física,2017-02-11 12:07:00,158.390.764-57,"Campo Amanda Silveira, 306 Santo Antônio 73540760 Nascimento / RN",34847413,Rio Grande do Norte,100.03333333333333,18.0
+390,Amanda Peixoto,leticiacostela@example.com,Pessoa Física,2018-08-17 15:11:00,132.069.847-69,"Recanto Melissa das Neves, 1 Leonina 26637-569 Souza / AL",69658-168,Alagoas,81.63333333333334,
+637,Amanda Peixoto,acunha@example.net,Pessoa Física,2017-03-05 16:46:00,298.014.675-76,"Distrito Peixoto, 7 Senhor Dos Passos 56541895 Souza Paulista / SC",9777905,Santa Catarina,99.3,
+662,Cecília Peixoto,da-cunhagabriela@example.net,Pessoa Física,2022-12-15 12:50:00,539.864.120-42,"EstaÃ§ão Alves, 2 Estrela 93885-883 Ferreira / MA",58063933,Maranhão,28.933333333333334,
+748,Emilly Peixoto,moreiraenzo@example.net,Pessoa Física,2019-06-19 11:57:00,210.765.948-67,"Colônia Araújo, 967 Ápia 47383-578 Carvalho / ES",85405-606,Espírito Santo,71.43333333333334,
+784,Luiz Gustavo Peixoto,peixotostella@example.com,Pessoa Física,2020-07-27 12:34:00,482.036.715-35,"Condomínio de Silveira, 31 Prado 21560258 Novaes das Flores / AM",45895-886,Amazonas,57.96666666666667,
+797,Clarice Peixoto,ylima@example.com,Pessoa Física,2018-10-21 14:14:00,842.509.617-02,"Setor de Peixoto, 3 Camponesa 2ª Seção 37361701 Campos do Oeste / PR",32349-572,Paraná,79.46666666666667,35.0
+799,Giovanna Peixoto,moraesjuliana@example.com,Pessoa Física,2021-05-24 11:29:00,463.207.815-80,"Aeroporto Gonçalves, 15 Silveira 97640668 Rodrigues de Silva / AL",34250783,Alagoas,47.93333333333333,61.0
+934,André Peixoto,ramosisabelly@example.org,Pessoa Física,2017-08-25 16:02:00,904.857.123-50,Jardim Bruno da Mata Palmares 47723-078 Silva / RN,95211861,Rio Grande do Norte,93.53333333333333,
+959,João Felipe Peixoto,brendaoliveira@example.com,Pessoa Física,2022-06-07 12:06:00,053.284.691-51,"Trecho Almeida, 13 Colégio Batista 24122732 da Paz / SC",87123267,Santa Catarina,35.3,81.0
+969,Pietra Peixoto,erickmoreira@example.net,Pessoa Física,2020-10-18 10:41:00,398.402.715-04,"Vila de Lopes, 76 João Alfredo 45515876 Carvalho de Minas / RN",62717655,Rio Grande do Norte,55.2,70.0
+108,Maria Sophia Pereira,limamarcelo@example.org,Pessoa Física,2017-04-13 12:21:00,342.176.805-62,"Lago João Lucas Caldeira, 69 Campo Alegre 45988-418 Araújo / MT",97593-166,Mato Grosso,98.0,75.0
+130,Juan Pereira,maitepeixoto@example.com,Pessoa Física,2019-11-15 10:31:00,034.912.687-96,"Lago Ian Duarte, 370 Santa Amelia 04743882 Lima Grande / CE",64577-629,Ceará,66.46666666666667,
+164,Thiago Pereira,ngoncalves@example.com,Pessoa Física,2014-09-08 12:52:00,963.570.421-61,"Largo Camila Gomes, 181 Padre Eustáquio 42431193 Jesus / PA",18900-231,Pará,129.6,
+175,Joaquim Pereira,gabriellysilveira@example.net,Pessoa Física,2015-12-17 14:44:00,279.364.850-74,Largo de Nascimento Santa Isabel 98609-522 da Cruz Verde / CE,19599-389,Ceará,114.1,68.0
+247,Stephany Pereira,brenoda-cruz@example.com,Pessoa Física,2019-07-25 14:05:00,957.482.106-49,"Aeroporto Lopes, 97 Alto Barroca 93134-328 Ferreira / AM",69958-930,Amazonas,70.23333333333333,
+302,Caué Pereira,ana-vitoria06@example.com,Pessoa Física,2017-01-10 13:05:00,237.061.948-13,Fazenda de Viana Minas Brasil 54626-764 Lima / SC,2056823,Santa Catarina,101.1,
+399,Ian Pereira,nicoleda-rosa@example.com,Pessoa Física,2018-09-23 16:32:00,158.329.740-50,"Condomínio Ana Lívia Aragão, 679 Betânia 46284612 Lopes / CE",77481-121,Ceará,80.4,
+415,Thomas Pereira,fariasbernardo@example.org,Pessoa Física,2015-06-09 14:03:00,028.194.673-69,"Vereda de Campos, 31 Vila Sumaré 70152449 Vieira do Campo / SE",15155-764,Sergipe,120.46666666666667,30.0
+420,Maria Cecília Pereira,eduarda82@example.org,Pessoa Física,2013-01-24 10:10:00,431.752.890-88,"Esplanada de Fernandes, 754 Vila Aeroporto 55518601 Ribeiro da Prata / AL",69843363,Alagoas,149.33333333333334,
+459,Calebe Pereira,isabelly36@example.org,Pessoa Física,2019-11-05 10:33:00,376.458.209-00,Travessa Gabriel Fogaça São Cristóvão 29295-525 Freitas de Moura / MA,88159-092,Maranhão,66.8,
+570,Vinicius Pereira,gomesgabriel@example.org,Pessoa Física,2021-12-14 10:13:00,304.867.192-78,"Campo Maria Cecília Cunha, 30 Vista Do Sol 20399598 da Mota de Minas / AM",21811673,Amazonas,41.13333333333333,33.0
+690,Murilo Pereira,enovaes@example.org,Pessoa Física,2022-02-27 14:01:00,248.963.570-00,"Viaduto de Moreira, 77 Vila Nova Gameleira 3ª Seção 36353-876 Silva / AC",58926-121,Acre,38.63333333333333,38.0
+747,Sabrina Pereira,iaraujo@example.org,Pessoa Física,2022-11-18 14:04:00,589.734.210-50,"Colônia da Mota, 97 Vila Satélite 99485026 Pereira Alegre / BA",52359-242,Bahia,29.833333333333332,56.0
+806,Larissa Pereira,gfernandes@example.com,Pessoa Física,2018-05-02 13:32:00,721.083.496-69,"Estação Mariana da Luz, 415 Conjunto Jatoba 02240602 Teixeira / AM",88852254,Amazonas,85.2,
+820,Clara Pereira,isadoramartins@example.com,Pessoa Física,2017-05-04 12:48:00,013.967.824-78,"Rua Mendes, 275 Inconfidência 75773-173 Moraes / MS",42454829,Mato Grosso do Sul,97.3,
+905,Benício Pereira,diegomartins@example.org,Pessoa Física,2013-03-04 12:38:00,713.950.684-10,"Campo Sabrina Fernandes, 51 Aparecida 7Âª SeÃ§ão 82997893 da Rocha do Campo / AL",29896369,Alagoas,148.03333333333333,20.0
+947,Mariana Pereira,mfogaca@example.org,Pessoa Física,2022-09-02 15:11:00,943.870.512-05,"Viaduto de Costa, 30 Das Industrias I 66789-389 Nogueira Alegre / PB",62135759,Paraíba,32.4,
+111,Calebe Rezende,jvieira@example.org,Pessoa Física,2021-11-02 11:34:00,391.276.054-34,"Estrada Ana Sophia da Cruz, 739 Marçola 46229-871 Monteiro / RO",04736-349,Rondônia,42.53333333333333,
+182,Vitor Gabriel Rezende,fernandesbianca@example.com,Pessoa Física,2020-11-04 12:06:00,468.903.721-31,"Trevo Ana Lívia Rocha, 65 Varzea Da Palma 54972834 Ramos / BA",12587-908,Bahia,54.63333333333333,
+187,Maysa Rezende,yfogaca@example.org,Pessoa Física,2022-03-08 15:48:00,729.610.534-80,"Viela Novaes, 96 Vila Pilar 42684-816 Monteiro / RS",87469775,Rio Grande do Sul,38.333333333333336,
+221,Sophie Rezende,lauraalmeida@example.org,Pessoa Física,2016-08-16 13:42:00,314.706.289-96,"Colônia Oliveira, 2 Outro 54229-031 Azevedo de Goiás / CE",96517-916,Ceará,106.0,
+243,Danilo Rezende,cgoncalves@example.com,Pessoa Física,2017-04-01 14:23:00,043.159.687-57,Trevo Nascimento Jardinópolis 99876-792 Ribeiro / AL,95216172,Alagoas,98.4,
+404,Ian Rezende,heloisabarros@example.net,Pessoa Física,2022-06-05 15:57:00,108.926.537-95,"Estrada de Lima, 19 Rio Branco 39661184 Aragão / TO",20897-575,Tocantins,35.36666666666667,54.0
+482,Anthony Rezende,jfernandes@example.net,Pessoa Física,2019-08-23 11:22:00,740.935.612-06,"Trecho de Jesus, 5 Independência 70732-606 das Neves do Norte / DF",72954-765,Distrito Federal,69.26666666666667,
+529,Francisco Rezende,clarice83@example.com,Pessoa Física,2020-03-23 15:22:00,435.892.601-06,"Rua de Campos, 94 Salgado Filho 52999-749 Araújo / TO",46837-336,Tocantins,62.166666666666664,
+885,Sabrina Rezende,juannogueira@example.org,Pessoa Física,2018-03-01 15:45:00,260.438.975-47,"Viaduto das Neves, 379 Coração Eucarístico 96128-916 da Paz Alegre / DF",72048-406,Distrito Federal,87.26666666666667,74.0
+41,Diego Ribeiro,yuri36@example.org,Pessoa Física,2020-02-28 12:44:00,061.278.594-76,Área Alves Mineirão 21993173 Silveira / RN,18233-667,Rio Grande do Norte,62.96666666666667,
+144,Lavínia Ribeiro,maria-ceciliaviana@example.org,Pessoa Física,2022-04-06 14:46:00,073.146.958-57,"Distrito Julia Nogueira, 72 Conjunto Capitão Eduardo 05771549 Jesus / AL",84431718,Alagoas,37.36666666666667,
+159,Isaac Ribeiro,xfarias@example.com,Pessoa Física,2022-06-24 13:01:00,524.108.367-71,"Sítio Farias, 47 Tirol 40205-749 Melo da Serra / RO",94207716,Rondônia,34.733333333333334,51.0
+160,Maria Clara Ribeiro,azevedobianca@example.net,Pessoa Física,2019-11-02 16:31:00,634.178.509-75,"Lagoa de Sales, 67 Solar Do Barreiro 11113-671 Aragão de Viana / CE",68525237,Ceará,66.9,
+203,Otávio Ribeiro,piresmaria-vitoria@example.com,Pessoa Física,2016-08-03 16:13:00,614.328.950-60,"Esplanada Silveira, 4 Fernão Dias 54477890 Freitas da Mata / PA",90460-313,Pará,106.43333333333334,
+222,Luna Ribeiro,cavalcantijoaquim@example.com,Pessoa Física,2014-05-11 10:03:00,643.572.108-44,"Esplanada de Costela, 42 Vila Mangueiras 62327599 Aragão / SP",06445-888,São Paulo,133.6,
+268,Heloísa Ribeiro,vitor-gabriel19@example.net,Pessoa Física,2016-07-06 16:25:00,502.867.493-00,"Residencial Lucas Gabriel Almeida, 634 Vista Alegre 56132889 Campos das Pedras / PB",20281879,Paraíba,107.36666666666666,
+282,Alice Ribeiro,da-pazluiz-gustavo@example.net,Pessoa Física,2017-10-03 12:41:00,316.458.920-42,Lagoa de Oliveira Mirante 40346-315 Cunha / PB,08810-467,Paraíba,92.23333333333333,
+284,Isabelly Ribeiro,davi12@example.org,Pessoa Física,2020-02-18 13:51:00,523.648.709-92,"Área de Souza, 32 Vila Jardim Leblon 33602-241 Vieira / GO",00023-304,Goiás,63.3,32.0
+296,Caio Ribeiro,paulo52@example.com,Pessoa Física,2016-07-03 11:32:00,682.134.095-15,"Viaduto de Jesus, 23 Nossa Senhora Aparecida 16434898 da Mata do Sul / PR",17288-266,Paraná,107.46666666666667,
+329,Mariana Ribeiro,maria-fernanda87@example.org,Pessoa Física,2019-06-25 15:18:00,149.682.035-51,"Feira Joaquim Duarte, 126 Serrano 37659718 Cavalcanti do Oeste / PB",7027312,Paraíba,71.23333333333333,49.0
+405,Fernando Ribeiro,falves@example.org,Pessoa Física,2021-11-17 15:03:00,852.413.096-24,"Quadra João Vitor Nogueira, 132 Manacas 24012073 Nunes do Amparo / MA",61506780,Maranhão,42.03333333333333,52.0
+430,Mariane Ribeiro,marinaporto@example.org,Pessoa Física,2013-08-16 11:02:00,625.847.193-55,"Rodovia de Alves, 200 Minaslandia 51402-995 da Cruz de Minas / MG",44708672,Minas Gerais,142.53333333333333,
+466,Yago Ribeiro,nogueiraana-luiza@example.net,Pessoa Física,2022-10-26 14:13:00,306.895.247-65,"Trevo Moreira, 283 Vila Madre Gertrudes 4ª Seção 51556-674 Correia / PI",98105-954,Piauí,30.6,
+697,Joana Ribeiro,juan52@example.net,Pessoa Física,2013-01-24 12:46:00,652.943.780-00,"Vale Lima, 362 Fazendinha 56574753 Alves / MS",53155-194,Mato Grosso do Sul,149.33333333333334,78.0
+803,Daniel Ribeiro,joao80@example.net,Pessoa Física,2021-11-17 12:01:00,408.697.531-93,"Esplanada Viana, 5 Caiçaras 45457828 da Cruz / SC",47382-055,Santa Catarina,42.03333333333333,
+861,Beatriz Ribeiro,xjesus@example.org,Pessoa Física,2018-07-15 11:31:00,250.946.183-42,"Trevo Ana Laura Rezende, 126 Caetano Furquim 81745943 Moreira / PE",06168-064,Pernambuco,82.73333333333333,
+115,Kamilly da Cruz,peixotoana-carolina@example.com,Pessoa Física,2013-01-16 15:15:00,604.357.892-10,"Loteamento de Pereira, 58 João Pinheiro 31429-332 Araújo / PB",48067-920,Paraíba,149.6,
+123,Ana Laura da Cruz,luccadas-neves@example.net,Pessoa Física,2021-10-16 15:35:00,097.321.865-77,"Passarela Ferreira, 8 Guaratã 82155838 Silva / MA",22511466,Maranhão,43.1,21.0
+344,Matheus da Cruz,viniciusnogueira@example.org,Pessoa Física,2022-05-25 13:35:00,537.648.290-10,"Lagoa Jesus, 867 Delta 68958-813 Pereira de Peixoto / PE",48430-435,Pernambuco,35.733333333333334,75.0
+351,Calebe da Cruz,isabelda-cruz@example.com,Pessoa Física,2020-08-19 16:52:00,340.981.267-96,"Estrada de Ramos, 663 Juliana 96893-650 da Luz / SP",67309619,São Paulo,57.2,
+440,Bruna da Cruz,maria-juliaalmeida@example.org,Pessoa Física,2022-03-02 11:10:00,213.075.698-03,"Quadra de da Paz, 57 São Tomaz 90868897 Nunes / MA",49195976,Maranhão,38.53333333333333,
+488,Juliana da Cruz,lmoura@example.com,Pessoa Física,2022-07-16 10:16:00,215.376.908-68,"Via Viana, 79 Vila Bandeirantes 39510-213 Peixoto de da Cunha / PE",9373098,Pernambuco,34.0,
+531,João Guilherme da Cruz,maria-alice81@example.com,Pessoa Física,2020-04-17 13:12:00,270.365.981-40,"Estrada Isabel Gonçalves, 87 Vila Maria 70492743 da Luz do Norte / AC",62782-097,Acre,61.333333333333336,
+542,Sabrina da Cruz,matheus57@example.com,Pessoa Física,2022-06-02 11:54:00,240.538.769-74,"Vale João Pedro Caldeira, 64 Minas Brasil 73891-995 Alves / RJ",32727103,Rio de Janeiro,35.46666666666667,
+547,Gabrielly da Cruz,mcardoso@example.net,Pessoa Física,2013-04-04 15:11:00,671.489.023-04,"Núcleo de Costela, 58 João Alfredo 14810-102 Souza do Amparo / PI",69264-380,Piauí,147.0,
+652,Fernanda da Cruz,vda-rocha@example.net,Pessoa Física,2020-10-23 15:23:00,036.419.278-03,"Largo Cecília Castro, 14 Alto Caiçaras 47705-021 Rocha / AL",69878-651,Alagoas,55.03333333333333,
+679,Sabrina da Cruz,tramos@example.com,Pessoa Física,2019-01-08 15:11:00,681.924.530-06,Praça Leandro Pereira Satelite 36646-753 Gomes / PA,80537881,Pará,76.83333333333333,75.0
+725,Elisa da Cruz,barbaraalmeida@example.com,Pessoa Física,2020-01-11 14:13:00,841.623.507-44,"Vila Maria Luiza Rezende, 18 Vila Jardim Alvorada 38369-203 da Paz / PI",60556-393,Piauí,64.56666666666666,48.0
+793,Rebeca da Cruz,msouza@example.com,Pessoa Física,2020-05-03 15:46:00,538.197.642-91,Aeroporto de da Cunha Nova Cachoeirinha 33721-367 da Luz Alegre / RS,41051300,Rio Grande do Sul,60.8,
+78,Thomas da Mata,udias@example.net,Pessoa Física,2019-12-27 12:52:00,603.457.918-00,"Via Rafaela da Rosa, 31 Castelo 42124264 Martins da Prata / SC",77149-544,Santa Catarina,65.06666666666666,72.0
+136,Sarah da Mata,maria-alice25@example.com,Pessoa Física,2021-03-24 13:43:00,650.294.371-34,"Recanto João Miguel da Cruz, 40 Araguaia 02128-311 da Mota do Galho / AC",62165837,Acre,49.96666666666667,
+167,Sarah da Mata,nsouza@example.org,Pessoa Física,2021-08-21 14:10:00,096.187.354-00,"Condomínio de Ferreira, 60 Salgado Filho 72295750 da Paz / RJ",16431535,Rio de Janeiro,44.96666666666667,
+183,Júlia da Mata,rda-paz@example.org,Pessoa Física,2019-12-19 14:01:00,950.862.473-65,Travessa Murilo Farias Castanheira 58338626 Freitas / GO,7445060,Goiás,65.33333333333333,77.0
+240,Henrique da Mata,joao-lucas39@example.net,Pessoa Física,2021-03-16 14:29:00,025.834.167-07,"Viaduto Ana Vitória Costa, 34 Vila Piratininga 74307-604 Santos / RS",93532415,Rio Grande do Sul,50.233333333333334,
+310,Bernardo da Mata,milena53@example.org,Pessoa Física,2020-11-04 13:05:00,573.492.618-37,Avenida Rafael Costa Nova Suíça 22991815 Cunha Verde / GO,05675-228,Goiás,54.63333333333333,72.0
+326,Lorenzo da Mata,nascimentoigor@example.org,Pessoa Física,2018-01-27 14:50:00,561.230.978-30,"Núcleo Theo Pinto, 91 Senhor Dos Passos 98613141 Freitas do Oeste / PB",40974811,Paraíba,88.36666666666666,61.0
+340,Alexia da Mata,isabel63@example.com,Pessoa Física,2022-02-15 12:44:00,507.142.839-32,Rua Amanda Novaes Vila São João Batista 88009706 da Rosa / SP,19736544,São Paulo,39.03333333333333,
+393,Alexia da Mata,nunesluiz-felipe@example.net,Pessoa Física,2022-10-27 16:27:00,567.294.380-29,"Fazenda de Araújo, 40 Nova Granada 80500197 Fogaça / CE",68814494,Ceará,30.566666666666666,
+485,Vinicius da Mata,melotheo@example.com,Pessoa Física,2017-09-23 11:16:00,541.703.629-34,"Praça de Costa, 65 Vila Ipiranga 85905-432 Almeida / RO",86898-227,Rondônia,92.56666666666666,
+525,Amanda da Mata,oliveiraolivia@example.com,Pessoa Física,2012-05-03 13:10:00,607.891.234-87,Esplanada de da Cruz Pilar 11944-945 Pereira / MA,45539156,Maranhão,158.2,
+546,Augusto da Mata,kmoraes@example.org,Pessoa Física,2019-12-14 16:56:00,409.361.582-98,"Setor Pires, 39 Minas Brasil 64587409 Pires do Amparo / AC",83642191,Acre,65.5,
+585,Luiz Fernando da Mata,heloisa95@example.com,Pessoa Física,2022-10-20 11:04:00,371.906.528-68,"Favela Manuela Pires, 80 Vila Minaslandia 95128146 Teixeira Paulista / AL",98547-972,Alagoas,30.8,
+618,Davi Lucas da Mata,erick64@example.org,Pessoa Física,2018-12-14 11:23:00,721.036.498-69,"Trevo Gustavo da Conceição, 54 Jardim Guanabara 62295901 Monteiro do Galho / DF",88416-256,Distrito Federal,77.66666666666667,66.0
+742,Ana Sophia da Mata,npinto@example.org,Pessoa Física,2019-05-17 15:36:00,293.541.806-98,"Loteamento de da Rocha, 96 Santa Isabel 19282-292 Castro de Gomes / PI",63638-761,Piauí,72.53333333333333,
+760,Lucca da Mata,freitasmurilo@example.org,Pessoa Física,2013-04-27 10:08:00,836.429.107-69,"Feira Alves, 65 Vila Petropolis 62254661 da Mota de Minas / MS",56414647,Mato Grosso do Sul,146.23333333333332,
+812,Heitor da Mata,joao-pedrocunha@example.net,Pessoa Física,2018-10-24 12:26:00,012.675.934-07,"Parque Ramos, 60 Olaria 10760399 Gomes de Barbosa / SP",70976-910,São Paulo,79.36666666666666,
+998,Alexandre da Mata,ccunha@example.org,Pessoa Física,2013-11-07 13:05:00,913.845.602-89,"Rodovia Alícia Silveira, 86 Pompéia 71107-614 Silva do Amparo / RS",16889847,Rio Grande do Sul,139.76666666666668,
+47,Vinicius da Mota,mendeseduarda@example.net,Pessoa Física,2021-12-07 11:46:00,270.596.138-03,"Jardim Cavalcanti, 319 Santa Amelia 83518323 da Paz dos Dourados / MS",45833752,Mato Grosso do Sul,41.36666666666667,
+54,Luana da Mota,mendesguilherme@example.com,Pessoa Física,2017-09-08 12:55:00,478.925.013-04,"Sítio Maysa Nunes, 376 Ventosa 21912-741 Ferreira Paulista / SE",58810090,Sergipe,93.06666666666666,22.0
+85,Pedro Henrique da Mota,barrossabrina@example.org,Pessoa Física,2010-10-04 13:19:00,256.847.910-85,"Fazenda de Almeida, 70 Conjunto Califórnia I 19254475 Rodrigues Alegre / SE",84785-656,Sergipe,177.43333333333334,
+138,Davi Lucas da Mota,portovitor-gabriel@example.com,Pessoa Física,2018-04-06 10:08:00,734.560.218-44,"Condomínio Ribeiro, 83 Santa Rita 43035840 Moreira do Oeste / ES",50910135,Espírito Santo,86.06666666666666,60.0
+163,Luiz Gustavo da Mota,julialopes@example.org,Pessoa Física,2020-07-26 14:45:00,093.856.741-10,"Praça de da Cruz, 98 Tirol 76308996 da Costa de Oliveira / RN",29259296,Rio Grande do Norte,58.0,69.0
+198,Vitor da Mota,castroerick@example.com,Pessoa Física,2016-09-09 11:33:00,340.728.156-08,"Conjunto Cardoso, 45 Vila Bandeirantes 41654598 Duarte / DF",62913-346,Distrito Federal,105.2,
+389,Isabelly da Mota,emillyalmeida@example.net,Pessoa Física,2021-12-13 13:02:00,275.386.094-74,Distrito Barbosa Maria Tereza 98433-264 Azevedo do Galho / PE,9722268,Pernambuco,41.166666666666664,
+394,Joana da Mota,silvadanilo@example.com,Pessoa Física,2016-12-21 13:31:00,872.405.613-80,"Aeroporto de Nogueira, 90 Vila Piratininga Venda Nova 74845178 Rocha de Fogaça / GO",40557-484,Goiás,101.76666666666667,55.0
+464,João Felipe da Mota,rdas-neves@example.com,Pessoa Física,2021-04-20 10:09:00,156.729.083-30,"Conjunto de Costela, 452 Jardim Alvorada 25570466 Silveira de Pereira / SC",46903-963,Santa Catarina,49.06666666666667,34.0
+518,Maria Sophia da Mota,gabrielly74@example.net,Pessoa Física,2015-10-03 14:31:00,456.029.378-38,"Largo de Correia, 42 Palmares 35281954 Mendes do Norte / CE",70049512,Ceará,116.6,
+684,Beatriz da Mota,vgoncalves@example.com,Pessoa Física,2020-03-14 11:55:00,692.435.078-00,"Parque Teixeira, 91 Lourdes 39343662 das Neves do Galho / SP",90910-527,São Paulo,62.46666666666667,37.0
+702,André da Mota,juannogueira@example.com,Pessoa Física,2017-05-25 15:10:00,876.104.953-01,Esplanada Mariane FogaÃ§a Boa União 2Âª SeÃ§ão 51644-388 Viana / CE,9413343,Ceará,96.6,
+755,Giovanna da Mota,pereiraraquel@example.net,Pessoa Física,2019-05-27 13:47:00,872.456.019-76,"Feira da Paz, 25 Dona Clara 51727-260 Cunha da Serra / DF",55887339,Distrito Federal,72.2,
+777,Pietro da Mota,maysa47@example.org,Pessoa Física,2022-01-07 13:03:00,938.067.524-00,"Lagoa de Nunes, 343 Madri 72186-807 Rocha / MT",28353-018,Mato Grosso,40.333333333333336,76.0
+816,Luna da Mota,alexiaviana@example.net,Pessoa Física,2017-04-18 15:01:00,371.690.485-66,"Viaduto de Ribeiro, 7 Ápia 14405-099 Ferreira / ES",38080-346,Espírito Santo,97.83333333333333,
+848,Maysa da Mota,maria-julia26@example.org,Pessoa Física,2022-10-14 14:02:00,068.317.429-04,"Estrada de Cardoso, 89 Novo Tupi 28144003 Novaes / MG",65236138,Minas Gerais,31.0,41.0
+876,Enzo Gabriel da Mota,ucastro@example.net,Pessoa Física,2019-04-17 11:01:00,051.386.724-44,"Praça Araújo, 3 Campo Alegre 29924502 Gonçalves do Galho / BA",87757-995,Bahia,73.53333333333333,40.0
+913,Ana Clara da Mota,cardosogabriela@example.net,Pessoa Física,2021-10-08 14:19:00,061.742.598-11,Fazenda Ana Júlia da Luz Mariano De Abreu 32644-259 Castro / PE,94039952,Pernambuco,43.36666666666667,
+83,Eduardo da Rosa,alexia28@example.com,Pessoa Física,2021-10-07 13:04:00,452.837.109-04,"Quadra de Carvalho, 78 Vila Vista Alegre 70252-733 Costela / SP",61531-523,São Paulo,43.4,68.0
+242,Pietra da Rosa,joao-pedroda-luz@example.org,Pessoa Física,2010-05-06 14:03:00,327.054.819-23,"Esplanada Fernandes, 59 São Marcos 32200-727 Costa / MT",63143-287,Mato Grosso,182.46666666666667,
+362,Stella da Rosa,jpires@example.net,Pessoa Física,2019-11-09 10:52:00,084.193.765-66,"Campo da Paz, 142 Vila Aeroporto 27339-168 Melo / AC",53746-671,Acre,66.66666666666667,23.0
+424,Rodrigo da Rosa,fribeiro@example.org,Pessoa Física,2022-02-10 12:31:00,518.640.397-01,"Via Yago da Rocha, 460 Conjunto São Francisco De Assis 52195152 Gonçalves do Galho / RR",74607057,Roraima,39.2,
+463,Lucas da Rosa,da-cunhafernando@example.org,Pessoa Física,2017-04-02 13:32:00,489.510.627-67,"Lagoa Maria Vitória Mendes, 579 São José 03752876 da Mata da Serra / AL",18035493,Alagoas,98.36666666666666,
+560,Leandro da Rosa,joao-pedrooliveira@example.org,Pessoa Física,2020-07-14 13:09:00,874.215.039-60,"Loteamento Matheus da Rocha, 3 Leticia 62507206 Monteiro / RS",59981945,Rio Grande do Sul,58.4,
+628,Guilherme da Rosa,vianalucas-gabriel@example.org,Pessoa Física,2020-07-08 10:33:00,607.384.125-62,"Residencial Ferreira, 90 Vila São Dimas 05888019 Martins / AC",65356037,Acre,58.6,69.0
+665,Amanda da Rosa,stellacorreia@example.com,Pessoa Física,2019-12-11 14:35:00,257.390.614-07,"Loteamento Lima, 1 Dom Bosco 24558786 Pereira de da Paz / SC",68868-878,Santa Catarina,65.6,30.0
+703,Luiz Otávio da Rosa,viniciusrodrigues@example.com,Pessoa Física,2015-03-04 13:12:00,830.294.617-69,"Trecho de Lopes, 22 Estrela 39419543 Ribeiro Grande / RS",20114460,Rio Grande do Sul,123.7,52.0
+746,Emanuella da Rosa,cpeixoto@example.net,Pessoa Física,2021-08-27 15:36:00,348.672.519-09,"Praia Santos, 57 Marieta 3ª Seção 73009-630 Oliveira do Galho / RJ",60869553,Rio de Janeiro,44.766666666666666,76.0
+770,João Pedro da Rosa,das-neveskamilly@example.net,Pessoa Física,2022-04-04 12:34:00,265.047.391-61,"Favela Azevedo, 11 Conjunto Taquaril 40563793 Viana / SE",21981021,Sergipe,37.43333333333333,18.0
+895,Joana da Rosa,valentinamartins@example.net,Pessoa Física,2022-08-15 11:35:00,274.516.890-85,"Residencial Guilherme da Luz, 9 Mangueiras 64912-680 Ramos / AP",11658-609,Amapá,33.0,
+907,Miguel da Rosa,ggomes@example.org,Pessoa Física,2022-08-01 12:44:00,315.649.280-98,"Viaduto de Novaes, 61 Vila Maloca 51271851 Farias / PR",77289-010,Paraná,33.46666666666667,63.0
+31,Sophia Caldeira,silveirarodrigo@example.org,Pessoa Física,2016-09-25 14:39:00,196.427.385-46,"Condomínio de Cunha, 30 Vila Paquetá 05930604 Barros da Serra / MS",60759944,Mato Grosso do Sul,104.66666666666667,48.0
+49,Juliana Caldeira,rpeixoto@example.net,Pessoa Física,2021-05-05 12:58:00,457.380.619-93,"Recanto de Nogueira, 4 Boa Vista 12270-586 Souza / ES",44667-028,Espírito Santo,48.56666666666667,
+88,Maysa Caldeira,rafael21@example.net,Pessoa Física,2020-10-07 14:15:00,702.614.935-07,"Ladeira Bianca Gomes, 7 Ipiranga 71245492 Pires de Almeida / RN",26042-921,Rio Grande do Norte,55.56666666666667,
+132,Leonardo Caldeira,eduarda83@example.net,Pessoa Física,2022-08-18 11:53:00,316.047.289-22,"Distrito de Silva, 709 Granja De Freitas 49834-233 Farias de Farias / SP",53952-163,São Paulo,32.9,79.0
+207,Francisco Caldeira,gabriellyfreitas@example.com,Pessoa Física,2022-06-24 16:07:00,946.517.283-91,"Distrito Rebeca Fogaça, 78 Savassi 67766103 Almeida de Goiás / RJ",26236980,Rio de Janeiro,34.733333333333334,
+249,Marcela Caldeira,mariane80@example.com,Pessoa Física,2019-01-10 14:25:00,140.687.293-87,"Sítio Vitor Hugo Castro, 7 Vista Do Sol 32863094 Cunha / MA",20163-136,Maranhão,76.76666666666667,68.0
+608,Isabelly Caldeira,voliveira@example.net,Pessoa Física,2014-09-20 11:49:00,347.092.185-79,"Feira de Alves, 51 Marieta 1ª Seção 26624-408 Barros do Galho / SE",53011234,Sergipe,129.2,
+701,Milena Caldeira,diogo43@example.net,Pessoa Física,2013-02-24 10:46:00,965.041.728-11,"Feira Dias, 3 São Paulo 25699-190 Lima / MA",19025-885,Maranhão,148.3,
+817,Kamilly Caldeira,pmonteiro@example.com,Pessoa Física,2021-11-25 15:41:00,504.217.836-80,"Favela Porto, 58 Vila Satélite 55942548 Monteiro / TO",14508-865,Tocantins,41.766666666666666,
+823,Levi Caldeira,yagoramos@example.com,Pessoa Física,2022-01-18 12:45:00,092.548.671-01,"Praia Maria Cecília Cardoso, 883 Vila Havaí 80650052 Carvalho / RR",54165313,Roraima,39.96666666666667,
+863,Emanuel Caldeira,pedro54@example.net,Pessoa Física,2015-11-26 12:41:00,176.584.029-58,"Rua Maria Clara Barbosa, 30 Petropolis 87686393 da Paz de Ramos / BA",30690903,Bahia,114.8,
+881,Luiz Gustavo Caldeira,hviana@example.org,Pessoa Física,2019-12-23 15:28:00,859.762.130-30,"Aeroporto Oliveira, 888 Dom Cabral 50785807 Rodrigues / TO",58956-583,Tocantins,65.2,67.0
+926,Luiz Miguel Caldeira,lopeshelena@example.net,Pessoa Física,2018-05-03 15:18:00,274.816.539-09,"Ladeira de Silveira, 85 Vila Jardim Montanhes 92682195 Pinto da Prata / AL",42798399,Alagoas,85.16666666666667,
+976,Vicente Caldeira,da-mataluiza@example.net,Pessoa Física,2015-09-16 15:49:00,761.382.059-95,"Vereda Almeida, 1 Vila Santo Antônio Barroquinha 47821-847 Rocha / CE",25244388,Ceará,117.16666666666667,62.0
+287,Letícia Carvalho,lunasales@example.org,Pessoa Física,2020-07-20 13:04:00,938.526.017-03,"Vereda Silva, 55 Andiroba 83971874 Fernandes Verde / RN",7567278,Rio Grande do Norte,58.2,81.0
+324,Diego Carvalho,rochamaria-clara@example.org,Pessoa Física,2022-01-11 15:19:00,417.895.230-79,"Campo de Barbosa, 5 Itatiaia 37893-563 Silva Grande / AP",64342245,Amapá,40.2,35.0
+376,Henrique Carvalho,valentina99@example.com,Pessoa Física,2012-04-07 15:08:00,843.527.109-97,Trevo Peixoto Coqueiros 30372098 Moura do Norte / PI,84075350,Piauí,159.06666666666666,
+423,Heloísa Carvalho,enzogoncalves@example.net,Pessoa Física,2017-11-26 16:12:00,512.748.639-37,"Distrito Jesus, 3 Santa Maria 49567-381 da Rosa / RN",99953812,Rio Grande do Norte,90.43333333333334,32.0
+448,Lucas Gabriel Carvalho,maria-sophia95@example.org,Pessoa Física,2019-12-18 13:11:00,713.028.965-12,"Avenida Nicolas Farias, 138 Tupi A 73590-026 Rezende / SC",19905255,Santa Catarina,65.36666666666666,
+503,Emanuel Carvalho,liviaviana@example.com,Pessoa Física,2020-11-25 13:30:00,234.159.780-79,Conjunto Ramos São Sebastião 39944-896 Sales da Prata / PE,11832-547,Pernambuco,53.93333333333333,
+617,Melissa Carvalho,almeidacatarina@example.com,Pessoa Física,2016-02-17 11:37:00,327.548.609-83,"Recanto Caldeira, 2 Boa Viagem 86510311 Gomes Paulista / CE",26853-361,Ceará,112.03333333333333,52.0
+646,Caroline Carvalho,thalesrodrigues@example.net,Pessoa Física,2018-08-15 15:30:00,286.175.943-73,"Pátio Thomas Novaes, 21 Vila Aeroporto Jaraguá 86235684 Rezende / AC",64172-961,Acre,81.7,
+724,Bryan Carvalho,rporto@example.com,Pessoa Física,2019-08-07 13:31:00,847.395.126-37,"Área Elisa Mendes, 60 Jaqueline 78185518 Almeida do Sul / RJ",76440-267,Rio de Janeiro,69.8,40.0
+831,Catarina Carvalho,dcarvalho@example.org,Pessoa Física,2016-01-22 11:28:00,401.796.528-85,"Colônia de Castro, 30 Belvedere 62950-196 Rodrigues / PB",63295-939,Paraíba,112.9,
+872,Breno Carvalho,bfernandes@example.org,Pessoa Física,2021-01-16 10:38:00,120.897.653-21,Rua Marina Gomes Esperança 60145-320 Vieira / ES,94339-803,Espírito Santo,52.2,
+64,Agatha Ferreira,waraujo@example.com,Pessoa Física,2016-04-18 15:57:00,309.714.582-60,"Trevo Freitas, 66 Vila Petropolis 19175-991 Cunha / PA",7428521,Pará,110.0,
+248,Clarice Ferreira,enrico46@example.org,Pessoa Física,2019-06-13 11:34:00,612.895.734-09,"Largo Thales Farias, 64 Conjunto Jardim Filadélfia 16733591 Moreira / CE",93633-706,Ceará,71.63333333333334,
+447,Emanuel Ferreira,laisnascimento@example.com,Pessoa Física,2022-03-08 15:28:00,207.168.394-31,"Vale de Duarte, 682 Lourdes 03846-664 Rezende do Galho / RO",97675-667,Rondônia,38.333333333333336,
+599,André Ferreira,ana-sophiada-costa@example.org,Pessoa Física,2020-01-11 14:52:00,087.294.653-38,"Fazenda Gustavo Ferreira, 6 Alto Caiçaras 40375687 Nascimento de Monteiro / GO",97685445,Goiás,64.56666666666666,
+644,Luigi Ferreira,dda-conceicao@example.com,Pessoa Física,2022-11-06 12:02:00,967.835.140-48,"Rodovia de Freitas, 44 Europa 23099-905 Carvalho Alegre / TO",12155532,Tocantins,30.233333333333334,32.0
+699,Pedro Miguel Ferreira,ksilva@example.org,Pessoa Física,2011-03-22 14:49:00,941.720.856-01,"Estrada Dias, 170 Alta Tensão 1ª Seção 63660-116 Ramos Alegre / CE",89280-864,Ceará,171.8,
+791,Gustavo Ferreira,ida-costa@example.net,Pessoa Física,2015-10-21 13:49:00,460.751.283-44,"Praça Aragão, 47 Novo Das Industrias 92998996 Mendes / ES",68092-313,Espírito Santo,116.0,
+828,Sophia Ferreira,caldeirabryan@example.org,Pessoa Física,2021-12-25 12:52:00,856.124.073-35,"Travessa de Ferreira, 6 Aarão Reis 77221-591 da Paz da Praia / RO",40467-614,Rondônia,40.766666666666666,44.0
+984,Gustavo Henrique Ferreira,sophiearaujo@example.net,Pessoa Física,2016-12-15 12:04:00,132.604.978-03,"Vale Lorena Teixeira, 80 Cidade Jardim Taquaril 43753518 Cardoso do Galho / RR",81193-115,Roraima,101.96666666666667,79.0
+996,Vicente Ferreira,maria-vitorianunes@example.org,Pessoa Física,2017-02-20 14:29:00,235.097.618-12,Trecho Sales Granja Werneck 29929103 Silveira do Galho / SE,86453320,Sergipe,99.73333333333333,
+179,Thiago Monteiro,silvasophia@example.net,Pessoa Física,2019-01-15 11:29:00,029.674.851-01,"Trecho de Farias, 906 Manacas 66718-074 Moraes / AP",58661-890,Amapá,76.6,
+338,Erick Monteiro,carlos-eduardo61@example.com,Pessoa Física,2016-03-07 14:26:00,649.085.213-60,"Viela de da Rosa, 86 Santa Amelia 78590-222 Vieira / RR",59633-454,Roraima,111.4,58.0
+357,Evelyn Monteiro,nicolearaujo@example.com,Pessoa Física,2021-07-12 15:17:00,648.395.702-56,"Rua Correia, 7 Marilandia 57967380 Porto do Oeste / MA",87506-304,Maranhão,46.3,
+386,Nina Monteiro,meloana-sophia@example.net,Pessoa Física,2018-11-03 12:58:00,739.146.082-69,Quadra Gomes Vila Piratininga Venda Nova 39354-670 Silva / SC,60999280,Santa Catarina,79.03333333333333,38.0
+409,Juliana Monteiro,ryanrezende@example.net,Pessoa Física,2015-11-08 14:10:00,035.916.824-89,"Largo de Farias, 8 Santa Sofia 78450-908 Fogaça / RR",55913-053,Roraima,115.4,26.0
+562,Mirella Monteiro,isabelsouza@example.net,Pessoa Física,2021-07-16 16:50:00,342.971.860-04,"Distrito de Cavalcanti, 14 Horto Florestal 55285195 Moraes / ES",90139-977,Espírito Santo,46.166666666666664,
+565,Enzo Monteiro,uduarte@example.net,Pessoa Física,2016-06-28 12:31:00,507.849.231-32,"Passarela de Monteiro, 25 Vila Antena 50344904 Almeida / TO",12160847,Tocantins,107.63333333333334,
+630,Thiago Monteiro,yago29@example.com,Pessoa Física,2014-07-02 12:56:00,143.295.670-16,"Passarela de Almeida, 279 Etelvina Carneiro 80838683 Costela das Flores / DF",87901-288,Distrito Federal,131.86666666666667,
+660,Fernando Monteiro,natalia51@example.net,Pessoa Física,2022-10-28 14:34:00,298.137.645-46,"Conjunto Moraes, 6 Vila Petropolis 93440257 Costela / SC",78398-688,Santa Catarina,30.533333333333335,
+734,Luna Monteiro,stella79@example.org,Pessoa Física,2020-08-17 15:00:00,786.152.093-59,"Área Clara Castro, 91 Serra 90010378 Duarte Grande / MG",89964-963,Minas Gerais,57.266666666666666,
+865,Danilo Monteiro,leticia65@example.org,Pessoa Física,2019-05-06 10:03:00,813.469.705-48,"Área Bruna Pinto, 9 Tres Marias 69314-474 Costela / PI",95694-426,Piauí,72.9,
+962,Marina Monteiro,joao-lucasoliveira@example.org,Pessoa Física,2022-07-19 15:11:00,712.435.069-70,Feira da Conceição Vila Do Pombal 25982975 Ramos / BA,1613203,Bahia,33.9,
+23,Sabrina Nogueira,lara92@example.net,Pessoa Física,2012-12-06 10:38:00,105.362.874-90,"Recanto de Viana, 51 Cinquentenário 35460-305 Mendes / PB",45240598,Paraíba,150.96666666666667,37.0
+156,Matheus Nogueira,leticiacostela@example.org,Pessoa Física,2018-09-03 15:21:00,205.649.318-70,"Rodovia de Nogueira, 79 Solimoes 99124-289 Fernandes Grande / RS",46469073,Rio Grande do Sul,81.06666666666666,55.0
+470,Heloísa Nogueira,juanteixeira@example.com,Pessoa Física,2016-10-03 14:01:00,290.415.738-79,"Largo Enrico Moreira, 82 Nossa Senhora Do Rosário 07570669 da Mata / RS",27276817,Rio Grande do Sul,104.4,
+508,Catarina Nogueira,brendaalmeida@example.net,Pessoa Física,2019-05-18 14:07:00,269.031.847-40,"Setor de Rezende, 1 Maria Tereza 91022434 Gonçalves / SC",37113-152,Santa Catarina,72.5,
+509,Matheus Nogueira,camposmaria-clara@example.org,Pessoa Física,2012-01-20 11:56:00,507.689.421-01,"Campo Nunes, 35 Calafate 93091-401 Moura Grande / RS",29657-764,Rio Grande do Sul,161.66666666666666,
+533,Alana Nogueira,mcastro@example.com,Pessoa Física,2021-08-09 12:39:00,423.518.970-05,"Trevo Benjamin Dias, 33 Vila Independencia 1ª Seção 46747249 Barbosa Alegre / RN",21601596,Rio Grande do Norte,45.36666666666667,
+634,Paulo Nogueira,pedro-lucas85@example.com,Pessoa Física,2021-07-02 13:31:00,758.349.012-04,"Vila Cardoso, 77 Leticia 51050-423 Mendes da Praia / BA",80483580,Bahia,46.63333333333333,
+668,Maria Julia Nogueira,gramos@example.net,Pessoa Física,2015-03-03 12:16:00,305.187.462-08,"Lagoa Carvalho, 4 Jardim Felicidade 92014053 Ramos Verde / PB",29165027,Paraíba,123.73333333333333,67.0
+757,Julia Nogueira,luigi30@example.com,Pessoa Física,2016-12-10 15:46:00,471.690.358-39,"Vereda de Correia, 1 Marieta 3ª Seção 91998-530 Monteiro / RR",79522419,Roraima,102.13333333333334,38.0
+774,Valentina Nogueira,eduardo99@example.net,Pessoa Física,2018-07-11 14:52:00,726.435.910-70,"Passarela de da Rosa, 17 Cardoso 56527391 Rezende do Galho / PI",59960-080,Piauí,82.86666666666666,
+839,Clarice Nogueira,pintocaio@example.org,Pessoa Física,2017-01-02 12:37:00,182.905.463-51,"Colônia de da Mata, 7 Xangri-Lá 52109327 Campos das Flores / MG",34927-035,Minas Gerais,101.36666666666666,
+889,Bianca Nogueira,moraesnicolas@example.org,Pessoa Física,2022-11-20 14:49:00,169.502.874-02,"Viaduto Lorena da Rocha, 31 Vila Calafate 57952-050 Peixoto de Campos / MA",69613-287,Maranhão,29.766666666666666,23.0
+995,Vitor Hugo Nogueira,castrovitoria@example.org,Pessoa Física,2021-02-06 13:22:00,413.702.968-78,"Vila Maria Cecília da Luz, 90 Santa Isabel 65394776 da Conceição / SP",5860602,São Paulo,51.5,37.0
+69,Ana Júlia Oliveira,isis11@example.net,Pessoa Física,2019-10-26 14:52:00,210.643.578-90,"Viela GonÃ§alves, 524 São Gabriel 85020155 da Paz de Farias / MS",48276-010,Mato Grosso do Sul,67.13333333333334,
+96,Bryan Oliveira,rezendejulia@example.org,Pessoa Física,2022-08-15 13:30:00,163.250.789-77,"Passarela Oliveira, 453 Conjunto Jardim Filadélfia 18924578 Pinto / SP",99252052,São Paulo,33.0,
+125,Caué Oliveira,thiago40@example.org,Pessoa Física,2019-04-08 12:41:00,538.072.694-10,"Chácara de Gomes, 660 Ernesto Nascimento 99378-173 Lopes Alegre / RR",61566532,Roraima,73.83333333333333,40.0
+154,Ana Júlia Oliveira,kevin24@example.org,Pessoa Física,2013-10-14 11:46:00,059.187.432-60,"Lagoa de Araújo, 41 Venda Nova 32097449 Silva / RN",51218-272,Rio Grande do Norte,140.56666666666666,
+180,João Gabriel Oliveira,cmonteiro@example.org,Pessoa Física,2022-07-21 12:36:00,925.138.746-09,"Núcleo da Luz, 80 Vila Sumaré 45305-398 da Rocha / SE",42069-597,Sergipe,33.833333333333336,
+181,João Gabriel Oliveira,joao-pedro84@example.com,Pessoa Física,2021-06-08 15:03:00,956.478.320-83,Favela de Rodrigues Vila Do Pombal 83837-731 da Costa / SC,52099-862,Santa Catarina,47.43333333333333,57.0
+196,Vitória Oliveira,moraescaio@example.org,Pessoa Física,2014-06-05 12:16:00,196.378.240-22,"Viela Joana Duarte, 96 Tupi B 41685-145 Pinto / RO",10703-141,Rondônia,132.76666666666668,46.0
+199,Murilo Oliveira,caldeirayuri@example.com,Pessoa Física,2019-01-10 12:24:00,061.984.573-20,"Sítio de da Conceição, 21 Suzana 63330113 Pires / MS",59066-697,Mato Grosso do Sul,76.76666666666667,81.0
+256,Agatha Oliveira,monteirosofia@example.net,Pessoa Física,2020-04-28 16:46:00,896.130.725-86,"Recanto Bernardo Rezende, 11 São Damião 25575-266 Caldeira / SP",50987-872,São Paulo,60.96666666666667,
+271,Larissa Oliveira,da-luzmarcos-vinicius@example.com,Pessoa Física,2020-12-02 12:41:00,764.092.138-40,"Praia de Mendes, 99 São Paulo 59552-991 Novaes / AC",93866-463,Acre,53.7,25.0
+273,Vitor Gabriel Oliveira,osilveira@example.net,Pessoa Física,2020-04-27 11:42:00,403.172.598-14,Avenida Caldeira Vila Oeste 31522-748 Alves do Campo / ES,67970-617,Espírito Santo,61.0,55.0
+301,Stephany Oliveira,maria-sophianunes@example.org,Pessoa Física,2015-10-20 13:23:00,329.571.680-30,"Ladeira Barbosa, 905 Delta 83154-332 Oliveira / MS",44209-089,Mato Grosso do Sul,116.03333333333333,
+315,Lívia Oliveira,ramospietra@example.net,Pessoa Física,2022-12-19 14:37:00,527.806.349-10,"Estrada de Carvalho, 10 Jardinópolis 16471842 Caldeira do Campo / AC",39563-033,Acre,28.8,
+519,Bryan Oliveira,kda-luz@example.org,Pessoa Física,2021-09-14 11:54:00,073.218.694-31,"Aeroporto Jesus, 59 Vila Madre Gertrudes 2ª Seção 55659-448 Martins das Flores / AL",10142341,Alagoas,44.166666666666664,72.0
+581,Enrico Oliveira,castroheitor@example.net,Pessoa Física,2017-07-06 11:09:00,278.906.415-67,"Alameda Renan da Cruz, 76 Vila Nova Cachoeirinha 3ª Seção 83487207 da Costa da Serra / SP",15723-507,São Paulo,95.2,
+688,Alexandre Oliveira,vicenteda-conceicao@example.net,Pessoa Física,2017-12-05 11:03:00,560.941.382-60,"Morro Otávio Costela, 18 Vila Suzana Primeira Seção 79865617 Nunes Verde / RS",32672164,Rio Grande do Sul,90.13333333333334,
+715,Bruno Oliveira,calebe23@example.net,Pessoa Física,2018-12-20 16:17:00,912.685.734-00,"Parque de Duarte, 58 Vila Esplanada 21284-209 Dias / AP",39393-555,Amapá,77.46666666666667,51.0
+451,Stella Silveira,esther63@example.org,Pessoa Física,2011-08-25 11:33:00,583.260.971-95,"Viela Sophia Peixoto, 95 Andiroba 01362-364 Rocha / MT",44492-634,Mato Grosso,166.6,25.0
+472,Matheus Silveira,da-cunhaluiz-miguel@example.org,Pessoa Física,2022-08-07 12:08:00,608.573.421-26,"Rua Maria Julia da Costa, 3 Penha 14678-858 Pinto do Amparo / BA",96254453,Bahia,33.266666666666666,43.0
+511,Murilo Silveira,da-costabarbara@example.org,Pessoa Física,2018-11-07 11:57:00,317.406.829-04,"Vale Vinicius da Cunha, 6 Vila Santo Antônio Barroquinha 48223-320 Gonçalves / ES",71158-691,Espírito Santo,78.9,
+526,Rafaela Silveira,joao-miguel21@example.net,Pessoa Física,2018-09-16 15:21:00,178.936.250-40,"Avenida Yuri Santos, 56 Boa União 1ª Seção 28672289 da Cunha / SC",71513521,Santa Catarina,80.63333333333334,43.0
+539,Benjamin Silveira,lda-mata@example.com,Pessoa Física,2011-04-21 10:58:00,983.416.270-78,"Chácara Campos, 85 Boa União 1ª Seção 87856223 Rocha do Campo / BA",2025883,Bahia,170.8,65.0
+549,Mirella Silveira,joanasouza@example.com,Pessoa Física,2019-06-22 15:37:00,290.167.845-94,"Praia Gomes, 99 Buritis 00506278 Fogaça do Oeste / MS",25765-264,Mato Grosso do Sul,71.33333333333333,35.0
+666,Lucca Silveira,barbara78@example.com,Pessoa Física,2015-07-27 15:03:00,195.842.037-97,"Feira Silva, 1 Monsenhor Messias 47727-688 Barbosa / RR",23978-780,Roraima,118.86666666666666,77.0
+751,Maria Sophia Silveira,mda-luz@example.com,Pessoa Física,2012-01-13 12:29:00,189.647.205-20,Núcleo Nina Castro Universo 61010121 Ribeiro / RS,62560-172,Rio Grande do Sul,161.9,
+782,Erick Silveira,rebeca66@example.com,Pessoa Física,2019-01-10 11:19:00,691.837.524-55,"Praia Pedro Lucas Porto, 92 Maria Goretti 68997814 Caldeira / MT",52820470,Mato Grosso,76.76666666666667,
+925,Noah Silveira,ana-beatriz52@example.com,Pessoa Física,2014-07-10 14:52:00,278.410.935-60,"Pátio de Melo, 929 Padre Eustáquio 71368151 Moura / AM",90467127,Amazonas,131.6,
+949,Samuel Silveira,catarinaporto@example.com,Pessoa Física,2016-07-07 10:30:00,473.820.196-40,"Esplanada Moraes, 202 Vila Nova Gameleira 3ª Seção 90602-498 Monteiro da Mata / TO",34143-462,Tocantins,107.33333333333333,
+954,Augusto Silveira,ana-clara17@example.net,Pessoa Física,2012-04-15 10:23:00,459.762.083-47,"Recanto Souza, 43 São Luiz 36309550 Aragão / ES",86541-029,Espírito Santo,158.8,
+956,Mariane Silveira,vieiralevi@example.net,Pessoa Física,2017-07-11 15:45:00,647.528.019-49,"Quadra de Araújo, 10 São Francisco Das Chagas 39063132 Barbosa de Minas / RS",32056-771,Rio Grande do Sul,95.03333333333333,36.0
+975,Levi Silveira,aalves@example.com,Pessoa Física,2021-03-18 14:58:00,560.824.173-80,Ladeira de Viana Vila Santa Monica 2ª Seção 59516234 Costela / MG,17928-914,Minas Gerais,50.166666666666664,51.0
+22,Olivia Teixeira,hbarros@example.com,Pessoa Física,2020-11-14 11:11:00,415.879.203-79,"Fazenda Vinicius Rocha, 39 Cinquentenário 88559026 da Luz / PE",23793323,Pernambuco,54.3,
+98,Letícia Teixeira,alana90@example.net,Pessoa Física,2018-02-19 11:29:00,506.187.924-49,"Chácara de das Neves, 55 Alto CaiÃ§aras 74632702 da Cunha / RJ",15033744,Rio de Janeiro,87.6,
+202,Luigi Teixeira,goncalveskevin@example.com,Pessoa Física,2016-04-22 11:19:00,675.204.138-53,"Largo da Costa, 811 Madri 34204001 Ferreira Alegre / PA",29819-675,Pará,109.86666666666666,62.0
+260,Alana Teixeira,cavalcantimarcos-vinicius@example.com,Pessoa Física,2013-10-22 14:33:00,432.150.768-53,"Aeroporto Lopes, 1 Vila Jardim Leblon 32361498 Oliveira / SP",83270255,São Paulo,140.3,32.0
+278,Alexia Teixeira,lunapereira@example.org,Pessoa Física,2020-04-17 15:47:00,670.391.825-21,"Residencial Gonçalves, 273 Das Industrias I 53878542 Jesus / PI",46177-965,Piauí,61.333333333333336,
+305,Raul Teixeira,catarinacunha@example.com,Pessoa Física,2021-07-13 13:43:00,136.897.240-31,"Vale Martins, 83 Jardim Dos Comerciarios 86343-612 Nogueira / MT",264638,Mato Grosso,46.266666666666666,80.0
+308,Enrico Teixeira,juan30@example.net,Pessoa Física,2018-06-26 14:23:00,415.920.836-33,"Quadra Anthony Viana, 65 Vista Do Sol 06902497 Lima / PI",13700963,Piauí,83.36666666666666,65.0
+349,Catarina Teixeira,da-costaalana@example.com,Pessoa Física,2019-01-07 15:47:00,375.492.086-38,"Viaduto de Fogaça, 5 Andiroba 60168-433 Correia de Minas / MS",80534-607,Mato Grosso do Sul,76.86666666666666,
+401,Murilo Teixeira,eloah85@example.org,Pessoa Física,2020-12-18 11:53:00,329.608.514-98,"Estação de Martins, 42 Dom Joaquim 32620783 Vieira / MG",38783875,Minas Gerais,53.166666666666664,
+444,Bernardo Teixeira,da-pazcamila@example.org,Pessoa Física,2022-11-20 16:56:00,036.827.954-56,"Área Cunha, 26 Marmiteiros 63250034 Nunes Verde / AM",40294-301,Amazonas,29.766666666666666,70.0
+460,Matheus Teixeira,freitasagatha@example.org,Pessoa Física,2014-03-04 10:43:00,201.679.843-22,"Passarela Laura Lima, 662 Colégio Batista 92477-191 Nunes / RO",21837993,Rondônia,135.86666666666667,34.0
+561,Felipe Teixeira,oliveirafernanda@example.net,Pessoa Física,2019-01-20 12:19:00,728.649.031-13,"Sítio da Luz, 56 Vila Independencia 1ª Seção 51453-241 Caldeira da Mata / MG",83855198,Minas Gerais,76.43333333333334,
+603,Francisco Teixeira,fogacahenrique@example.net,Pessoa Física,2018-04-20 10:44:00,983.702.416-03,"Fazenda Rafael Ramos, 79 Guarani 21276-120 Nascimento / DF",80604493,Distrito Federal,85.6,
+613,Isabelly Teixeira,thalesviana@example.com,Pessoa Física,2017-10-24 13:13:00,846.751.392-64,"Largo da Luz, 740 Conjunto Jardim Filadélfia 63173687 Azevedo dos Dourados / SC",69346548,Santa Catarina,91.53333333333333,
+632,Isadora Teixeira,mcunha@example.org,Pessoa Física,2017-07-25 16:41:00,951.786.204-02,"Alameda Moura, 33 Bonsucesso 32984-617 Farias / CE",51467-373,Ceará,94.56666666666666,
+761,Murilo Teixeira,stephanyda-costa@example.net,Pessoa Física,2016-06-07 15:04:00,874.125.903-32,"Viela Felipe Rodrigues, 85 Nazare 16000115 Silva / PB",6896584,Paraíba,108.33333333333333,
+764,Camila Teixeira,ana46@example.org,Pessoa Física,2022-09-08 11:06:00,304.867.925-10,"Fazenda de Dias, 1 Marajó 72368-137 da Conceição / CE",92971-218,Ceará,32.2,
+951,Matheus Teixeira,helenaalmeida@example.org,Pessoa Física,2018-11-19 11:53:00,065.184.729-01,"Trecho Viana, 7 Corumbiara 51229-101 da Costa / MG",20530-830,Minas Gerais,78.5,
+12,Brenda da Costa,azevedojulia@example.net,Pessoa Física,2016-01-13 12:28:00,519.837.046-01,"Viela Gonçalves, 56 Silveira 83067537 Cardoso do Norte / AL",40899-331,Alagoas,113.2,40.0
+24,Carlos Eduardo da Costa,augusto70@example.org,Pessoa Física,2018-06-10 11:18:00,093.528.416-89,"Distrito Theo Lima, 75 Mineirão 64887091 Nogueira da Serra / AC",98215323,Acre,83.9,
+34,Gustavo da Costa,aaraujo@example.com,Pessoa Física,2022-08-02 15:03:00,532.741.806-53,Praça Luigi Ribeiro Mineirão 63769144 Viana do Sul / RN,34095-618,Rio Grande do Norte,33.43333333333333,
+46,Vicente da Costa,hferreira@example.net,Pessoa Física,2011-06-04 11:10:00,436.859.201-89,Largo Rodrigues Bela Vitoria 65601-692 Araújo / AM,30446-154,Amazonas,169.33333333333334,
+80,Ana Laura da Costa,ffernandes@example.com,Pessoa Física,2015-04-23 15:08:00,830.246.957-29,"Distrito Campos, 13 Alto Vera Cruz 71980-279 Ferreira / AP",52750-511,Amapá,122.03333333333333,61.0
+121,Igor da Costa,souzaana-vitoria@example.org,Pessoa Física,2021-02-08 11:22:00,521.468.390-15,"Avenida Ian Fernandes, 58 Bandeirantes 90717-478 Rocha de Minas / RS",36757-275,Rio Grande do Sul,51.43333333333333,35.0
+257,Emanuel da Costa,zcorreia@example.com,Pessoa Física,2021-05-20 14:11:00,305.864.291-15,"Trevo Ana Julia Castro, 3 Alto Barroca 95616-181 da Cunha do Galho / TO",26342-184,Tocantins,48.06666666666667,
+458,Catarina da Costa,cardosodavi-lucca@example.net,Pessoa Física,2017-07-02 14:47:00,593.701.482-05,"Residencial Matheus Melo, 546 Braúnas 87347690 Pires de Peixoto / SE",57749312,Sergipe,95.33333333333333,23.0
+572,Fernando da Costa,eloah44@example.com,Pessoa Física,2021-09-21 16:34:00,859.712.406-76,"Travessa Elisa Lopes, 37 Vila Nova Gameleira 1ª Seção 80920585 da Paz / MT",57985897,Mato Grosso,43.93333333333333,
+578,Pedro Miguel da Costa,matheus28@example.com,Pessoa Física,2021-02-03 14:52:00,367.910.845-10,Praia Peixoto Lagoa 75181268 Costa / RR,38041-732,Roraima,51.6,67.0
+673,Davi Lucca da Costa,rnovaes@example.org,Pessoa Física,2016-09-09 14:30:00,580.961.732-86,"Rua Pires, 88 Betânia 01728829 Correia do Galho / DF",87335481,Distrito Federal,105.2,
+682,João Lucas da Costa,da-rosacarlos-eduardo@example.org,Pessoa Física,2020-10-14 16:53:00,429.756.308-83,"Aeroporto Lorena Souza, 5 Santa Isabel 27905-727 Viana Paulista / PR",12373200,Paraná,55.333333333333336,
+713,Felipe da Costa,clariceda-cruz@example.com,Pessoa Física,2019-10-10 10:50:00,794.385.602-38,"Fazenda de Caldeira, 46 Outro 76868-632 Vieira de Minas / SP",98383701,São Paulo,67.66666666666667,72.0
+739,Bárbara da Costa,vianaheloisa@example.org,Pessoa Física,2014-02-26 12:20:00,065.189.437-93,Lago Nathan da Mota São Damião 56497734 Teixeira / CE,11452-459,Ceará,136.06666666666666,66.0
+768,Anthony da Costa,wcarvalho@example.net,Pessoa Física,2019-04-22 14:34:00,305.692.847-83,"Sítio da Mata, 75 Vila Boa Vista 66793306 da Rosa / ES",49032-305,Espírito Santo,73.36666666666666,
+826,Breno da Costa,luna46@example.net,Pessoa Física,2017-07-16 10:31:00,498.367.052-10,"Avenida de Pires, 62 Vila De Sá 86955148 Silveira da Serra / BA",84921499,Bahia,94.86666666666666,
+841,Ana Beatriz da Costa,otavioalves@example.com,Pessoa Física,2020-04-16 16:11:00,562.709.431-16,"Passarela Vieira, 71 Caiçaras 67045387 Campos / AC",14362606,Acre,61.36666666666667,
+904,Diogo da Costa,beniciosilva@example.net,Pessoa Física,2020-12-16 14:36:00,486.217.350-08,"Trecho de Monteiro, 46 Garças 77378059 Azevedo de Cardoso / AC",09304-471,Acre,53.233333333333334,
+967,Guilherme da Costa,barrosmelissa@example.net,Pessoa Física,2016-02-21 14:33:00,027.531.946-61,"Conjunto Calebe Dias, 30 Vila Boa Vista 29952-706 Alves da Serra / MS",33421319,Mato Grosso do Sul,111.9,
+25,Augusto da Cunha,melissacardoso@example.com,Pessoa Física,2022-09-04 10:40:00,172.460.893-22,"Morro Gonçalves, 47 Santa Sofia 26547-604 Vieira do Amparo / AL",07616-570,Alagoas,32.333333333333336,
+44,João Pedro da Cunha,ybarros@example.com,Pessoa Física,2020-09-07 14:32:00,835.147.906-39,"Ãrea Luigi Rodrigues, 458 Aarão Reis 02379318 Gomes Alegre / PR",25857675,Paraná,56.56666666666667,
+91,João Miguel da Cunha,hda-paz@example.com,Pessoa Física,2020-02-17 10:45:00,912.740.638-50,"Aeroporto Isabella Oliveira, 61 Jaqueline 14925-009 Alves das Pedras / ES",97402-978,Espírito Santo,63.333333333333336,22.0
+104,Heloísa da Cunha,barbosayasmin@example.net,Pessoa Física,2018-01-04 12:09:00,921.764.538-91,"Travessa Sarah Aragão, 19 Marilandia 51955-163 Fernandes Grande / DF",92815998,Distrito Federal,89.13333333333334,82.0
+161,Yuri da Cunha,moreiraian@example.com,Pessoa Física,2015-08-17 15:19:00,250.687.913-77,"Favela de Novaes, 18 Inconfidência 91458-864 Cardoso dos Dourados / RR",47030105,Roraima,118.16666666666667,20.0
+304,Diogo da Cunha,nfogaca@example.net,Pessoa Física,2019-07-04 11:12:00,916.073.425-61,"Lago de Aragão, 95 Vila São Dimas 49739-793 Cardoso de Cardoso / GO",75319572,Goiás,70.93333333333334,54.0
+333,Kaique da Cunha,isaac30@example.com,Pessoa Física,2019-12-03 13:34:00,975.423.018-88,"Quadra de Nunes, 726 Antonio Ribeiro De Abreu 1ª Seção 40430-944 Mendes do Oeste / ES",49961162,Espírito Santo,65.86666666666666,
+365,Nicole da Cunha,meloana@example.com,Pessoa Física,2020-03-11 13:52:00,420.187.596-20,"Largo de da Cruz, 327 Heliopolis 49762-696 Carvalho / AP",6435720,Amapá,62.56666666666667,69.0
+367,Vitor Hugo da Cunha,carvalholuana@example.org,Pessoa Física,2015-08-21 11:07:00,834.071.596-84,"Condomínio Cavalcanti, 18 Vila São Gabriel Jacui 74955699 da Conceição Verde / PE",20597-412,Pernambuco,118.03333333333333,
+411,Vitor Hugo da Cunha,luizafogaca@example.net,Pessoa Física,2022-03-10 10:33:00,149.203.867-96,"Estação Cauã Dias, 563 Bairro Das Indústrias Ii 55294234 Ramos Alegre / RO",64285-091,Rondônia,38.266666666666666,
+569,Pedro Miguel da Cunha,francisconunes@example.net,Pessoa Física,2016-11-25 12:47:00,415.687.320-07,"Avenida da Rosa, 43 São Vicente 01035037 da Costa de Nogueira / MS",49502-391,Mato Grosso do Sul,102.63333333333334,
+736,Marcela da Cunha,rteixeira@example.com,Pessoa Física,2021-11-06 15:31:00,685.793.240-92,"Loteamento de Carvalho, 15 Jardim Felicidade 63256949 Pires / PI",81600217,Piauí,42.4,
+801,Heloísa da Cunha,peixotosophie@example.net,Pessoa Física,2019-09-27 15:29:00,097.412.586-58,Chácara de Porto Aparecida 7Âª SeÃ§ão 52508317 Farias das Pedras / AM,63541-173,Amazonas,68.1,
+854,Davi Luiz da Cunha,carolinarocha@example.net,Pessoa Física,2017-04-13 12:22:00,390.541.862-24,"Praça Marcelo Cardoso, 801 Vila Havaí 59749622 Gonçalves de Moraes / TO",09608-657,Tocantins,98.0,
+979,Elisa da Cunha,bianca80@example.org,Pessoa Física,2018-03-09 16:27:00,052.697.384-65,"Largo Cauê Costela, 57 Santa Terezinha 32928-221 Alves / ES",13852-001,Espírito Santo,87.0,
+127,Maria Cecília da Rocha,goncalvesthiago@example.net,Pessoa Física,2014-04-15 10:06:00,173.085.642-07,"Estrada de Moraes, 50 Vila Madre Gertrudes 4Âª SeÃ§ão 05905-261 Vieira Grande / RO",78505-017,Rondônia,134.46666666666667,
+131,Ana Vitória da Rocha,sarah66@example.com,Pessoa Física,2022-03-07 10:12:00,579.802.314-14,Setor de Gomes Vila Da Ária 96571-576 Novaes / PI,05097-896,Piauí,38.36666666666667,21.0
+133,Sabrina da Rocha,vitor-hugoda-cruz@example.com,Pessoa Física,2022-12-22 10:05:00,418.652.709-11,"Lagoa Catarina Nascimento, 93 Marmiteiros 56518297 Souza da Praia / SE",82212-140,Sergipe,28.7,
+166,Vinicius da Rocha,oliveirajoao-vitor@example.net,Pessoa Física,2014-11-21 15:42:00,237.489.601-31,"Feira da Paz, 72 Jaraguá 20559043 Cunha de Barbosa / RR",83576382,Roraima,127.13333333333334,62.0
+223,Davi da Rocha,nina15@example.org,Pessoa Física,2022-12-17 16:43:00,861.450.927-85,Rodovia de Novaes Nova Cachoeirinha 53720138 Fogaça / RJ,32671-446,Rio de Janeiro,28.866666666666667,
+299,Luiza da Rocha,beatrizfarias@example.com,Pessoa Física,2022-05-02 12:39:00,093.761.258-86,"Parque Pedro Henrique da Costa, 9 Vila São Rafael 06481-189 da Cruz / MT",99906-712,Mato Grosso,36.5,61.0
+318,Renan da Rocha,isabellabarbosa@example.org,Pessoa Física,2017-03-06 12:50:00,895.416.370-00,"Praça de Almeida, 16 Vila São Gabriel 35718982 Rocha do Amparo / MT",65297-551,Mato Grosso,99.26666666666667,72.0
+321,Enzo Gabriel da Rocha,novaesbenicio@example.org,Pessoa Física,2020-04-24 10:58:00,430.721.985-60,"Setor de das Neves, 91 Vila Sesc 49975573 Mendes das Flores / SP",26757418,São Paulo,61.1,40.0
+342,Levi da Rocha,cardosomariana@example.com,Pessoa Física,2018-05-18 15:37:00,819.435.720-97,"Aeroporto Ramos, 66 Caiçaras 13805-115 Fernandes da Serra / AP",09963-625,Amapá,84.66666666666667,
+402,Maria Eduarda da Rocha,isaacfarias@example.org,Pessoa Física,2021-07-15 12:44:00,579.820.436-74,"Trevo de Ribeiro, 45 Ouro Preto 65293730 Viana / DF",93842428,Distrito Federal,46.2,76.0
+449,Valentina da Rocha,bernardo59@example.net,Pessoa Física,2017-11-10 12:04:00,543.916.782-09,"Fazenda Thiago Viana, 98 Marieta 3ª Seção 24022-676 Fogaça da Prata / PI",36323-611,Piauí,90.96666666666667,
+479,Fernando da Rocha,ana69@example.com,Pessoa Física,2022-09-27 11:03:00,487.259.130-50,Avenida Silveira Santa Cecilia 42240-995 Fernandes da Prata / CE,21886579,Ceará,31.566666666666666,81.0
+555,Maria Julia da Rocha,joao-lucas62@example.com,Pessoa Física,2012-08-24 12:57:00,703.184.265-44,"Alameda de Silva, 5 Tirol 97876009 Duarte / TO",58836369,Tocantins,154.43333333333334,
+557,Caio da Rocha,da-motakaique@example.org,Pessoa Física,2017-12-09 12:29:00,904.587.261-76,"Distrito Davi Lucas Peixoto, 50 Buritis 22871-810 Martins da Mata / AM",8567273,Amazonas,90.0,
+622,Sofia da Rocha,pietra86@example.org,Pessoa Física,2018-01-24 14:45:00,712.043.896-40,"Aeroporto Emilly Monteiro, 2 Saudade 02759639 Pereira Paulista / AL",55775-046,Alagoas,88.46666666666667,
+695,Stephany da Rocha,heitor45@example.org,Pessoa Física,2021-04-18 15:39:00,917.286.305-68,"Condomínio Cardoso, 86 Camponesa 2ª Seção 58777212 Cardoso / AM",58492135,Amazonas,49.13333333333333,
+700,Maité da Rocha,znogueira@example.com,Pessoa Física,2017-12-06 16:13:00,376.218.950-12,"Trecho de Cunha, 69 Jaqueline 18973252 Silva Paulista / RO",13306021,Rondônia,90.1,
+727,Helena da Rocha,da-cruzemanuelly@example.com,Pessoa Física,2020-08-10 12:55:00,596.371.042-16,"Largo de Viana, 5 Maria Goretti 10929-994 Freitas / TO",95852-485,Tocantins,57.5,55.0
+808,Esther da Rocha,jlima@example.com,Pessoa Física,2013-08-08 14:43:00,475.836.102-90,Chácara da Mota Vila Mangueiras 58786767 Moreira da Mata / DF,15651001,Distrito Federal,142.8,78.0
+835,Ana Vitória da Rocha,wpinto@example.net,Pessoa Física,2019-12-09 11:43:00,521.396.870-86,Pátio de Teixeira São Salvador 81363-722 Costa / AM,48804710,Amazonas,65.66666666666667,21.0
+840,Rebeca da Rocha,yagoda-paz@example.org,Pessoa Física,2013-02-05 11:08:00,356.271.984-19,"Praça Cunha, 6 Novo São Lucas 97233-609 Costa / RR",84203-810,Roraima,148.93333333333334,42.0
+850,Yago da Rocha,rezendemaria-alice@example.net,Pessoa Física,2013-07-22 14:42:00,123.765.894-28,"Favela Rodrigues, 62 Providencia 94259-772 Nogueira / CE",47657-827,Ceará,143.36666666666667,
+937,Antônio da Rocha,levi75@example.net,Pessoa Física,2022-06-16 11:01:00,687.439.015-57,"Viela da Cunha, 862 Canadá 07585-026 Souza / RS",77420111,Rio Grande do Sul,35.0,
+960,Yasmin da Rocha,peixotolevi@example.net,Pessoa Física,2014-07-05 13:14:00,435.106.278-90,Distrito de Fernandes Conjunto Novo Dom Bosco 58539-369 Fogaça / MA,90446-968,Maranhão,131.76666666666668,46.0
+980,Agatha da Rocha,kevinsilveira@example.net,Pessoa Física,2022-07-27 11:26:00,369.172.504-06,"Vila de Novaes, 31 São José 33867284 Porto da Praia / MG",6282416,Minas Gerais,33.63333333333333,
+59,Kevin Fernandes,esthermoura@example.com,Pessoa Física,2017-03-10 12:19:00,952.718.630-77,"Favela Maria Vitória da Mata, 459 Vila Nova Cachoeirinha 1ª Seção 87346483 Oliveira Alegre / SC",3392871,Santa Catarina,99.13333333333334,
+76,Gustavo Henrique Fernandes,manuelacunha@example.org,Pessoa Física,2015-11-06 15:36:00,792.861.034-50,"Colônia de Santos, 52 Lajedo 19356146 Azevedo Alegre / ES",06842-404,Espírito Santo,115.46666666666667,
+122,Caué Fernandes,joanacunha@example.net,Pessoa Física,2016-10-02 11:23:00,412.509.378-41,Praça de Moraes Jardim Vitoria 00036-106 da Rocha de Correia / GO,27901042,Goiás,104.43333333333334,
+124,Daniela Fernandes,enzo-gabrielmoura@example.com,Pessoa Física,2021-03-27 14:20:00,206.487.931-50,Alameda Dias Vila Trinta E Um De Março 11447-016 Ferreira / GO,28155450,Goiás,49.86666666666667,
+147,Antônio Fernandes,danielazevedo@example.com,Pessoa Física,2014-08-14 14:32:00,046.935.278-74,"Largo Ana Sophia Teixeira, 29 Vila Paraíso 79124-838 Oliveira Verde / MT",57012244,Mato Grosso,130.43333333333334,
+189,Gustavo Fernandes,gabrielapeixoto@example.org,Pessoa Física,2021-09-16 11:47:00,082.674.591-11,"Alameda de Souza, 517 São Jorge 3ª Seção 05667856 Freitas da Prata / MA",94005-165,Maranhão,44.1,21.0
+197,Heloísa Fernandes,qbarros@example.org,Pessoa Física,2020-09-26 12:01:00,963.421.870-96,"Rodovia da Mata, 417 Conjunto Providencia 29046-603 Sales / CE",77061439,Ceará,55.93333333333333,
+206,Elisa Fernandes,alveskaique@example.org,Pessoa Física,2018-01-05 16:28:00,960.135.428-05,"Viaduto de Pires, 51 Belmonte 31151-666 Mendes / SE",05824-490,Sergipe,89.1,
+416,João Felipe Fernandes,rezendeclarice@example.org,Pessoa Física,2022-12-18 13:37:00,197.642.358-91,"Parque Júlia Gomes, 352 Minaslandia 02943662 Melo / CE",83554-241,Ceará,28.833333333333332,
+419,Amanda Fernandes,aragaonicolas@example.net,Pessoa Física,2013-05-01 15:18:00,742.569.810-20,"Vereda Fogaça, 13 Vila Da Luz 75689427 Silva / AM",82890534,Amazonas,146.1,27.0
+432,Gabrielly Fernandes,isadoracastro@example.com,Pessoa Física,2011-04-27 12:38:00,650.849.132-60,"Trecho de Jesus, 38 Floresta 36618215 Barbosa de Melo / AM",69614-039,Amazonas,170.6,
+434,Daniel Fernandes,carvalhogustavo-henrique@example.com,Pessoa Física,2021-08-02 15:38:00,928.563.047-29,"Largo Oliveira, 500 Barão Homem De Melo 3ª Seção 02940978 Gonçalves / SP",1623853,São Paulo,45.6,
+517,Pedro Lucas Fernandes,sarahrocha@example.net,Pessoa Física,2020-12-11 15:57:00,128.304.976-78,"Conjunto de Ribeiro, 83 Ventosa 23608423 Fernandes / ES",12242-958,Espírito Santo,53.4,
+559,Clara Fernandes,augustonascimento@example.org,Pessoa Física,2011-02-05 14:40:00,487.623.901-04,"Setor Davi Lucas Barbosa, 82 Santa Rita De Cássia 03726-574 Melo / CE",91130-743,Ceará,173.3,59.0
+577,Brenda Fernandes,juliateixeira@example.com,Pessoa Física,2016-03-15 16:07:00,039.461.875-01,"Estação Freitas, 981 Trevo 83536-825 Barros de Cunha / RS",67308-317,Rio Grande do Sul,111.13333333333334,
+620,Juan Fernandes,dsilveira@example.net,Pessoa Física,2010-06-21 16:42:00,613.527.098-21,"Passarela Fogaça, 2 São Lucas 49846755 Pires / DF",19210293,Distrito Federal,180.93333333333334,
+789,Maité Fernandes,bsales@example.net,Pessoa Física,2021-09-04 14:30:00,861.974.305-84,Esplanada de Sales Apolonia 85934554 Aragão de Nascimento / AM,215118,Amazonas,44.5,
+9,Ana Lívia Rodrigues,ana-carolinacardoso@example.com,Pessoa Física,2022-12-08 11:21:00,426.180.953-24,"Estrada de Costa, 56 Dona Clara 39213765 Cavalcanti / RN",29668-757,Rio Grande do Norte,29.166666666666668,22.0
+72,Daniel Rodrigues,marcelacarvalho@example.net,Pessoa Física,2019-04-07 15:08:00,864.103.529-05,"Estrada Gonçalves, 97 Vila Maria 10156-663 Rodrigues das Flores / PI",64726669,Piauí,73.86666666666666,
+285,Clara Rodrigues,paragao@example.net,Pessoa Física,2017-08-06 13:36:00,153.946.078-93,Via Ian Pereira Vila Petropolis 33784870 Souza de Nogueira / PI,63949-164,Piauí,94.16666666666667,
+317,Benício Rodrigues,ana-julia87@example.com,Pessoa Física,2020-08-17 14:35:00,683.279.450-92,"Condomínio Araújo, 62 São Jorge 1Âª SeÃ§ão 67770-816 Teixeira / MS",56004-247,Mato Grosso do Sul,57.266666666666666,
+332,Alexia Rodrigues,alexandrenovaes@example.org,Pessoa Física,2020-09-10 11:54:00,958.712.043-41,Jardim Campos Vila Vista Alegre 72946-280 Freitas / RR,60379109,Roraima,56.46666666666667,
+454,Lorena Rodrigues,maria-alicecostela@example.net,Pessoa Física,2022-09-12 13:27:00,547.826.319-28,"Vereda Melo, 6 Lindéia 47435530 Cunha da Prata / PR",17495865,Paraná,32.06666666666667,
+471,Ana Sophia Rodrigues,lara41@example.com,Pessoa Física,2022-10-20 16:02:00,826.405.931-70,"Vereda da Mata, 299 Outro 28267-434 Porto / MA",10973112,Maranhão,30.8,
+494,Raquel Rodrigues,ppires@example.net,Pessoa Física,2019-09-05 11:39:00,609.245.183-24,"Via Lima, 4 Nova Pampulha 87659083 da Mata dos Dourados / PR",34903-374,Paraná,68.83333333333333,
+527,Yasmin Rodrigues,tbarros@example.net,Pessoa Física,2015-08-10 12:14:00,296.407.315-52,"Residencial Pedro Henrique da Luz, 71 Vila Nossa Senhora Do Rosário Ápia 64249265 Monteiro / SE",48563-639,Sergipe,118.4,
+681,Rafael Rodrigues,pedro11@example.com,Pessoa Física,2018-07-23 13:19:00,391.450.267-34,"Passarela de Martins, 8 Universo 59745073 Farias do Amparo / SP",43914-408,São Paulo,82.46666666666667,
+740,Ana Júlia Rodrigues,peixotomirella@example.com,Pessoa Física,2019-11-12 12:14:00,671.825.943-82,"Viela da Luz, 80 Monte São José 87192675 da Rosa / PB",42264-376,Paraíba,66.56666666666666,
+955,Daniel Rodrigues,cardosovalentina@example.net,Pessoa Física,2020-03-28 14:02:00,742.915.036-52,"Conjunto de Costa, 90 Nova Floresta 93852559 da Rocha / PB",99955777,Paraíba,62.0,
+963,Pietra Rodrigues,enzo-gabrielgoncalves@example.com,Pessoa Física,2022-06-13 15:07:00,916.805.342-89,"Praça João Gabriel Cunha, 88 Conjunto Minas Caixa 23113-653 Barros da Serra / PB",22647-853,Paraíba,35.1,
+107,André das Neves,qcunha@example.net,Pessoa Física,2020-04-19 12:09:00,983.617.452-46,Trevo de Novaes Vila Do Pombal 54247-469 Rezende / SE,27706384,Sergipe,61.266666666666666,41.0
+134,Maria Vitória das Neves,natalia68@example.com,Pessoa Física,2013-06-11 11:41:00,187.094.365-10,"Sítio de Farias, 2 Belvedere 68437-729 Silveira da Prata / PR",10557-284,Paraná,144.73333333333332,
+146,Kaique das Neves,henriquefreitas@example.net,Pessoa Física,2010-06-27 10:33:00,479.126.835-00,"Praça Nogueira, 63 Vila Da Ária 72667-639 Fernandes / RJ",79069920,Rio de Janeiro,180.73333333333332,
+186,Maria Fernanda das Neves,fariasdavi@example.net,Pessoa Física,2022-02-21 15:05:00,673.952.081-02,Vila Barros Vila Suzana Primeira Seção 23620-328 da Rocha / AP,80368790,Amapá,38.833333333333336,
+280,Marcelo das Neves,ymartins@example.com,Pessoa Física,2017-04-20 14:07:00,520.798.164-11,"Esplanada Rodrigues, 5 Custodinha 25382-390 Nascimento / AL",97755-778,Alagoas,97.76666666666667,30.0
+346,Ian das Neves,giovanna21@example.net,Pessoa Física,2019-03-02 11:07:00,895.364.710-00,"Via Marcos Vinicius da Paz, 979 Santa Amelia 83619-937 das Neves / AM",54965-372,Amazonas,75.06666666666666,76.0
+368,Agatha das Neves,marina82@example.net,Pessoa Física,2016-03-03 13:31:00,285.094.317-79,"Quadra de Martins, 43 Solimoes 18053489 Freitas / AL",22657-163,Alagoas,111.53333333333333,
+373,Matheus das Neves,ribeirovitoria@example.com,Pessoa Física,2013-07-19 15:18:00,501.384.729-04,"Vila de Cardoso, 69 Cidade Jardim 68975-875 Vieira de Azevedo / MS",71829-681,Mato Grosso do Sul,143.46666666666667,
+384,Levi das Neves,otavio49@example.net,Pessoa Física,2022-03-10 13:20:00,860.597.234-38,"Ladeira Nina da Cunha, 44 Mangabeiras 98491-703 da Costa de da Cruz / MS",20679-948,Mato Grosso do Sul,38.266666666666666,
+398,Anthony das Neves,lorenzomoraes@example.com,Pessoa Física,2022-02-16 14:30:00,069.243.187-03,"Alameda Eduardo Silva, 218 Diamante 19328663 Melo / MA",97811-552,Maranhão,39.0,36.0
+582,Enzo das Neves,lucascorreia@example.net,Pessoa Física,2013-02-21 11:58:00,390.245.168-89,"Residencial de Ribeiro, 10 Vila Da Luz 07602-791 Costela da Serra / BA",55858-197,Bahia,148.4,
+656,Isabel das Neves,wpeixoto@example.net,Pessoa Física,2019-02-20 12:24:00,915.860.432-42,"Condomínio Luna Castro, 57 Vila Formosa 96423-311 Rezende de Minas / SP",59101561,São Paulo,75.4,
+694,Sophie das Neves,agathada-rocha@example.org,Pessoa Física,2022-04-07 14:35:00,125.043.687-71,"Loteamento Campos, 929 Vila Nova Gameleira 3ª Seção 66001725 Correia / PE",26812-022,Pernambuco,37.333333333333336,
+781,Luiz Henrique das Neves,alvesbruna@example.net,Pessoa Física,2014-09-23 11:27:00,459.871.326-73,"Área da Luz, 68 Vila Pilar 86948582 Mendes / RS",50116-459,Rio Grande do Sul,129.1,
+862,Kaique das Neves,leandroporto@example.net,Pessoa Física,2017-11-07 11:35:00,297.035.814-04,Via Jesus Vila Piratininga 32138-209 Fernandes / GO,26806-550,Goiás,91.06666666666666,75.0
+914,Enzo das Neves,helena00@example.org,Pessoa Física,2017-11-11 11:08:00,139.820.675-02,"Praça da Costa, 42 Olhos D'água 81626230 Novaes / AM",60188-798,Amazonas,90.93333333333334,
+944,Lorenzo das Neves,fnovaes@example.org,Pessoa Física,2020-05-09 11:42:00,076.829.154-20,"Vila Ana Laura Carvalho, 4 Belmonte 19320100 Melo / BA",55765-821,Bahia,60.6,
+139,Júlia Cavalcanti,ofogaca@example.org,Pessoa Física,2016-09-23 14:05:00,798.140.625-02,"EstaÃ§ão de Cardoso, 56 Dom Silverio 13344012 Ferreira de Cunha / AP",39833273,Amapá,104.73333333333333,
+158,Leonardo Cavalcanti,luiz-otavioporto@example.net,Pessoa Física,2018-10-22 15:47:00,429.061.875-85,"Ladeira da Costa, 43 Lorena 14774659 Carvalho / SP",26418948,São Paulo,79.43333333333334,
+172,Camila Cavalcanti,yagodias@example.com,Pessoa Física,2020-06-20 15:24:00,054.629.781-11,"Recanto de Gonçalves, 16 Esperança 61141526 Correia / DF",23385183,Distrito Federal,59.2,
+231,Stella Cavalcanti,novaesmirella@example.org,Pessoa Física,2012-06-25 11:43:00,207.415.369-43,"Chácara Guilherme Gomes, 2 Paulo Vi 47958-342 Alves de Pinto / AM",30778558,Amazonas,156.43333333333334,
+306,Ana Lívia Cavalcanti,teixeiraigor@example.org,Pessoa Física,2012-05-23 12:11:00,345.170.986-48,"Jardim de Cardoso, 394 Cenaculo 60649165 Gomes / CE",80854977,Ceará,157.53333333333333,
+400,Maria Sophia Cavalcanti,nunesenrico@example.org,Pessoa Física,2018-04-21 15:16:00,843.692.517-37,"Ladeira de Teixeira, 19 Savassi 82558-456 Almeida / RS",88267-114,Rio Grande do Sul,85.56666666666666,70.0
+478,Theo Cavalcanti,novaesian@example.net,Pessoa Física,2022-06-03 10:52:00,026.817.943-31,Passarela Pires Vila Batik 77077-693 Novaes das Flores / GO,49158046,Goiás,35.43333333333333,81.0
+514,Carolina Cavalcanti,souzanoah@example.net,Pessoa Física,2021-01-20 11:35:00,643.058.172-17,"Rodovia Rodrigues, 47 Vila Da Luz 94063221 Barbosa / MS",41606515,Mato Grosso do Sul,52.06666666666667,
+551,Kamilly Cavalcanti,xcosta@example.com,Pessoa Física,2018-03-13 11:48:00,801.765.492-85,"Fazenda de da Luz, 32 Vila De Sá 46662088 Barros / PB",11817-226,Paraíba,86.86666666666666,
+721,Ryan Cavalcanti,stella50@example.com,Pessoa Física,2022-07-17 14:30:00,396.147.052-99,"Jardim Vinicius da Rosa, 42 Venda Nova 40605-848 Barros / TO",87324-761,Tocantins,33.96666666666667,
+759,Caio Cavalcanti,mendesbrenda@example.com,Pessoa Física,2022-01-02 14:41:00,713.480.965-00,"Lago Vitor da Rosa, 61 Santa Terezinha 62952423 da Paz / MA",72563332,Maranhão,40.5,33.0
+909,Rafael Cavalcanti,sabrinapeixoto@example.org,Pessoa Física,2019-01-04 13:26:00,261.438.509-33,"Sítio de Campos, 34 Pongelupe 95037288 Ramos da Serra / RR",12331-285,Roraima,76.96666666666667,
+929,Lucas Cavalcanti,enzoporto@example.com,Pessoa Física,2019-02-27 13:07:00,679.183.052-21,"Viela Stephany Rezende, 44 Conjunto São Francisco De Assis 64551909 Moraes da Praia / SE",37186-965,Sergipe,75.16666666666667,
+939,Eduardo Cavalcanti,nicolas66@example.org,Pessoa Física,2022-12-13 13:16:00,948.376.150-66,"Setor Oliveira, 46 Coqueiros 58476112 Gomes de Peixoto / RR",42099413,Roraima,29.0,
+942,Heitor Cavalcanti,rgoncalves@example.com,Pessoa Física,2015-10-24 15:54:00,670.382.591-21,"Vila Lima, 47 Vitoria Da Conquista 58876-621 Silveira / RS",46154-666,Rio Grande do Sul,115.9,
+977,Bryan Cavalcanti,maria-cecilia77@example.com,Pessoa Física,2018-12-15 13:03:00,264.091.537-16,"Recanto Ana Sophia Campos, 34 Vera Cruz 07806-780 Freitas / MS",27938-464,Mato Grosso do Sul,77.63333333333334,49.0
+999,Vicente Cavalcanti,das-neveslucca@example.com,Pessoa Física,2017-08-25 15:13:00,793.065.481-84,"Quadra Novaes, 72 Caiçara - Adelaide 53166402 Gonçalves / SE",90205-329,Sergipe,93.53333333333333,53.0
+61,Matheus Gonçalves,joao-lucasdas-neves@example.org,Pessoa Física,2015-11-19 15:34:00,347.621.509-16,"Trecho Aragão, 88 Vila Inestan 41949302 Almeida / PA",27808532,Pará,115.03333333333333,74.0
+141,Ana Lívia Gonçalves,nathan09@example.com,Pessoa Física,2012-05-10 13:49:00,108.379.564-39,Fazenda Azevedo Vila Sumaré 59970-897 GonÃ§alves do Sul / ES,55263-600,Espírito Santo,157.96666666666667,
+313,Helena Gonçalves,anunes@example.org,Pessoa Física,2022-08-22 13:17:00,937.684.510-20,"Parque Gustavo Henrique Mendes, 4 Boa União 2ª Seção 56221170 Cardoso do Amparo / AP",81315-884,Amapá,32.766666666666666,
+437,Erick Gonçalves,catarinacardoso@example.net,Pessoa Física,2022-10-27 11:52:00,508.274.931-50,"Vereda de Lima, 55 Vila Suzana Primeira Seção 15460446 Fernandes / PA",05964-403,Pará,30.566666666666666,
+469,Maria Sophia Gonçalves,heitorsouza@example.net,Pessoa Física,2018-09-27 11:50:00,138.096.254-42,"Praça Levi Peixoto, 291 São Pedro 94053525 Jesus / PI",79618894,Piauí,80.26666666666667,
+540,Stella Gonçalves,vitor-gabrielcunha@example.net,Pessoa Física,2018-12-07 16:22:00,207.936.851-68,"Esplanada Rodrigues, 96 Tres Marias 13147506 Fogaça do Amparo / PA",25815457,Pará,77.9,
+563,Lívia Gonçalves,rcarvalho@example.org,Pessoa Física,2021-07-10 11:51:00,310.965.247-16,"Ãrea Pires, 49 Barão Homem De Melo 3Âª SeÃ§ão 77234-918 Lopes de da Rosa / AL",58701124,Alagoas,46.36666666666667,61.0
+589,Anthony Gonçalves,vcunha@example.org,Pessoa Física,2018-09-13 13:09:00,804.267.913-04,"Residencial de Cardoso, 60 Coqueiros 39605768 Moraes Paulista / MG",15001-358,Minas Gerais,80.73333333333333,46.0
+631,Vitor Hugo Gonçalves,nicolesouza@example.com,Pessoa Física,2010-12-10 15:06:00,465.270.389-92,"Viaduto de Novaes, 12 Novo Glória 04915531 da Rosa / SC",57442026,Santa Catarina,175.2,
+659,Vicente Gonçalves,isiscunha@example.org,Pessoa Física,2011-09-22 14:33:00,325.904.168-06,"Favela Ana Laura Oliveira, 5 Santo Antônio 04274-687 Nogueira / SE",65755-758,Sergipe,165.66666666666666,
+827,Thales Gonçalves,oaraujo@example.org,Pessoa Física,2022-10-24 14:44:00,124.307.956-80,"Setor das Neves, 72 Santa Branca 71259-487 Novaes / ES",50201054,Espírito Santo,30.666666666666668,
+897,Gustavo Gonçalves,clariceduarte@example.net,Pessoa Física,2016-12-07 11:46:00,346.529.801-24,"Praça de Mendes, 4 Goiania 40515-711 Moreira de Ribeiro / AM",92732966,Amazonas,102.23333333333333,
+87,Diogo Nascimento,vcostela@example.net,Pessoa Física,2020-07-08 14:09:00,397.420.186-69,"Estação Fogaça, 35 Parque São José 81160-035 Farias Alegre / PA",51797436,Pará,58.6,
+126,Vinicius Nascimento,tgomes@example.net,Pessoa Física,2017-07-25 12:04:00,391.687.402-04,"Colônia Vieira, 305 Conjunto Jatoba 76544-562 Cunha de Rezende / BA",85510-255,Bahia,94.56666666666666,
+170,Letícia Nascimento,pedro65@example.com,Pessoa Física,2022-12-15 16:01:00,534.968.102-89,"Vale Ribeiro, 46 Bandeirantes 28426494 Monteiro / AM",58593-834,Amazonas,28.933333333333334,63.0
+235,João Vitor Nascimento,ramosdiego@example.com,Pessoa Física,2018-06-01 13:05:00,805.319.427-32,"Quadra Nicole FogaÃ§a, 609 Nossa Senhora De Fátima 35586-737 Nunes das Flores / DF",63334006,Distrito Federal,84.2,73.0
+267,Milena Nascimento,fogacagustavo@example.net,Pessoa Física,2022-09-12 11:33:00,638.940.725-47,"Via de Cardoso, 769 Palmares 58160221 Nascimento / PR",85923-196,Paraná,32.06666666666667,
+283,Vitória Nascimento,hda-costa@example.org,Pessoa Física,2018-10-13 12:41:00,965.142.738-82,"EstaÃ§ão de Barros, 44 Laranjeiras 75970597 Fernandes da Mata / PB",88118-294,Paraíba,79.73333333333333,44.0
+370,Camila Nascimento,araujocaue@example.org,Pessoa Física,2022-07-08 13:14:00,027.465.398-29,"Largo Francisco Campos, 121 Barro Preto 43462444 da Rosa do Norte / RJ",10958-170,Rio de Janeiro,34.266666666666666,
+535,Anthony Nascimento,mda-rosa@example.org,Pessoa Física,2014-09-06 13:52:00,369.478.210-96,"Sítio de Costa, 8 Tiradentes 20333-454 Barbosa / RR",72930-493,Roraima,129.66666666666666,43.0
+558,Valentina Nascimento,lorenzoda-mota@example.com,Pessoa Física,2021-08-23 12:15:00,530.978.214-14,"Trecho da Mota, 23 Grotinha 62716625 Gonçalves Alegre / RR",87493-182,Roraima,44.9,36.0
+596,Marina Nascimento,catarina49@example.net,Pessoa Física,2022-08-06 13:27:00,735.160.948-93,"Praça Barros, 4 Unidas 18759785 Cardoso de Goiás / PR",89659-956,Paraná,33.3,
+752,Isaac Nascimento,pintoandre@example.com,Pessoa Física,2017-10-28 15:26:00,850.326.417-07,"Largo Novaes, 62 Alípio De Melo 10978-312 Castro / RO",3366293,Rondônia,91.4,63.0
+35,Caio da Conceição,xaraujo@example.com,Pessoa Física,2015-09-11 12:06:00,691.534.802-60,"Trecho Gomes, 615 Concórdia 78034-295 Nascimento do Norte / MA",06463-522,Maranhão,117.33333333333333,
+93,Yasmin da Conceição,isabellypeixoto@example.com,Pessoa Física,2021-10-27 11:09:00,617.839.540-00,"Núcleo de Barbosa, 483 Santo André 73918-122 Araújo Alegre / AM",98928640,Amazonas,42.733333333333334,45.0
+118,Letícia da ConceiÃ§ão,ada-mata@example.net,Pessoa Física,2022-04-14 12:33:00,564.210.389-05,"Viaduto de Barbosa, 97 Nova America 88034834 Silva / MS",62039-437,Mato Grosso do Sul,37.1,21.0
+162,Ana Carolina da Conceição,bruno11@example.com,Pessoa Física,2012-11-15 11:37:00,426.875.319-28,"Vereda da Luz, 34 Cachoeirinha 24441510 Campos / RJ",80497-612,Rio de Janeiro,151.66666666666666,43.0
+311,Clara da Conceição,pda-paz@example.org,Pessoa Física,2021-10-13 12:56:00,927.458.036-38,"Estação Moura, 903 Olhos D'água 09013-005 Barros / RR",08342-543,Roraima,43.2,
+325,Enrico da Conceição,maria-julia86@example.org,Pessoa Física,2014-04-14 15:34:00,356.179.240-52,"Alameda de Ferreira, 35 Vila Nova Gameleira 1ª Seção 10307956 Campos de Carvalho / AM",13633730,Amazonas,134.5,
+339,Luana da Conceição,ssantos@example.com,Pessoa Física,2019-10-13 15:10:00,149.072.586-58,"Vila Cavalcanti, 8 Milionario 04460296 Cardoso Verde / GO",72374771,Goiás,67.56666666666666,
+453,Joaquim da Conceição,kaique18@example.org,Pessoa Física,2022-01-14 13:16:00,529.761.483-09,"Viaduto Bruno Dias, 68 Mariquinhas 02965-100 Rezende / GO",82998-298,Goiás,40.1,
+541,Mirella da Conceição,samuelmoura@example.net,Pessoa Física,2019-04-25 13:04:00,479.068.315-00,"Lagoa Lucca da Luz, 81 Laranjeiras 49327056 Farias de Minas / TO",73849-470,Tocantins,73.26666666666667,
+594,Alexandre da Conceição,oliveirathomas@example.com,Pessoa Física,2019-11-26 14:01:00,692.384.157-73,"Sítio Teixeira, 17 Vila Engenho Nogueira 44233382 Duarte de Barros / MA",91422-196,Maranhão,66.1,26.0
+629,Samuel da Conceição,ana-laura75@example.com,Pessoa Física,2018-06-15 13:15:00,597.183.420-79,"Conjunto Sales, 85 Santo Agostinho 25555778 Alves / AC",61134-341,Acre,83.73333333333333,81.0
+643,Júlia da ConceiÃ§ão,larissa33@example.com,Pessoa Física,2022-03-26 10:46:00,573.916.402-80,Ladeira de Ferreira Nova Pampulha 71101341 Azevedo do Oeste / AP,88015872,Amapá,37.733333333333334,
+671,Carlos Eduardo da Conceição,alexandre92@example.net,Pessoa Física,2021-08-09 16:15:00,419.076.238-50,"Viela Araújo, 98 Xodo-Marize 64207859 Teixeira / GO",75614912,Goiás,45.36666666666667,
+730,Bárbara da ConceiÃ§ão,enzo-gabrielcardoso@example.com,Pessoa Física,2019-05-02 11:22:00,019.385.267-59,"Chácara de Martins, 85 Mantiqueira 26805-573 Azevedo do Norte / SC",8264521,Santa Catarina,73.03333333333333,58.0
+772,Daniel da Conceição,raquel97@example.com,Pessoa Física,2017-06-08 11:13:00,240.581.396-33,"Pátio de Souza, 8 Vila Puc 47056676 Duarte / MS",55045-265,Mato Grosso do Sul,96.13333333333334,
+837,Theo da Conceição,ninacastro@example.org,Pessoa Física,2014-03-18 10:30:00,058.734.129-79,"Loteamento Pires, 4 Jardim Felicidade 69804-761 Nunes de da Cruz / RR",88159-361,Roraima,135.4,81.0
+845,Pedro Lucas da Conceição,silveirabruno@example.com,Pessoa Física,2020-12-16 15:14:00,347.028.591-88,"Travessa Eloah Moura, 97 Alta Tensão 2ª Seção 77898054 Moreira / PE",36211-005,Pernambuco,53.233333333333334,81.0
+853,Milena da Conceição,ribeirodanilo@example.net,Pessoa Física,2020-11-21 11:32:00,870.534.912-50,"Feira de Vieira, 1 Planalto 31794137 Rodrigues / RO",15386938,Rondônia,54.06666666666667,
