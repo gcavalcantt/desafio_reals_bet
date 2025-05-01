@@ -127,4 +127,3 @@ print(df_clientes.head())
 
 ## 📄 Licença
 MIT © Guilherme Cavalcanti
-```
