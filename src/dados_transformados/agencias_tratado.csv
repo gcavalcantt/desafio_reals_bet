@@ -1,11 +1,11 @@
 cod_agencia,nome,endereco,cidade,uf,data_abertura,tipo_agencia,saldo_medio,num_contas,volume_transacoes
-7,Agência Digital,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,São Paulo,01/08/2015,Digital,,,
-1,Agência Matriz,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,São Paulo,01/01/2010,Física,,,
-2,Agência Tatuapé,"Praça Sílvio Romero, 158 - Tatuapé, São Paulo - SP, 03323-000",São Paulo,São Paulo,14/06/2010,Física,,,
-3,Agência Campinas,"Av. Francisco Glicério, 895 - Vila Lidia, Campinas - SP, 13012-000",Campinas,São Paulo,04/03/2012,Física,,,
-4,Agência Osasco,"Av. Antônio Carlos Costa, 1000 - Bela Vista, Osasco - SP, 06053-014",Osasco,São Paulo,06/11/2013,Física,,,
-5,Agência Porto Alegre,"Av. Bento Gonçalves, 1924 - Partenon, Porto Alegre - RS, 90650-000",Porto Alegre,Rio Grande do Sul,01/12/2013,Física,,,
-6,Agência Rio de Janeiro,"R. Sen. Dantas, 15 - Centro, Rio de Janeiro - RJ, 20031-202",Rio de Janeiro,Rio de Janeiro,01/04/2015,Física,,,
-8,Agência Jardins,"Av. Brg. Faria Lima, 2491 - Jardim Paulistano, São Paulo - SP, 01452-000",São Paulo,São Paulo,09/01/2018,Física,,,
-9,Agência Florianópolis,"Av. Jorn. Rubéns de Arruda Ramos, 1280 - Centro, Florianópolis - SC, 88015-700",Florianópolis,Santa Catarina,09/10/2019,Física,,,
-10,Agência Recife,"Av. Conselheiro Aguiar, 4432 - Boa Viagem, Recife - PE, 51021-020",Recife,Pernambuco,09/10/2021,Física,,,
+7,Agência Digital,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,São Paulo,01/08/2015,Digital,25172.050739130435,460,11579143.34
+1,Agência Matriz,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,São Paulo,01/01/2010,Física,29831.107226890756,119,3549901.7600000002
+2,Agência Tatuapé,"Praça Sílvio Romero, 158 - Tatuapé, São Paulo - SP, 03323-000",São Paulo,São Paulo,14/06/2010,Física,31627.550990099015,101,3194382.65
+3,Agência Campinas,"Av. Francisco Glicério, 895 - Vila Lidia, Campinas - SP, 13012-000",Campinas,São Paulo,04/03/2012,Física,25832.24,76,1963250.24
+4,Agência Osasco,"Av. Antônio Carlos Costa, 1000 - Bela Vista, Osasco - SP, 06053-014",Osasco,São Paulo,06/11/2013,Física,21955.21461538461,65,1427088.95
+5,Agência Porto Alegre,"Av. Bento Gonçalves, 1924 - Partenon, Porto Alegre - RS, 90650-000",Porto Alegre,Rio Grande do Sul,01/12/2013,Física,26313.998688524593,61,1605153.92
+6,Agência Rio de Janeiro,"R. Sen. Dantas, 15 - Centro, Rio de Janeiro - RJ, 20031-202",Rio de Janeiro,Rio de Janeiro,01/04/2015,Física,22289.43192307692,52,1159050.46
+8,Agência Jardins,"Av. Brg. Faria Lima, 2491 - Jardim Paulistano, São Paulo - SP, 01452-000",São Paulo,São Paulo,09/01/2018,Física,15987.414666666666,30,479622.44
+9,Agência Florianópolis,"Av. Jorn. Rubéns de Arruda Ramos, 1280 - Centro, Florianópolis - SC, 88015-700",Florianópolis,Santa Catarina,09/10/2019,Física,21164.48766666667,30,634934.63
+10,Agência Recife,"Av. Conselheiro Aguiar, 4432 - Boa Viagem, Recife - PE, 51021-020",Recife,Pernambuco,09/10/2021,Física,22585.202000000005,5,112926.01

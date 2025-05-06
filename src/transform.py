@@ -130,24 +130,37 @@ def processar_nome_completo(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def calcular_idade(df: pd.DataFrame, col_data: str) -> pd.DataFrame:
-    """Calcula idade a partir de data de nascimento"""
+    """Calcula idade a partir de data de nascimento no formato DD/MM/YYYY"""
     if col_data in df.columns:
-        df['idade'] = ((pd.to_datetime('today') - 
-                       pd.to_datetime(df[col_data], errors='coerce')).dt.days // 365)
-        df.drop(columns=[col_data], inplace=True)
+        # Converte a coluna diretamente para datetime (sem criar nova coluna)
+        df[col_data] = pd.to_datetime(
+            df[col_data], 
+            format='%d/%m/%Y',  # Força o formato brasileiro
+            errors='coerce'      # Converte erros em NaT
+        )
+        
+        # Calcular idade (dias // 365)
+        df['idade'] = ((pd.to_datetime('today') - df[col_data]).dt.days // 365)
+
+        # Converte para inteiro
+        df['idade'] = df['idade'].astype('Int64')
+
     return df
 
 # Chamadas para usar as funções de acesso
 def transformar_clientes(clientes: pd.DataFrame) -> pd.DataFrame:
     """Pipeline de transformação para clientes"""
+    # Aplicando mapeamento do dicionário
     clientes['uf'] = clientes['endereco'].apply(extrair_uf)
-    clientes = aplicar_mapeamento(clientes, 'uf', get_uf_map)  # Agora passando a função
+    clientes = aplicar_mapeamento(clientes, 'uf', get_uf_map)
     clientes = aplicar_mapeamento(clientes, 'tipo_cliente', get_tipo_cliente_map)
+
+    # Aplicando ajuste do nome completo
     clientes = processar_nome_completo(clientes)
     
-    # Datas e tempo como cliente
+    # Tempo como cliente desde sua data de inclusão
     clientes['data_inclusao'] = pd.to_datetime(clientes['data_inclusao'], errors='coerce').dt.tz_localize(None)
-    clientes['tempo_como_cliente'] = (pd.Timestamp.now().tz_localize(None) - clientes['data_inclusao']).dt.days / 30
+    clientes['tempo_como_cliente_meses'] = ((pd.Timestamp.now().tz_localize(None) - clientes['data_inclusao']).dt.days / 30).round().astype(int) # Por Mês
     
     # Idade
     clientes = calcular_idade(clientes, 'data_nascimento')
@@ -156,51 +169,141 @@ def transformar_clientes(clientes: pd.DataFrame) -> pd.DataFrame:
 
 def transformar_agencias(agencias: pd.DataFrame, contas: pd.DataFrame, transacoes: pd.DataFrame) -> pd.DataFrame:
     """Pipeline de transformação para agências"""
+    # Aplicando mapeamento do dicionário com nome do estado
     agencias = aplicar_mapeamento(agencias, 'uf', get_uf_map)
     
     # Merge para cálculos
-    contas_agencias = pd.merge(contas, agencias, on='cod_agencia')
-    transacoes_contas = pd.merge(transacoes, contas, on='num_conta')
-    transacoes_agencias = pd.merge(transacoes_contas, agencias, on='cod_agencia')
+    contas = pd.merge(contas, agencias, on='cod_agencia', how='left')
+    transacoes_contas = pd.merge(transacoes, contas, on='num_conta', how='left')
+    transacoes_agencias = pd.merge(transacoes_contas, agencias, on='cod_agencia', how='left')
     
-    # Métricas
-    agencias['saldo_medio'] = contas_agencias.groupby('nome')['saldo_disponivel'].mean()
-    agencias['num_contas'] = contas_agencias.groupby('nome')['num_conta'].count()
-    agencias['volume_transacoes'] = transacoes_agencias.groupby('nome')['valor_transacao'].sum()
+    # Cálculos agregados
+    agencias['saldo_medio'] = agencias['cod_agencia'].map(
+        contas.groupby('cod_agencia')['saldo_disponivel'].mean())
     
+    agencias['num_contas'] = agencias['cod_agencia'].map(
+        contas.groupby('cod_agencia')['num_conta'].count())
+    
+    agencias['volume_transacoes'] = agencias['cod_agencia'].map(
+        transacoes_agencias.groupby('cod_agencia')['valor_transacao'].sum())
+
     return agencias
 
-def transformar_transacoes(transacoes: pd.DataFrame) -> pd.DataFrame:
+def transformar_contas(contas: pd.DataFrame) -> pd.DataFrame:
+    """Pipeline de transformação para contas"""
+    # Aplicando mapeamento do dicionário com nome do tipo da conta
+    contas = aplicar_mapeamento(contas, 'tipo_conta', get_tipo_conta_map)
+
+    return contas
+
+def transformar_transacoes(transacoes: pd.DataFrame, contas: pd.DataFrame) -> pd.DataFrame:
     """Pipeline de transformação para transações"""
+    # Extraindo a data para cálculo de evolução
     transacoes['data_transacao'] = pd.to_datetime(transacoes['data_transacao'], errors='coerce', utc=True)
     transacoes['mes_ano'] = transacoes['data_transacao'].dt.tz_localize(None).dt.to_period('M').astype(str)
     
-    # Métricas
-    transacoes['total_transacoes_tipo'] = transacoes['nome_transacao'].map(
-        transacoes['nome_transacao'].value_counts())
-    transacoes['valor_medio'] = transacoes['nome_transacao'].map(
-        transacoes.groupby('nome_transacao')['valor_transacao'].mean())
+    # --- Merge com dados das contas ---
+    transacoes_com_saldo  = transacoes.merge(
+        contas[['num_conta', 'saldo_disponivel']],
+        on='num_conta',
+        how='left'
+    )
     
-    evolucao = transacoes.groupby('mes_ano')['valor_transacao'].sum().reset_index()
-    transacoes = transacoes.merge(evolucao, on='mes_ano', how='left', suffixes=('', '_evolucao'))
+    # Calcula a média de transações por conta (normalizado pelo saldo disponível)
+    transacoes['valor_medio_conta'] = transacoes['num_conta'].map(transacoes.groupby('num_conta')['valor_transacao'].mean())
+
+    # Razão entre o valor da transação e o saldo disponível (evita valores absurdos)
+    # Representa o impacto da transação em percentual no saldo disponível da conta
+    # Valores próximos a 1.0 (ou acima) indicam risco de liquidez, pode ser sinal de má gestão ou fraude.
+    transacoes['valor_vs_saldo'] = (transacoes_com_saldo['valor_transacao'].abs() / transacoes_com_saldo['saldo_disponivel'].replace(0, 1e-6))  # Evita divisão por zero
+
+    # Frequência de transações por conta
+    transacoes['freq_transacoes'] = transacoes.groupby('num_conta')['num_conta'].transform('count')
+    
+    # Evolução mensal de transações (Evita que transações anômalas, erros ou fraudes, distorçam a análise)
+    transacoes['valor_transacao'] = transacoes['valor_transacao'].clip(
+        lower=-1e6,  # Limite inferior: -1 milhão
+        upper=1e6    # Limite superior: +1 milhão
+    )
+    transacoes['valor_transacao'] = transacoes['valor_transacao'].clip(lower=-1e6, upper=1e6)
+    evolucao = transacoes.groupby('mes_ano')['valor_transacao'].sum().reset_index()    
+    transacoes = transacoes.merge(evolucao, on='mes_ano', how='left', suffixes=('', '_evolucao')) # Merge com os dataframes transformados 
     
     return transacoes
 
-def transformar_propostas(propostas: pd.DataFrame) -> pd.DataFrame:
+def transformar_propostas(propostas_credito: pd.DataFrame) -> pd.DataFrame:
     """Pipeline de transformação para propostas de crédito"""
-    # Taxa de aprovação
-    taxa_aprovacao = propostas.groupby('cod_colaborador')['status_proposta'].apply(
-        lambda x: (x == 'Aprovada').mean() * 100).reset_index(name='taxa_aprovacao')
     
-    propostas = propostas.merge(taxa_aprovacao, on='cod_colaborador', how='left')
-    propostas['taxa_aprovacao'] = propostas.apply(
-        lambda x: x['taxa_aprovacao'] if x['status_proposta'] == 'Aprovada' else 0, axis=1)
+    # Taxa de aprovação por colaborador
+    taxa_colab = (
+        propostas_credito.groupby('cod_colaborador')['status_proposta']
+        .apply(lambda x: (x == 'Aprovada').sum())  # Soma de aprovadas
+        .reset_index(name='num_aprovadas')
+    )
     
-    # Valor médio por status
-    media_status = propostas.groupby('status_proposta')['valor_proposta'].mean().reset_index(name='media_por_status')
-    propostas = propostas.merge(media_status, on='status_proposta', how='left')
+    total_propostas = (
+        propostas_credito.groupby('cod_colaborador').size()
+        .reset_index(name='total_propostas')
+    )
     
-    return propostas
+    # Merge para taxa dos colaboradres
+    taxa_colab = taxa_colab.merge(total_propostas, on='cod_colaborador')
+    taxa_colab['taxa_aprovacao_colab'] = (taxa_colab['num_aprovadas'] / taxa_colab['total_propostas']) * 100
+    taxa_colab = taxa_colab[['cod_colaborador', 'taxa_aprovacao_colab']]
+
+    # Taxa de aprovação por cliente
+    taxa_cliente = (
+        propostas_credito.groupby('cod_cliente')['status_proposta']
+        .apply(lambda x: (x == 'Aprovada').sum())
+        .reset_index(name='num_aprovadas')
+    )
+
+    total_clientes = (
+        propostas_credito.groupby('cod_cliente').size()
+        .reset_index(name='total_propostas')
+    )
+
+    # Merge para taxa dos clientes
+    taxa_cliente = taxa_cliente.merge(total_clientes, on='cod_cliente')
+    taxa_cliente['taxa_aprovacao_cliente'] = (taxa_cliente['num_aprovadas'] / taxa_cliente['total_propostas']) * 100
+    taxa_cliente = taxa_cliente[['cod_cliente', 'taxa_aprovacao_cliente']]
+
+    # Valor médio da proposta por status e cliente
+    media_status_cliente = (propostas_credito
+                          .groupby(['status_proposta', 'cod_cliente'])['valor_proposta']
+                          .mean()
+                          .reset_index(name='media_status_cliente'))
+    
+    # Contagem de propostas por cliente (frequência)
+    count_cliente = (propostas_credito
+                   .groupby('cod_cliente')
+                   .size()
+                   .reset_index(name='total_propostas_cliente'))
+    
+    # Merge todas as métricas
+    propostas_credito = propostas_credito.merge(taxa_colab, on='cod_colaborador', how='left')
+    propostas_credito = propostas_credito.merge(taxa_cliente, on='cod_cliente', how='left')
+    propostas_credito = propostas_credito.merge(media_status_cliente, 
+                                              on=['status_proposta', 'cod_cliente'], 
+                                              how='left')
+    propostas_credito = propostas_credito.merge(count_cliente, on='cod_cliente', how='left')
+    
+    # Diferença entre valor da proposta e média do cliente - análise de risco
+    propostas_credito['diferenca_media_cliente'] = \
+        propostas_credito['valor_proposta'] - propostas_credito['media_status_cliente']
+    
+     # Zerar taxas para propostas não aprovadas
+    propostas_credito['taxa_aprovacao_colab'] = propostas_credito.apply(
+        lambda x: x['taxa_aprovacao_colab'] if x['status_proposta'] == 'Aprovada' else 0,
+        axis=1
+    )
+    
+    propostas_credito['taxa_aprovacao_cliente'] = propostas_credito.apply(
+        lambda x: x['taxa_aprovacao_cliente'] if x['status_proposta'] == 'Aprovada' else 0,
+        axis=1
+    )
+
+    return propostas_credito
 
 def salvar_dados(tabelas: Dict[str, pd.DataFrame], output_folder: str):
     """Salva todos os DataFrames em arquivos pickle"""
@@ -222,12 +325,14 @@ def main():
     
     # Aplicar transformações
     tabelas['clientes'] = transformar_clientes(tabelas['clientes'])
-    tabelas['agencias'] = transformar_agencias(
-        tabelas['agencias'], tabelas['contas'], tabelas['transacoes'])
-    tabelas['transacoes'] = transformar_transacoes(tabelas['transacoes'])
+    print(tabelas['clientes'].head())
+    tabelas['agencias'] = transformar_agencias(tabelas['agencias'], tabelas['contas'], tabelas['transacoes'])
+    tabelas['contas'] = transformar_contas(tabelas['contas'])
+    tabelas['transacoes'] = transformar_transacoes(tabelas['transacoes'], tabelas['contas'])
+    # print(tabelas['transacoes'].head())
     tabelas['propostas_credito'] = transformar_propostas(tabelas['propostas_credito'])
     tabelas['colaboradores'] = processar_nome_completo(tabelas['colaboradores'])
-    
+
     # Salvar resultados
     salvar_dados(tabelas, output_folder)
     
