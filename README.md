@@ -1,4 +1,3 @@
-```markdown
 # 📊 Pipeline ETL - Desafio Reals Bet
 
 Pipeline de processamento de dados financeiros para análise de agências, clientes e transações.
@@ -128,4 +127,3 @@ print(df_clientes.head())
 
 ## 📄 Licença
 MIT © Guilherme Cavalcanti
-```
